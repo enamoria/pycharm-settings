@@ -1,0 +1,33 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="README" type="Markdown" />
+      <mapping pattern="ipa_toy" type="PLAIN_TEXT" />
+      <mapping pattern="phone_counter" type="PLAIN_TEXT" />
+      <mapping pattern="text_11k" type="PLAIN_TEXT" />
+      <mapping pattern="phone_map" type="PLAIN_TEXT" />
+      <mapping pattern="oov_muon" type="PLAIN_TEXT" />
+      <mapping pattern="VietCompoundWord_from_wikinatory" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="word_with_pronounciation" type="PLAIN_TEXT" />
+      <mapping pattern="word_with_pronounciation_oxford" type="PLAIN_TEXT" />
+      <mapping pattern="cap_xa" type="PLAIN_TEXT" />
+      <mapping pattern="new_vidic" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="all_words_no_duplicated_simplified" type="PLAIN_TEXT" />
+      <mapping pattern="pronounce_mapping" type="PLAIN_TEXT" />
+      <mapping pattern="word_list" type="PLAIN_TEXT" />
+      <mapping pattern="all_words_no_duplicated" type="PLAIN_TEXT" />
+      <mapping pattern="README.md" type="PLAIN_TEXT" />
+      <mapping pattern="ipa_train" type="PLAIN_TEXT" />
+      <mapping pattern="cap_huyen" type="PLAIN_TEXT" />
+      <mapping pattern="VietProperNoun" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="bap" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="dict" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

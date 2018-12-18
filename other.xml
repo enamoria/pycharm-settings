@@ -1,0 +1,31 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/Desktop/workspace/VoiceConversion/GithubRepo/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Desktop/workspace/VoiceConversion/MyConverter/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda2/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="/mnt/705AD0235ACFE446/work/sprocket/venv3/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/Desktop/workspace/VoiceConversion/GithubRepo/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Desktop/workspace/VoiceConversion/MyConverter/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda2/bin/python" value="true" />
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="true" />
+        <entry key="/mnt/705AD0235ACFE446/work/sprocket/venv3/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/Desktop/workspace/VoiceConversion/GithubRepo/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Desktop/workspace/VoiceConversion/MyConverter/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda2/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/bin/python" value="false" />
+        <entry key="/mnt/705AD0235ACFE446/work/sprocket/venv3/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
