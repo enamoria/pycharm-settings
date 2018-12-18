@@ -16,11 +16,11 @@
         <mark key="[" line="44" column="24" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545121102127">
-        <mark key="'" line="343" column="0" />
-        <mark key="[" line="324" column="5" />
-        <mark key="]" line="323" column="31" />
-        <mark key="." line="323" column="31" />
-        <mark key="^" line="323" column="31" />
+        <mark key="'" line="345" column="0" />
+        <mark key="[" line="326" column="5" />
+        <mark key="]" line="325" column="31" />
+        <mark key="." line="325" column="31" />
+        <mark key="^" line="325" column="31" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
@@ -114,7 +114,7 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -152,9 +152,9 @@
         <entry>action Find</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
