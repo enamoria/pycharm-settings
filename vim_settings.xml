@@ -7,13 +7,12 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545207756646">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545208016750">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="34" />
-        <mark key="]" line="66" column="34" />
+        <mark key="[" line="58" column="0" />
         <mark key="m" line="51" column="17" />
-        <mark key="." line="66" column="34" />
-        <mark key="^" line="66" column="35" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1545205188895">
         <mark key="[" line="0" column="0" />
@@ -121,28 +120,46 @@
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiBhdWRpb2RhdGE6CiAgICAgICAgIyBFeHRyYWN0IGZlYXR1cmUKICAgICAgICBmMCwgdCA9IHB3LmRpbyhhdWRpbywgLCBmcmFtZV9wZXJpb2Q9ZnJhbWVfcGVyaW9kLCBmMF9jZWlsPTEwMDAwLjApICAjIHJhdyBwaXRjaCBleHRyYWN0b3IKICAgICAgICBwcmludCgyKQogICAgICAgICMgZjAgPSBwdy5zdG9uZW1hc2soeCwgX2YwLCB0LCBmcykgICMgcGl0Y2ggcmVmaW5lbWVudAogICAgICAgIHByaW50KDMpCiAgICAgICAgc3AgPSBwdy5jaGVhcHRyaWNrKHgsIGYwLCB0LCBmcywgZmZ0X3NpemU9ZmZ0X3NpemUpICAjIGV4dHJhY3Qgc21vb3RoZWQgc3BlY3Ryb2dyYW0KICAgICAgICBwcmludCg0KQogICAgICAgIGFwID0gcHcuZDRjKHgsIGYwLCB0LCBmcyxsIGZmdF9zaXplPWZmdF9zaXplKSAgIyBleHRyYWN0IAogICAgICAgIHByaW50KDUpCiAgICAgICAgeSA9IHB3LnN5bnRoZXNpemUoZjAsIHNwLCBhcCwgZnMsIGZyYW1lX3BlcmlvZD1mcmFtZV9wZXJpb2QpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>aperiodicity</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmcm9tXD4=</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9zLnN5c3RlbSgibWtkaXIgaS1wIGRhdGEvdmMvZXhlbV9kaWN0IikK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBtb2RlbCwgb3B0aW1pemVyID0gbG9hZF9tb2RlbCgpCiAgICBsb3NzID0gbm4uTDFMb3NzKHJlZHVjZT1GYWxzZSkKCiAgICBwcmludChtb2RlbCkKICAgIHByaW50KG9wdGltaXplcikKCiAgICBkYXRhX3RyYWluLCBkYXRhX3Rlc3QgPSBpb19yZWFkX2RhdGEoYXJnc1snU3BlYWtlckEnXSArICcyJyArIGFyZ3NbJ1NwZWFrZXJCJ10gKyAnX21mY2NfMjVtc18xMG1zLnBrbCcsICdwa2wnKQogICAgbW9kZWwuZXZhbCgpCgogICAgd2l0aCB0b3JjaC5ub19ncmFkKCk6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGRhdGFfdGVzdCkpOgogICAgICAgICAgICB0ZW1wX3ggPSB0b3JjaC50ZW5zb3IoZGF0YV90ZXN0W2ldWzBdKS5mbG9hdCgpCiAgICAgICAgICAgIHRlbXBfeSA9IHRvcmNoLnRlbnNvcihkYXRhX3Rlc3RbaV1bMV0pLmZsb2F0KCkKCiAgICAgICAgICAgIGhfc3RhdGUgPSBtb2RlbC5oaWRkZW5faW5pdCh0ZW1wX3gpCgogICAgICAgICAgICBwcmVkaWN0aW9uLCBoX3N0YXRlID0gbW9kZWwodG9yY2gudGVuc29yKGRhdGFfdGVzdFtpXVswXSkuZmxvYXQoKSwgaF9zdGF0ZSkKCiAgICAgICAgICAgICMgcHJpbnQocHJlZGljdGlvbls6NV0pCiAgICAgICAgICAgIHByaW50KCI9PT0iKQoKICAgICAgICAgICAgbCA9IGxvc3MocHJlZGljdGlvbiwgdGVtcF95LmZsb2F0KCkudmlldyhsZW4odGVtcF95KSwgaW50KGFyZ3NbJ2JhdGNoX3NpemUnXSksIC0xKSkKICAgICAgICAgICAgcHJpbnQobFs6NV0pCiAgICAgICAgICAgICMgcHJpbnQodGVtcF95LmZsb2F0KCkudmlldyhsZW4odGVtcF95KSwgaW50KGFyZ3NbJ2JhdGNoX3NpemUnXSksIC0xKVs6NV0p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiBhdWRpb2RhdGE6CiAgICAgICAgIyBFeHRyYWN0IGZlYXR1cmUKICAgICAgICBmMCwgdCA9IHB3LmRpbyhhdWRpbywgLCBmcmFtZV9wZXJpb2Q9ZnJhbWVfcGVyaW9kLCBmMF9jZWlsPTEwMDAwLjApICAjIHJhdyBwaXRjaCBleHRyYWN0b3IKICAgICAgICBwcmludCgyKQogICAgICAgICMgZjAgPSBwdy5zdG9uZW1hc2soeCwgX2YwLCB0LCBmcykgICMgcGl0Y2ggcmVmaW5lbWVudAogICAgICAgIHByaW50KDMpCiAgICAgICAgc3AgPSBwdy5jaGVhcHRyaWNrKHgsIGYwLCB0LCBmcywgZmZ0X3NpemU9ZmZ0X3NpemUpICAjIGV4dHJhY3Qgc21vb3RoZWQgc3BlY3Ryb2dyYW0KICAgICAgICBwcmludCg0KQogICAgICAgIGFwID0gcHcuZDRjKHgsIGYwLCB0LCBmcyxsIGZmdF9zaXplPWZmdF9zaXplKSAgIyBleHRyYWN0IAogICAgICAgIHByaW50KDUpCiAgICAgICAgeSA9IHB3LnN5bnRoZXNpemUoZjAsIHNwLCBhcCwgZnMsIGZyYW1lX3BlcmlvZD1mcmFtZV9wZXJpb2QpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>fft_size</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHIobWF4XyArIDEpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgUmVhZCBhdWRpbyB0aW1lLXNlcmllcyBmcm9tIG5weQogICAgc3BlYWtlckFkYXRhID0gaW9fcmVhZF9zcGVha2VyX2RhdGEoZGF0YV9wYXRoLCBzcGVha2VyQSwgc2F2ZXR5cGU9J25weScpCiAgICBzcGVha2VyQmRhdGEgPSBpb19yZWFkX3NwZWFrZXJfZGF0YShkYXRhX3BhdGgsIHNwZWFrZXJCLCBzYXZldHlwZT0nbnB5JykK</text>
+        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiBhdWRpb2RhdGE6CiAgICAgICAgIyBFeHRyYWN0IGZlYXR1cmUKICAgICAgICBmMCwgdCA9IHB3LmRpbyhhdWRpbywgLCBmcmFtZV9wZXJpb2Q9ZnJhbWVfcGVyaW9kLCBmMF9jZWlsPTEwMDAwLjApICAjIHJhdyBwaXRjaCBleHRyYWN0b3IKICAgICAgICBwcmludCgyKQogICAgICAgICMgZjAgPSBwdy5zdG9uZW1hc2soeCwgX2YwLCB0LCBmcykgICMgcGl0Y2ggcmVmaW5lbWVudAogICAgICAgIHByaW50KDMpCiAgICAgICAgc3AgPSBwdy5jaGVhcHRyaWNrKHgsIGYwLCB0LCBmcywgZmZ0X3NpemU9ZmZ0X3NpemUpICAjIGV4dHJhY3Qgc21vb3RoZWQgc3BlY3Ryb2dyYW0KICAgICAgICBwcmludCg0KQogICAgICAgIGFwID0gcHcuZDRjKHgsIGYwLCB0LCBmcyxsIGZmdF9zaXplPWZmdF9zaXplKSAgIyBleHRyYWN0IGFwZXJpb2RpY2l0eQogICAgICAgIHByaW50KDUpCiAgICAgICAgeSA9IHB3LnN5bnRoZXNpemUoZjAsIHNwLCBhcCwgZnMsIGZyYW1lX3BlcmlvZD1mcmFtZV9wZXJpb2QpCg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICBtb2RlbCwgb3B0aW1pemVyID0gbG9hZF9tb2RlbCgpCiAgICBsb3NzID0gbm4uTDFMb3NzKHJlZHVjZT1GYWxzZSkKCiAgICBwcmludChtb2RlbCkKICAgIHByaW50KG9wdGltaXplcikKCiAgICBkYXRhX3RyYWluLCBkYXRhX3Rlc3QgPSBpb19yZWFkX2RhdGEoYXJnc1snU3BlYWtlckEnXSArICcyJyArIGFyZ3NbJ1NwZWFrZXJCJ10gKyAnX21mY2NfMjVtc18xMG1zLnBrbCcsICdwa2wnKQogICAgbW9kZWwuZXZhbCgpCgogICAgd2l0aCB0b3JjaC5ub19ncmFkKCk6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGRhdGFfdGVzdCkpOgogICAgICAgICAgICB0ZW1wX3ggPSB0b3JjaC50ZW5zb3IoZGF0YV90ZXN0W2ldWzBdKS5mbG9hdCgpCiAgICAgICAgICAgIHRlbXBfeSA9IHRvcmNoLnRlbnNvcihkYXRhX3Rlc3RbaV1bMV0pLmZsb2F0KCkKCiAgICAgICAgICAgIGhfc3RhdGUgPSBtb2RlbC5oaWRkZW5faW5pdCh0ZW1wX3gpCgogICAgICAgICAgICBwcmVkaWN0aW9uLCBoX3N0YXRlID0gbW9kZWwodG9yY2gudGVuc29yKGRhdGFfdGVzdFtpXVswXSkuZmxvYXQoKSwgaF9zdGF0ZSkKCiAgICAgICAgICAgICMgcHJpbnQocHJlZGljdGlvbls6NV0pCiAgICAgICAgICAgIHByaW50KCI9PT0iKQoKICAgICAgICAgICAgbCA9IGxvc3MocHJlZGljdGlvbiwgdGVtcF95LmZsb2F0KCkudmlldyhsZW4odGVtcF95KSwgaW50KGFyZ3NbJ2JhdGNoX3NpemUnXSksIC0xKSkKICAgICAgICAgICAgcHJpbnQobFs6NV0pCiAgICAgICAgICAgICMgcHJpbnQodGVtcF95LmZsb2F0KCkudmlldyhsZW4odGVtcF95KSwgaW50KGFyZ3NbJ2JhdGNoX3NpemUnXSksIC0xKVs6NV0p</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBzdHIobWF4XyArIDEpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgUmVhZCBhdWRpbyB0aW1lLXNlcmllcyBmcm9tIG5weQogICAgc3BlYWtlckFkYXRhID0gaW9fcmVhZF9zcGVha2VyX2RhdGEoZGF0YV9wYXRoLCBzcGVha2VyQSwgc2F2ZXR5cGU9J25weScpCiAgICBzcGVha2VyQmRhdGEgPSBpb19yZWFkX3NwZWFrZXJfZGF0YShkYXRhX3BhdGgsIHNwZWFrZXJCLCBzYXZldHlwZT0nbnB5JykK</text>
+      </register>
+      <register name="9" type="4">
         <text>s
 - [ ] Jupiter
 - [ ] Saturn
@@ -152,12 +169,6 @@
       </register>
       <register name=":" type="4">
         <text>action EditorLineEnd</text>
-      </register>
-      <register name="-" type="4">
-        <text>fft_size</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
     </registers>
     <search>
@@ -189,12 +200,12 @@
         <entry>action EditorPageDown</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
+        <entry>action EditorDown</entry>
+        <entry>action EditorLineStart</entry>
         <entry>action EditorLineEnd</entry>
       </history-cmd>
       <history-expr />
