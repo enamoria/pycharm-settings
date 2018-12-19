@@ -7,12 +7,12 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545206832302">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545207090163">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="10" />
-        <mark key="]" line="47" column="10" />
+        <mark key="[" line="58" column="1" />
+        <mark key="]" line="58" column="7" />
         <mark key="m" line="51" column="17" />
-        <mark key="." line="47" column="10" />
+        <mark key="." line="58" column="7" />
         <mark key="^" line="58" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1545205188895">
@@ -116,6 +116,8 @@
       <jump line="53" column="48" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" />
       <jump line="328" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="51" column="14" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
+      <jump line="26" column="21" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
+      <jump line="99" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
     </jumps>
     <registers>
@@ -124,6 +126,9 @@
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICBtb2RlbCwgb3B0aW1pemVyID0gbG9hZF9tb2RlbCgpCiAgICBsb3NzID0gbm4uTDFMb3NzKHJlZHVjZT1GYWxzZSkKCiAgICBwcmludChtb2RlbCkKICAgIHByaW50KG9wdGltaXplcikKCiAgICBkYXRhX3RyYWluLCBkYXRhX3Rlc3QgPSBpb19yZWFkX2RhdGEoYXJnc1snU3BlYWtlckEnXSArICcyJyArIGFyZ3NbJ1NwZWFrZXJCJ10gKyAnX21mY2NfMjVtc18xMG1zLnBrbCcsICdwa2wnKQogICAgbW9kZWwuZXZhbCgpCgogICAgd2l0aCB0b3JjaC5ub19ncmFkKCk6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGRhdGFfdGVzdCkpOgogICAgICAgICAgICB0ZW1wX3ggPSB0b3JjaC50ZW5zb3IoZGF0YV90ZXN0W2ldWzBdKS5mbG9hdCgpCiAgICAgICAgICAgIHRlbXBfeSA9IHRvcmNoLnRlbnNvcihkYXRhX3Rlc3RbaV1bMV0pLmZsb2F0KCkKCiAgICAgICAgICAgIGhfc3RhdGUgPSBtb2RlbC5oaWRkZW5faW5pdCh0ZW1wX3gpCgogICAgICAgICAgICBwcmVkaWN0aW9uLCBoX3N0YXRlID0gbW9kZWwodG9yY2gudGVuc29yKGRhdGFfdGVzdFtpXVswXSkuZmxvYXQoKSwgaF9zdGF0ZSkKCiAgICAgICAgICAgICMgcHJpbnQocHJlZGljdGlvbls6NV0pCiAgICAgICAgICAgIHByaW50KCI9PT0iKQoKICAgICAgICAgICAgbCA9IGxvc3MocHJlZGljdGlvbiwgdGVtcF95LmZsb2F0KCkudmlldyhsZW4odGVtcF95KSwgaW50KGFyZ3NbJ2JhdGNoX3NpemUnXSksIC0xKSkKICAgICAgICAgICAgcHJpbnQobFs6NV0pCiAgICAgICAgICAgICMgcHJpbnQodGVtcF95LmZsb2F0KCkudmlldyhsZW4odGVtcF95KSwgaW50KGFyZ3NbJ2JhdGNoX3NpemUnXSksIC0xKVs6NV0p</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="&quot;" type="4">
         <text>s</text>
@@ -146,7 +151,7 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDown</text>
+        <text>action EditorUp</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -189,8 +194,8 @@
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineEnd</entry>
         <entry>action EditorLineStart</entry>
-        <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
+        <entry>action EditorUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
