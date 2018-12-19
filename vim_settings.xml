@@ -3,8 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" timestamp="1545189927022">
-        <mark key="'" line="191" column="54" />
+      <file name="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" timestamp="1545203353284">
+        <mark key="'" line="193" column="54" />
+        <mark key="[" line="12" column="20" />
       </file>
       <file name="/Python Console" timestamp="1545187806736">
         <mark key="[" line="0" column="0" />
@@ -34,8 +35,12 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545194378983">
-        <mark key="'" line="49" column="31" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545203691800">
+        <mark key="'" line="53" column="48" />
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="51" column="42" />
+        <mark key="^" line="51" column="42" />
+        <mark key="." line="51" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -96,6 +101,8 @@
       <jump line="337" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="191" column="54" filename="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" />
       <jump line="46" column="31" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" />
+      <jump line="49" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" />
+      <jump line="53" column="48" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -105,7 +112,7 @@
         <text encoding="base64">ICAgIHJldHVybiBzdHIobWF4XyArIDEpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>export</text>
+        <text>4</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
@@ -122,10 +129,10 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorPageUp</text>
       </register>
       <register name="-" type="4">
-        <text>export</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>system</text>
@@ -160,12 +167,12 @@
         <entry>action MethodUp</entry>
         <entry>action EditorPageUpWithSelection</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorPageUp</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorPageUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
