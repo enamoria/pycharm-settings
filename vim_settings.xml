@@ -39,11 +39,12 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545215118361">
-        <mark key="[" line="190" column="24" />
-        <mark key="]" line="92" column="24" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545216206091">
+        <mark key="c" line="99" column="36" />
+        <mark key="[" line="99" column="28" />
+        <mark key="]" line="99" column="34" />
         <mark key="^" line="92" column="24" />
-        <mark key="." line="92" column="24" />
+        <mark key="." line="99" column="28" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
@@ -133,10 +134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_A(</text>
+        <text>exemplars,</text>
       </register>
       <register name="-" type="4">
-        <text>get_A(</text>
+        <text>exemplars,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -175,7 +176,7 @@
         <text encoding="base64">ICAgICMgUmVhZCBhdWRpbyB0aW1lLXNlcmllcyBmcm9tIG5weQogICAgc3BlYWtlckFkYXRhID0gaW9fcmVhZF9zcGVha2VyX2RhdGEoZGF0YV9wYXRoLCBzcGVha2VyQSwgc2F2ZXR5cGU9J25weScpCiAgICBzcGVha2VyQmRhdGEgPSBpb19yZWFkX3NwZWFrZXJfZGF0YShkYXRhX3BhdGgsIHNwZWFrZXJCLCBzYXZldHlwZT0nbnB5JykK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorPageDown</text>
       </register>
     </registers>
     <search>
@@ -207,13 +208,13 @@
         <entry>action EditorLineEnd</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorLineStart</entry>
-        <entry>action EditorPageDown</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
