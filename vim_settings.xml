@@ -7,13 +7,13 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545207090163">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545207756646">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="1" />
-        <mark key="]" line="58" column="7" />
+        <mark key="[" line="66" column="34" />
+        <mark key="]" line="66" column="34" />
         <mark key="m" line="51" column="17" />
-        <mark key="." line="58" column="7" />
-        <mark key="^" line="58" column="7" />
+        <mark key="." line="66" column="34" />
+        <mark key="^" line="66" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1545205188895">
         <mark key="[" line="0" column="0" />
@@ -131,7 +131,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>fft_size</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJldHVybiBzdHIobWF4XyArIDEpCg==</text>
@@ -151,10 +151,10 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUp</text>
+        <text>action EditorLineEnd</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>fft_size</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -188,14 +188,14 @@
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorLineEnd</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
+        <entry>action EditorLineEnd</entry>
       </history-cmd>
       <history-expr />
       <history-input />
