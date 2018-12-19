@@ -3,13 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1545119077477">
+      <file name="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" timestamp="1545188435003">
+        <mark key="'" line="191" column="54" />
+      </file>
+      <file name="/Python Console" timestamp="1545187806736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1545119028096">
+      <file name="/fragment.py" timestamp="1545187624545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1545120354240">
@@ -31,11 +34,8 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545186671069">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="5" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545189328752">
+        <mark key="^" line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -94,6 +94,7 @@
       <jump line="90" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="337" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
+      <jump line="191" column="54" filename="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -103,7 +104,7 @@
         <text encoding="base64">ICAgIHJldHVybiBzdHIobWF4XyArIDEpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>from</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
@@ -120,10 +121,10 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text>system</text>
@@ -144,7 +145,6 @@
         <entry>system</entry>
       </history-search>
       <history-cmd>
-        <entry>action $SelectAll</entry>
         <entry>action GotoDeclaration</entry>
         <entry>action EditorScrollToCenter</entry>
         <entry>action ImplementMethods</entry>
@@ -153,14 +153,18 @@
         <entry>action EditorCodeBlockStart</entry>
         <entry>action EditorEscape</entry>
         <entry>action EditorDeleteLine</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action Find</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorPageUpWithSelection</entry>
+        <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorPageUp</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorPageDown</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
