@@ -7,12 +7,13 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545208016750">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545209161100">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="m" line="51" column="17" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="86" column="11" />
+        <mark key="m" line="60" column="17" />
+        <mark key="]" line="86" column="11" />
+        <mark key="." line="86" column="11" />
+        <mark key="^" line="86" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1545205188895">
         <mark key="[" line="0" column="0" />
@@ -26,15 +27,22 @@
       <file name="/fragment.py" timestamp="1545205114493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1545120354240">
-        <mark key="[" line="44" column="24" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1545208681259">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545205703556">
-        <mark key="'" line="328" column="4" />
-        <mark key="[" line="328" column="4" />
-        <mark key="]" line="325" column="31" />
-        <mark key="." line="325" column="31" />
-        <mark key="^" line="325" column="31" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1545208702669">
+        <mark key="[" line="78" column="42" />
+        <mark key="]" line="78" column="42" />
+        <mark key="." line="78" column="42" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545209133410">
+        <mark key="'" line="87" column="20" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="305" column="31" />
+        <mark key="." line="305" column="31" />
+        <mark key="^" line="305" column="31" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
@@ -118,13 +126,15 @@
       <jump line="26" column="21" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
       <jump line="99" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
+      <jump line="308" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
+      <jump line="87" column="20" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiBhdWRpb2RhdGE6CiAgICAgICAgIyBFeHRyYWN0IGZlYXR1cmUKICAgICAgICBmMCwgdCA9IHB3LmRpbyhhdWRpbywgLCBmcmFtZV9wZXJpb2Q9ZnJhbWVfcGVyaW9kLCBmMF9jZWlsPTEwMDAwLjApICAjIHJhdyBwaXRjaCBleHRyYWN0b3IKICAgICAgICBwcmludCgyKQogICAgICAgICMgZjAgPSBwdy5zdG9uZW1hc2soeCwgX2YwLCB0LCBmcykgICMgcGl0Y2ggcmVmaW5lbWVudAogICAgICAgIHByaW50KDMpCiAgICAgICAgc3AgPSBwdy5jaGVhcHRyaWNrKHgsIGYwLCB0LCBmcywgZmZ0X3NpemU9ZmZ0X3NpemUpICAjIGV4dHJhY3Qgc21vb3RoZWQgc3BlY3Ryb2dyYW0KICAgICAgICBwcmludCg0KQogICAgICAgIGFwID0gcHcuZDRjKHgsIGYwLCB0LCBmcyxsIGZmdF9zaXplPWZmdF9zaXplKSAgIyBleHRyYWN0IAogICAgICAgIHByaW50KDUpCiAgICAgICAgeSA9IHB3LnN5bnRoZXNpemUoZjAsIHNwLCBhcCwgZnMsIGZyYW1lX3BlcmlvZD1mcmFtZV9wZXJpb2QpCg==</text>
+      <register name="&quot;" type="4">
+        <text>f0</text>
       </register>
       <register name="-" type="4">
-        <text>aperiodicity</text>
+        <text>f0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -168,7 +178,7 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLineEnd</text>
+        <text>action EditorPageDown</text>
       </register>
     </registers>
     <search>
@@ -197,16 +207,16 @@
         <entry>action MethodUp</entry>
         <entry>action EditorPageUpWithSelection</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorPageDown</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUp</entry>
-        <entry>action EditorDown</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorLineEnd</entry>
+        <entry>action EditorDown</entry>
+        <entry>action EditorUp</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLineStart</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -250,6 +260,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
