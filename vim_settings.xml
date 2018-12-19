@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" timestamp="1545185013389" />
       <file name="/Python Console" timestamp="1545119077477">
         <mark key="[" line="0" column="0" />
       </file>
@@ -32,11 +31,11 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545185739368">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="15" column="24" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545186185471">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
