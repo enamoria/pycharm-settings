@@ -146,7 +146,7 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -171,7 +171,6 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoDeclaration</entry>
         <entry>action EditorScrollToCenter</entry>
         <entry>action ImplementMethods</entry>
         <entry>action GotoLine</entry>
@@ -191,6 +190,7 @@
         <entry>action EditorPageUp</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
