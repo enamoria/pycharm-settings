@@ -7,7 +7,7 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545206322807">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545206832302">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="47" column="10" />
         <mark key="]" line="47" column="10" />
@@ -171,7 +171,6 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorScrollToCenter</entry>
         <entry>action ImplementMethods</entry>
         <entry>action GotoLine</entry>
         <entry>action EditorCodeBlockEnd</entry>
@@ -190,6 +189,7 @@
         <entry>action EditorPageUp</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorLineEnd</entry>
         <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
