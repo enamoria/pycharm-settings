@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" timestamp="1545188435003">
+      <file name="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" timestamp="1545189927022">
         <mark key="'" line="191" column="54" />
       </file>
       <file name="/Python Console" timestamp="1545187806736">
@@ -34,8 +34,11 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545189328752">
-        <mark key="^" line="13" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545190965751">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="46" column="47" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="46" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -104,7 +107,7 @@
         <text encoding="base64">ICAgIHJldHVybiBzdHIobWF4XyArIDEpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text>1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
@@ -121,10 +124,10 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorRightWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>system</text>
@@ -161,10 +164,10 @@
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
