@@ -34,11 +34,11 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545190965751">
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="46" column="47" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="46" column="47" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545192028995">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -107,7 +107,7 @@
         <text encoding="base64">ICAgIHJldHVybiBzdHIobWF4XyArIDEpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>export</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
@@ -124,10 +124,10 @@
 - [ ] Comet Haley</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>export</text>
       </register>
       <register name="/" type="4">
         <text>system</text>
@@ -163,11 +163,11 @@
         <entry>action EditorPageUpWithSelection</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorPageUp</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorPageUp</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
