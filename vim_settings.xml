@@ -39,12 +39,12 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545292739761">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545294846929">
         <mark key="c" line="128" column="36" />
-        <mark key="[" line="184" column="8" />
-        <mark key="]" line="184" column="10" />
-        <mark key="^" line="149" column="74" />
-        <mark key="." line="184" column="9" />
+        <mark key="[" line="185" column="11" />
+        <mark key="]" line="185" column="11" />
+        <mark key="^" line="185" column="11" />
+        <mark key="." line="185" column="11" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
@@ -134,10 +134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>dtw</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>dtw</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -176,7 +176,7 @@
         <text encoding="base64">ICAgICMgUmVhZCBhdWRpbyB0aW1lLXNlcmllcyBmcm9tIG5weQogICAgc3BlYWtlckFkYXRhID0gaW9fcmVhZF9zcGVha2VyX2RhdGEoZGF0YV9wYXRoLCBzcGVha2VyQSwgc2F2ZXR5cGU9J25weScpCiAgICBzcGVha2VyQmRhdGEgPSBpb19yZWFkX3NwZWFrZXJfZGF0YShkYXRhX3BhdGgsIHNwZWFrZXJCLCBzYXZldHlwZT0nbnB5JykK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
@@ -209,12 +209,12 @@
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLineStart</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -261,6 +261,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
