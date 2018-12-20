@@ -7,9 +7,9 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545214689174">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545269146229">
         <mark key="'" line="136" column="0" />
-        <mark key="[" line="145" column="15" />
+        <mark key="[" line="76" column="19" />
         <mark key="m" line="63" column="17" />
         <mark key="]" line="145" column="15" />
         <mark key="." line="145" column="15" />
@@ -18,7 +18,7 @@
       <file name="/Dummy.txt" timestamp="1545205188895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545215270591">
+      <file name="/Python Console" timestamp="1545269192000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
@@ -176,7 +176,7 @@
         <text encoding="base64">ICAgICMgUmVhZCBhdWRpbyB0aW1lLXNlcmllcyBmcm9tIG5weQogICAgc3BlYWtlckFkYXRhID0gaW9fcmVhZF9zcGVha2VyX2RhdGEoZGF0YV9wYXRoLCBzcGVha2VyQSwgc2F2ZXR5cGU9J25weScpCiAgICBzcGVha2VyQmRhdGEgPSBpb19yZWFkX3NwZWFrZXJfZGF0YShkYXRhX3BhdGgsIHNwZWFrZXJCLCBzYXZldHlwZT0nbnB5JykK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorPageDown</text>
+        <text>action EditorPageUp</text>
       </register>
     </registers>
     <search>
@@ -208,13 +208,13 @@
         <entry>action EditorLineEnd</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
-        <entry>action EditorPageUp</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorPageDown</entry>
+        <entry>action EditorPageUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
