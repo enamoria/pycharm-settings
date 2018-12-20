@@ -7,7 +7,7 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545269146229">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545290714747">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="76" column="19" />
         <mark key="m" line="63" column="17" />
@@ -18,13 +18,13 @@
       <file name="/Dummy.txt" timestamp="1545205188895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545270759787">
+      <file name="/Python Console" timestamp="1545291999938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1545215146791">
+      <file name="/fragment.py" timestamp="1545292084349">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1545215177727">
@@ -39,12 +39,12 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545270252884">
-        <mark key="c" line="102" column="36" />
-        <mark key="[" line="148" column="6" />
-        <mark key="]" line="102" column="34" />
-        <mark key="^" line="95" column="24" />
-        <mark key="." line="102" column="28" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545292104721">
+        <mark key="c" line="128" column="36" />
+        <mark key="[" line="184" column="8" />
+        <mark key="]" line="184" column="10" />
+        <mark key="^" line="149" column="74" />
+        <mark key="." line="184" column="9" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
@@ -134,10 +134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exemplars,</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>exemplars,</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -176,7 +176,7 @@
         <text encoding="base64">ICAgICMgUmVhZCBhdWRpbyB0aW1lLXNlcmllcyBmcm9tIG5weQogICAgc3BlYWtlckFkYXRhID0gaW9fcmVhZF9zcGVha2VyX2RhdGEoZGF0YV9wYXRoLCBzcGVha2VyQSwgc2F2ZXR5cGU9J25weScpCiAgICBzcGVha2VyQmRhdGEgPSBpb19yZWFkX3NwZWFrZXJfZGF0YShkYXRhX3BhdGgsIHNwZWFrZXJCLCBzYXZldHlwZT0nbnB5JykK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -208,13 +208,13 @@
         <entry>action EditorLineEnd</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorUp</entry>
-        <entry>action EditorLineStart</entry>
-        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorPageUp</entry>
+        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorPageUp</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLineStart</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
