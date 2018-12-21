@@ -24,11 +24,12 @@
       <file name="/fragment.py" timestamp="1545292084349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1545211925987">
-        <mark key="[" line="117" column="27" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1545366941537">
+        <mark key="'" line="129" column="79" />
+        <mark key="[" line="138" column="88" />
+        <mark key="]" line="138" column="88" />
+        <mark key="^" line="188" column="22" />
+        <mark key="." line="138" column="88" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
@@ -68,13 +69,13 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545365288446">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545366467613">
         <mark key="'" line="173" column="4" />
-        <mark key="[" line="161" column="11" />
-        <mark key="]" line="161" column="11" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="104" />
         <mark key="m" line="375" column="40" />
-        <mark key="^" line="161" column="16" />
-        <mark key="." line="161" column="11" />
+        <mark key="^" line="74" column="21" />
+        <mark key="." line="74" column="21" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
         <mark key="[" line="1665" column="4" />
@@ -155,49 +156,47 @@
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="313" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="166" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
+      <jump line="129" column="79" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, f</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>, f</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIG11bHRpcHJvY2Vzc2luZyBpbXBvcnQgUG9vbAo=</text>
+      <register name="0" type="4">
+        <text>results</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
+        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzID0gW10K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQogICAgZm9yIGF1ZGlvIGluIHRxZG0oYXVkaW9kYXRhKToKICAgICAgICAjIEV4dHJhY3QgZmVhdHVyZQogICAgICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpbywgZnMpICAjIHJhdyBwaXRjaCBleHRyYWN0b3IK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZlYXR1cmVzID0gW10K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQogICAgZm9yIGF1ZGlvIGluIHRxZG0oYXVkaW9kYXRhKToKICAgICAgICAjIEV4dHJhY3QgZmVhdHVyZQogICAgICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpbywgZnMpICAjIHJhdyBwaXRjaCBleHRyYWN0b3IK</text>
       </register>
-      <register name="8" type="4">
-        <text>logging.info(&quot;Start building speaker A dictionary: Extracting feature for conversion (sp, ap, f0)&quot;)
-    for audio in tqdm(audiodata):
-        # Extract feature
-        _f0, t = pw.dio(audio, fs)  # raw pitch extractor</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQogICAgZm9yIGF1ZGlvIGluIHRxZG0oYXVkaW9kYXRhKToKICAgICAgICAjIEV4dHJhY3QgZmVhdHVyZQogICAgICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpbywgZnMpICAjIHJhdyBwaXRjaCBleHRyYWN0b3IK</text>
       </register>
       <register name="9" type="4">
         <text>logging.info(&quot;Start building speaker A dictionary: Extracting feature for conversion (sp, ap, f0)&quot;)
@@ -206,7 +205,7 @@
         _f0, t = pw.dio(audio, fs)  # raw pitch extractor</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -230,11 +229,9 @@
         <entry>action EditorDeleteLine</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action EditorPageUpWithSelection</entry>
-        <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
         <entry>action Find</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action Replace</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
@@ -242,9 +239,11 @@
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorLineStart</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorPageDownWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
