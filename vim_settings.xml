@@ -62,13 +62,13 @@
         <mark key="^" line="193" column="11" />
         <mark key="." line="193" column="11" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545362969142">
-        <mark key="'" line="172" column="4" />
-        <mark key="[" line="89" column="56" />
-        <mark key="]" line="166" column="23" />
-        <mark key="m" line="374" column="40" />
-        <mark key="^" line="166" column="23" />
-        <mark key="." line="166" column="23" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545363755862">
+        <mark key="'" line="173" column="4" />
+        <mark key="[" line="161" column="11" />
+        <mark key="]" line="161" column="11" />
+        <mark key="m" line="375" column="40" />
+        <mark key="^" line="161" column="16" />
+        <mark key="." line="161" column="11" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
         <mark key="[" line="1665" column="4" />
@@ -152,10 +152,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cpu_count(</text>
+        <text>, f</text>
       </register>
       <register name="-" type="4">
-        <text>cpu_count(</text>
+        <text>, f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
