@@ -18,7 +18,7 @@
       <file name="/Dummy.txt" timestamp="1545205188895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545291999938">
+      <file name="/Python Console" timestamp="1545362782733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1545292084349">
@@ -62,12 +62,13 @@
         <mark key="^" line="193" column="11" />
         <mark key="." line="193" column="11" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545357512192">
-        <mark key="'" line="321" column="4" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="34" column="32" />
-        <mark key="^" line="367" column="39" />
-        <mark key="." line="34" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545362969142">
+        <mark key="'" line="172" column="4" />
+        <mark key="[" line="89" column="56" />
+        <mark key="]" line="166" column="23" />
+        <mark key="m" line="374" column="40" />
+        <mark key="^" line="166" column="23" />
+        <mark key="." line="166" column="23" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
         <mark key="[" line="1665" column="4" />
@@ -147,13 +148,14 @@
       <jump line="135" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="313" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
+      <jump line="166" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIG11bHRpcHJvY2Vzc2luZyBpbXBvcnQgUG9vbAo=</text>
+      <register name="&quot;" type="4">
+        <text>cpu_count(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text>cpu_count(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -198,7 +200,7 @@
         _f0, t = pw.dio(audio, fs)  # raw pitch extractor</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLineStart</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -221,22 +223,22 @@
         <entry>action EditorEscape</entry>
         <entry>action EditorDeleteLine</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action MethodDown</entry>
         <entry>action EditorPageUpWithSelection</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action Find</entry>
-        <entry>action EditorLineEnd</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action Replace</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
+        <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action EditorDown</entry>
+        <entry>action EditorLineEnd</entry>
         <entry>action EditorUp</entry>
+        <entry>action EditorDown</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
