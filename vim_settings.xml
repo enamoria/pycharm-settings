@@ -41,19 +41,19 @@
         <mark key="^" line="51" column="42" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545357018253">
-        <mark key="[" line="80" column="13" />
-        <mark key="]" line="80" column="12" />
-        <mark key="." line="80" column="12" />
-        <mark key="^" line="69" column="6" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545386062183">
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="125" column="15" />
+        <mark key="^" line="125" column="15" />
+        <mark key="." line="125" column="15" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1545378443464">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="29" column="5" />
-        <mark key="." line="29" column="5" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1545385854145">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
         <mark key="^" line="29" column="5" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545376683456">
@@ -69,13 +69,13 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545379794377">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545387500576">
         <mark key="'" line="174" column="4" />
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="10" />
-        <mark key="m" line="395" column="40" />
+        <mark key="[" line="130" column="22" />
+        <mark key="]" line="130" column="22" />
+        <mark key="m" line="396" column="40" />
         <mark key="^" line="34" column="10" />
-        <mark key="." line="34" column="10" />
+        <mark key="." line="130" column="22" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
         <mark key="[" line="1665" column="4" />
@@ -160,19 +160,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>results</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>results</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>results</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBUaGlzIHdpbGwgdXNlIG11bHRpcHJvY2Vzcy5Qb29sIHRvIHBhcmFsbGVsIGNhbGwgX2V4dHJhY3RfZmVhdHVyZXMK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBOb3RlOiB0aGlzIGlzIGZpbGUtYmFzZWQgaW1wbGVtZW50YXRpb24gZm9yIG11bHRpcHJvY2Vzc2luZy4gRGlmZmVyZW50IGZyb20gbm9uLXBhcmFsbGVsIHZlcnNpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -180,29 +180,29 @@
       <register name="2" type="4">
         <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzID0gW10K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQogICAgZm9yIGF1ZGlvIGluIHRxZG0oYXVkaW9kYXRhKToKICAgICAgICAjIEV4dHJhY3QgZmVhdHVyZQogICAgICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpbywgZnMpICAjIHJhdyBwaXRjaCBleHRyYWN0b3IK</text>
-      </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZlYXR1cmVzID0gW10K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQogICAgZm9yIGF1ZGlvIGluIHRxZG0oYXVkaW9kYXRhKToKICAgICAgICAjIEV4dHJhY3QgZmVhdHVyZQogICAgICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpbywgZnMpICAjIHJhdyBwaXRjaCBleHRyYWN0b3IK</text>
+      </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
@@ -221,12 +221,10 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorCodeBlockStart</entry>
         <entry>action EditorEscape</entry>
         <entry>action EditorDeleteLine</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action EditorPageUpWithSelection</entry>
-        <entry>action EditorPageUp</entry>
         <entry>action Find</entry>
         <entry>action Replace</entry>
         <entry>action MethodDown</entry>
@@ -235,12 +233,14 @@
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
+        <entry>action ImplementMethods</entry>
         <entry>action EditorPageDown</entry>
+        <entry>action EditorPageUp</entry>
+        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
