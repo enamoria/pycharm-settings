@@ -21,17 +21,8 @@
       <file name="/Python Console" timestamp="1545291999938">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1545292084349">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1545215177727">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="5" />
-        <mark key="." line="29" column="5" />
-        <mark key="^" line="29" column="5" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1545211925987">
         <mark key="[" line="117" column="27" />
@@ -39,21 +30,8 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545300943737">
-        <mark key="c" line="128" column="36" />
-        <mark key="[" line="193" column="11" />
-        <mark key="]" line="193" column="11" />
-        <mark key="^" line="193" column="11" />
-        <mark key="." line="193" column="11" />
-      </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
-        <mark key="[" line="1665" column="4" />
-        <mark key="]" line="1663" column="0" />
-        <mark key="^" line="1663" column="0" />
-        <mark key="." line="1663" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545205443477">
         <mark key="'" line="53" column="48" />
@@ -61,6 +39,41 @@
         <mark key="]" line="17" column="36" />
         <mark key="^" line="51" column="42" />
         <mark key="." line="17" column="36" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545357018253">
+        <mark key="[" line="80" column="13" />
+        <mark key="]" line="80" column="12" />
+        <mark key="." line="80" column="12" />
+        <mark key="^" line="69" column="6" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1545215177727">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+        <mark key="^" line="29" column="5" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545355863088">
+        <mark key="c" line="128" column="36" />
+        <mark key="[" line="193" column="11" />
+        <mark key="]" line="193" column="11" />
+        <mark key="^" line="193" column="11" />
+        <mark key="." line="193" column="11" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545357512192">
+        <mark key="'" line="321" column="4" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="367" column="39" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
+        <mark key="[" line="1665" column="4" />
+        <mark key="]" line="1663" column="0" />
+        <mark key="^" line="1663" column="0" />
+        <mark key="." line="1663" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -131,52 +144,61 @@
       <jump line="308" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="87" column="20" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="118" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
+      <jump line="135" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
+      <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
+      <jump line="313" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dtw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIG11bHRpcHJvY2Vzc2luZyBpbXBvcnQgUG9vbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>dtw</text>
+        <text encoding="base64">Pj4+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9zLnN5c3RlbSgibWtkaXIgaS1wIGRhdGEvdmMvZXhlbV9kaWN0IikK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG11bHRpcHJvY2Vzc2luZyBpbXBvcnQgUG9vbAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZGVmIGlvX3NhdmVfdG9fZGlzayhkYXRhcGF0aCwgc3BlYWtlcj0nU0YxJywgc2F2ZXR5cGU9J25weScpOgogICAgIiIiCiAgICB0aGlzIGZ1bmN0aW9uIHdpbGwgc2F2ZSBhbGwgYXZhaWxhYmxlIGF1ZGlvIG9mIGEgc3BlYWtlciB0byBucHkvYmluL3BrbCBmaWxlCiAgICBzZWUgdGhpcyBsaW5rIGZvciBzZWxlY3RpbmcgYmVzdCB0eXBlIGZvciBzYXZpbmcgbmRhcnJheSB0byBkaXNrCiAgICBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy85NjE5MTk5L2Jlc3Qtd2F5LXRvLXByZXNlcnZlLW51bXB5LWFycmF5cy1vbi1kaXNrCiAgICA6cGFyYW0gZGF0YXBhdGg6IHBhdGggdG8gZGF0YSwgdGhlIHdhdiBwYXRoIHNob3VsZCBiZSBpbiAic3BlYWtlcnBhdGgvc3BlYWtlci8qLndhdiIKICAgIDpyZXR1cm46IFRydWUgaWYgbm8gZXJyb3Igb2NjdXJzLiBGYWxzZSBvdGhlcndpc2UKICAgICIiIgogICAgdHJ5OgogICAgICAgICMgUmVhZAogICAgICAgIHNwZWFrZXJkaXIgPSBvcy5wYXRoLmpvaW4oZGF0YXBhdGgsIHNwZWFrZXIpCgogICAgICAgIHlBID0gW10KICAgICAgICBwcmludCgiPT09PT09PT09PT09PT09PT09PT09PT0iKQogICAgICAgIGxvZ2dpbmcuZGVidWcoIlJlYWQge30gZGF0YSIuZm9ybWF0KHNwZWFrZXIpKQoKICAgICAgICAjIHByaW50KCJSZWFkIiwgc3BlYWtlciwgImRhdGEiKQogICAgICAgIGZvciBmaWxlbmFtZSBpbiB0cWRtKG9zLmxpc3RkaXIoc3BlYWtlcmRpcikpOgogICAgICAgICAgICB5LCBfID0gaW9fcmVhZF9hdWRpbyhvcy5wYXRoLmpvaW4oc3BlYWtlcmRpciwgZmlsZW5hbWUpKQogICAgICAgICAgICB5QS5hcHBlbmQoeSkKCiAgICAgICAgIyBTYXZlIGFsbCB0byBkaWNrCiAgICAgICAgIyB1aCBvaCAuLi4KICAgICAgICAjIHByaW50KG5wLmFzYXJyYXkoeUEpLnNoYXBlKQogICAgICAgIGlmIHNhdmV0eXBlID09ICducHknOgogICAgICAgICAgICBvcy5zeXN0ZW0oIm1rZGlyIC1wIG5weSIpCiAgICAgICAgICAgIG5wLnNhdmUob3MucGF0aC5qb2luKCJucHkiLCBzcGVha2VyKSwgbnAuYXNhcnJheSh5QSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoc2F2ZXR5cGUsICJpcyBub3Qgc3VwcG9ydGVkIikKICAgICAgICAgICAgZXhpdCgpCgogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHJldHVybiBGYWxzZQoK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiBhdWRpb2RhdGE6CiAgICAgICAgIyBFeHRyYWN0IGZlYXR1cmUKICAgICAgICBmMCwgdCA9IHB3LmRpbyhhdWRpbywgLCBmcmFtZV9wZXJpb2Q9ZnJhbWVfcGVyaW9kLCBmMF9jZWlsPTEwMDAwLjApICAjIHJhdyBwaXRjaCBleHRyYWN0b3IKICAgICAgICBwcmludCgyKQogICAgICAgICMgZjAgPSBwdy5zdG9uZW1hc2soeCwgX2YwLCB0LCBmcykgICMgcGl0Y2ggcmVmaW5lbWVudAogICAgICAgIHByaW50KDMpCiAgICAgICAgc3AgPSBwdy5jaGVhcHRyaWNrKHgsIGYwLCB0LCBmcywgZmZ0X3NpemU9ZmZ0X3NpemUpICAjIGV4dHJhY3Qgc21vb3RoZWQgc3BlY3Ryb2dyYW0KICAgICAgICBwcmludCg0KQogICAgICAgIGFwID0gcHcuZDRjKHgsIGYwLCB0LCBmcyxsIGZmdF9zaXplPWZmdF9zaXplKSAgIyBleHRyYWN0IAogICAgICAgIHByaW50KDUpCiAgICAgICAgeSA9IHB3LnN5bnRoZXNpemUoZjAsIHNwLCBhcCwgZnMsIGZyYW1lX3BlcmlvZD1mcmFtZV9wZXJpb2QpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZlYXR1cmVzID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiBhdWRpb2RhdGE6CiAgICAgICAgIyBFeHRyYWN0IGZlYXR1cmUKICAgICAgICBmMCwgdCA9IHB3LmRpbyhhdWRpbywgLCBmcmFtZV9wZXJpb2Q9ZnJhbWVfcGVyaW9kLCBmMF9jZWlsPTEwMDAwLjApICAjIHJhdyBwaXRjaCBleHRyYWN0b3IKICAgICAgICBwcmludCgyKQogICAgICAgICMgZjAgPSBwdy5zdG9uZW1hc2soeCwgX2YwLCB0LCBmcykgICMgcGl0Y2ggcmVmaW5lbWVudAogICAgICAgIHByaW50KDMpCiAgICAgICAgc3AgPSBwdy5jaGVhcHRyaWNrKHgsIGYwLCB0LCBmcywgZmZ0X3NpemU9ZmZ0X3NpemUpICAjIGV4dHJhY3Qgc21vb3RoZWQgc3BlY3Ryb2dyYW0KICAgICAgICBwcmludCg0KQogICAgICAgIGFwID0gcHcuZDRjKHgsIGYwLCB0LCBmcyxsIGZmdF9zaXplPWZmdF9zaXplKSAgIyBleHRyYWN0IGFwZXJpb2RpY2l0eQogICAgICAgIHByaW50KDUpCiAgICAgICAgeSA9IHB3LnN5bnRoZXNpemUoZjAsIHNwLCBhcCwgZnMsIGZyYW1lX3BlcmlvZD1mcmFtZV9wZXJpb2QpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQogICAgZm9yIGF1ZGlvIGluIHRxZG0oYXVkaW9kYXRhKToKICAgICAgICAjIEV4dHJhY3QgZmVhdHVyZQogICAgICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpbywgZnMpICAjIHJhdyBwaXRjaCBleHRyYWN0b3IK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBtb2RlbCwgb3B0aW1pemVyID0gbG9hZF9tb2RlbCgpCiAgICBsb3NzID0gbm4uTDFMb3NzKHJlZHVjZT1GYWxzZSkKCiAgICBwcmludChtb2RlbCkKICAgIHByaW50KG9wdGltaXplcikKCiAgICBkYXRhX3RyYWluLCBkYXRhX3Rlc3QgPSBpb19yZWFkX2RhdGEoYXJnc1snU3BlYWtlckEnXSArICcyJyArIGFyZ3NbJ1NwZWFrZXJCJ10gKyAnX21mY2NfMjVtc18xMG1zLnBrbCcsICdwa2wnKQogICAgbW9kZWwuZXZhbCgpCgogICAgd2l0aCB0b3JjaC5ub19ncmFkKCk6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKGRhdGFfdGVzdCkpOgogICAgICAgICAgICB0ZW1wX3ggPSB0b3JjaC50ZW5zb3IoZGF0YV90ZXN0W2ldWzBdKS5mbG9hdCgpCiAgICAgICAgICAgIHRlbXBfeSA9IHRvcmNoLnRlbnNvcihkYXRhX3Rlc3RbaV1bMV0pLmZsb2F0KCkKCiAgICAgICAgICAgIGhfc3RhdGUgPSBtb2RlbC5oaWRkZW5faW5pdCh0ZW1wX3gpCgogICAgICAgICAgICBwcmVkaWN0aW9uLCBoX3N0YXRlID0gbW9kZWwodG9yY2gudGVuc29yKGRhdGFfdGVzdFtpXVswXSkuZmxvYXQoKSwgaF9zdGF0ZSkKCiAgICAgICAgICAgICMgcHJpbnQocHJlZGljdGlvbls6NV0pCiAgICAgICAgICAgIHByaW50KCI9PT0iKQoKICAgICAgICAgICAgbCA9IGxvc3MocHJlZGljdGlvbiwgdGVtcF95LmZsb2F0KCkudmlldyhsZW4odGVtcF95KSwgaW50KGFyZ3NbJ2JhdGNoX3NpemUnXSksIC0xKSkKICAgICAgICAgICAgcHJpbnQobFs6NV0pCiAgICAgICAgICAgICMgcHJpbnQodGVtcF95LmZsb2F0KCkudmlldyhsZW4odGVtcF95KSwgaW50KGFyZ3NbJ2JhdGNoX3NpemUnXSksIC0xKVs6NV0p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHIobWF4XyArIDEpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQogICAgZm9yIGF1ZGlvIGluIHRxZG0oYXVkaW9kYXRhKToKICAgICAgICAjIEV4dHJhY3QgZmVhdHVyZQogICAgICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpbywgZnMpICAjIHJhdyBwaXRjaCBleHRyYWN0b3IK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+      <register name="8" type="4">
+        <text>logging.info(&quot;Start building speaker A dictionary: Extracting feature for conversion (sp, ap, f0)&quot;)
+    for audio in tqdm(audiodata):
+        # Extract feature
+        _f0, t = pw.dio(audio, fs)  # raw pitch extractor</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgUmVhZCBhdWRpbyB0aW1lLXNlcmllcyBmcm9tIG5weQogICAgc3BlYWtlckFkYXRhID0gaW9fcmVhZF9zcGVha2VyX2RhdGEoZGF0YV9wYXRoLCBzcGVha2VyQSwgc2F2ZXR5cGU9J25weScpCiAgICBzcGVha2VyQmRhdGEgPSBpb19yZWFkX3NwZWFrZXJfZGF0YShkYXRhX3BhdGgsIHNwZWFrZXJCLCBzYXZldHlwZT0nbnB5JykK</text>
+      <register name="9" type="4">
+        <text>logging.info(&quot;Start building speaker A dictionary: Extracting feature for conversion (sp, ap, f0)&quot;)
+    for audio in tqdm(audiodata):
+        # Extract feature
+        _f0, t = pw.dio(audio, fs)  # raw pitch extractor</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
@@ -195,26 +217,26 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorCodeBlockEnd</entry>
         <entry>action EditorCodeBlockStart</entry>
         <entry>action EditorEscape</entry>
         <entry>action EditorDeleteLine</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
-        <entry>action Find</entry>
         <entry>action MethodDown</entry>
-        <entry>action MethodUp</entry>
         <entry>action EditorPageUpWithSelection</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorLineEnd</entry>
-        <entry>action EditorDown</entry>
-        <entry>action EditorUp</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLineStart</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action Find</entry>
+        <entry>action EditorLineEnd</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action Replace</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action MethodUp</entry>
+        <entry>action EditorDown</entry>
+        <entry>action EditorUp</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
