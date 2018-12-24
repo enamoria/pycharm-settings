@@ -40,7 +40,7 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545635601439">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545635759124">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="37" column="35" />
         <mark key="^" line="37" column="0" />
@@ -216,7 +216,7 @@
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorPageUp</text>
+        <text>action EditorRightWithSelection</text>
       </register>
     </registers>
     <search>
@@ -249,12 +249,12 @@
         <entry>action EditorUp</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorDown</entry>
         <entry>action Replace</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorPageUp</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
