@@ -18,11 +18,13 @@
       <file name="/Dummy.txt" timestamp="1545205188895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545379444433">
+      <file name="/Python Console" timestamp="1545648001339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1545292084349">
+      <file name="/fragment.py" timestamp="1545647769267">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1545615467003">
         <mark key="'" line="131" column="79" />
@@ -34,22 +36,23 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545623202595">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="24" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545647421320">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545635759124">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545648236721">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545635591758">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545642458835">
         <mark key="'" line="164" column="21" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="35" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="53" column="27" />
         <mark key="^" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
@@ -75,6 +78,7 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/decomposition/nmf.py" timestamp="1545647224329" />
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545618956455">
         <mark key="'" line="145" column="0" />
         <mark key="m" line="399" column="40" />
@@ -168,17 +172,17 @@
       <jump line="164" column="21" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdHVyZV9wYXRoID0gYXJnc1snZmVhdHVyZV9wYXRoJ10K</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmVhdHVyZV9wYXRoID0gYXJnc1snZmVhdHVyZV9wYXRoJ10K</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgCg==</text>
@@ -245,14 +249,14 @@
         <entry>action EditorLineEnd</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action EditorPageDown</entry>
         <entry>action EditorUp</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorDown</entry>
         <entry>action Replace</entry>
+        <entry>action EditorPageDown</entry>
         <entry>action EditorPageUp</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLineStart</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
       </history-cmd>
