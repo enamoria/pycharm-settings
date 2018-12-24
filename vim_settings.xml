@@ -34,12 +34,11 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545205443477">
-        <mark key="'" line="53" column="48" />
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="51" column="42" />
-        <mark key="." line="17" column="36" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1545623202595">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545621480695">
         <mark key="'" line="0" column="0" />
@@ -216,7 +215,7 @@
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLineStart</text>
+        <text>action Replace</text>
       </register>
     </registers>
     <search>
@@ -240,7 +239,6 @@
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action EditorPageUpWithSelection</entry>
         <entry>action Find</entry>
-        <entry>action Replace</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action EditorLineEnd</entry>
@@ -252,9 +250,10 @@
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorDown</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorDown</entry>
+        <entry>action Replace</entry>
       </history-cmd>
       <history-expr />
       <history-input />
