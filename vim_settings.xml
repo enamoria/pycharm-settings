@@ -40,16 +40,16 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545621480695">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545635601439">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="3" />
-        <mark key="." line="61" column="3" />
-        <mark key="^" line="61" column="3" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545634123867">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="76" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545635591758">
+        <mark key="'" line="164" column="21" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="35" />
         <mark key="^" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
@@ -165,10 +165,11 @@
       <jump line="158" column="32" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="150" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" />
+      <jump line="164" column="21" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNwZWFrZXJBZGF0YSA9IGlvX3JlYWRfc3BlYWtlcl9kYXRhKGRhdGFfcGF0aCwgc3BlYWtlckEsIHNhdmV0eXBlPSducHknKQo=</text>
+        <text encoding="base64">ZmVhdHVyZV9wYXRoID0gYXJnc1snZmVhdHVyZV9wYXRoJ10K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -177,7 +178,7 @@
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNwZWFrZXJBZGF0YSA9IGlvX3JlYWRfc3BlYWtlcl9kYXRhKGRhdGFfcGF0aCwgc3BlYWtlckEsIHNhdmV0eXBlPSducHknKQo=</text>
+        <text encoding="base64">ZmVhdHVyZV9wYXRoID0gYXJnc1snZmVhdHVyZV9wYXRoJ10K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgCg==</text>
@@ -215,7 +216,7 @@
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Replace</text>
+        <text>action EditorPageUp</text>
       </register>
     </registers>
     <search>
@@ -244,16 +245,16 @@
         <entry>action EditorLineEnd</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorDown</entry>
         <entry>action Replace</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorPageUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
