@@ -41,10 +41,18 @@
         <mark key="^" line="51" column="42" />
         <mark key="." line="17" column="36" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545615576393">
-        <mark key="]" line="60" column="34" />
-        <mark key="^" line="59" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545621480695">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="3" />
+        <mark key="." line="61" column="3" />
+        <mark key="^" line="61" column="3" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545621439858">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="76" />
+        <mark key="^" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
         <mark key="'" line="0" column="0" />
@@ -157,10 +165,11 @@
       <jump line="129" column="79" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" />
       <jump line="158" column="32" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="150" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
+      <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNwZWFrZXJBZGF0YSA9IGlvX3JlYWRfc3BlYWtlcl9kYXRhKGRhdGFfcGF0aCwgc3BlYWtlckEsIHNhdmV0eXBlPSducHknKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -169,9 +178,18 @@
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiUGFyYWxsZWw6IERUVyBvbiBNQ0VQOiBDYWxjdWxhdGluZyB3YXJwaW5nIGZ1bmN0aW9uIC4uLiIpCg==</text>
+        <text encoding="base64">ICAgIHNwZWFrZXJBZGF0YSA9IGlvX3JlYWRfc3BlYWtlcl9kYXRhKGRhdGFfcGF0aCwgc3BlYWtlckEsIHNhdmV0eXBlPSducHknKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHB5d29ybGQgYXMgcHcK</text>
+      </register>
+      <register name="3" type="4">
         <text>if os.path.isfile(temp_filename):
             logging.info(&quot;Found {}. Load data from {}_{}&quot;.format(temp_filename, speaker, feat))
 
@@ -179,35 +197,26 @@
                 return pickle.load(f), feat
         else:</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBOb3RlOiB0aGlzIGlzIGZpbGUtYmFzZWQgaW1wbGVtZW50YXRpb24gZm9yIG11bHRpcHJvY2Vzc2luZy4gRGlmZmVyZW50IGZyb20gbm9uLXBhcmFsbGVsIHZlcnNpb24K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzID0gW10K</text>
+        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
@@ -238,14 +247,14 @@
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action ImplementMethods</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUp</entry>
-        <entry>action EditorDown</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorDown</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
