@@ -65,9 +65,9 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="29" column="5" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1545376683456">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1547431130601">
         <mark key="c" line="128" column="36" />
-        <mark key="[" line="299" column="75" />
+        <mark key="[" line="5" column="46" />
         <mark key="]" line="193" column="11" />
         <mark key="^" line="193" column="11" />
         <mark key="." line="193" column="11" />
@@ -78,13 +78,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/decomposition/nmf.py" timestamp="1545647224329" />
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1545618956455">
-        <mark key="'" line="145" column="0" />
-        <mark key="m" line="399" column="40" />
-        <mark key="]" line="115" column="6" />
-        <mark key="^" line="319" column="8" />
-        <mark key="." line="115" column="6" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547431497812">
+        <mark key="'" line="347" column="0" />
+        <mark key="[" line="213" column="0" />
+        <mark key="m" line="395" column="40" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
         <mark key="[" line="1665" column="4" />
@@ -170,10 +169,11 @@
       <jump line="150" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" />
       <jump line="164" column="21" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
+      <jump line="351" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -185,15 +185,18 @@
         <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHB5d29ybGQgYXMgcHcK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>if os.path.isfile(temp_filename):
             logging.info(&quot;Found {}. Load data from {}_{}&quot;.format(temp_filename, speaker, feat))
 
@@ -201,26 +204,23 @@
                 return pickle.load(f), feat
         else:</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBOb3RlOiB0aGlzIGlzIGZpbGUtYmFzZWQgaW1wbGVtZW50YXRpb24gZm9yIG11bHRpcHJvY2Vzc2luZy4gRGlmZmVyZW50IGZyb20gbm9uLXBhcmFsbGVsIHZlcnNpb24K</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiU3RhcnQgYnVpbGRpbmcgc3BlYWtlciBBIGRpY3Rpb25hcnk6IEV4dHJhY3RpbmcgZmVhdHVyZSBmb3IgY29udmVyc2lvbiAoc3AsIGFwLCBmMCkiKQo=</text>
+        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorDown</text>
       </register>
     </registers>
     <search>
@@ -249,16 +249,16 @@
         <entry>action EditorLineEnd</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action ImplementMethods</entry>
-        <entry>action EditorUp</entry>
-        <entry>action EditorDown</entry>
         <entry>action Replace</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUp</entry>
+        <entry>action EditorLineStart</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
