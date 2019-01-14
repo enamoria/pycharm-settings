@@ -21,7 +21,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1547460741584">
+      <file name="/Python Console" timestamp="1547462012995">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1547441086841">
@@ -95,12 +95,12 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_compensation.py" timestamp="1547461319894">
-        <mark key="'" line="17" column="10" />
-        <mark key="[" line="56" column="18" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_compensation.py" timestamp="1547462010650">
+        <mark key="'" line="18" column="10" />
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="/04_conversion.py" timestamp="1547450334382" />
     </filemarks>
@@ -262,7 +262,7 @@
         <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -296,11 +296,11 @@
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
