@@ -49,12 +49,10 @@
         <mark key="^" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1545642458835">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547433586922">
         <mark key="'" line="164" column="21" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="53" column="27" />
-        <mark key="^" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="105" column="20" />
+        <mark key="^" line="105" column="21" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
         <mark key="'" line="0" column="0" />
@@ -173,16 +171,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>u_rate * cpu_count()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -255,9 +253,9 @@
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUp</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
       </history-cmd>
       <history-expr />
