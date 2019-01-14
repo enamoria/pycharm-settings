@@ -36,6 +36,9 @@
         <mark key="^" line="190" column="22" />
         <mark key="." line="169" column="70" />
       </file>
+      <file name="/a.dummy" timestamp="1547450356637">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
       </file>
@@ -46,12 +49,10 @@
         <mark key="." line="8" column="34" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1547440943742" />
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1545648236721">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/05_conversion.py" timestamp="1547450421237" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547434788760">
         <mark key="'" line="164" column="21" />
@@ -95,6 +96,10 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_compensation.py" timestamp="1547450395726">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="/04_conversion.py" timestamp="1547450334382" />
     </filemarks>
     <jumps>
       <jump line="205" column="16" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -177,7 +182,30 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l.format(filename)</text>
+        <text>def _get_conversion_data(audiodatum, fs, refine_f0):
+    &quot;&quot;&quot;
+        Note: this is file-based implementation for multiprocessing. Different from non-parallel version
+    Get A (without warping source dictionary) feature for conversion (sp, ap, f0)
+    :param audiodatum: 1 file audio data. not all 162
+    :param args:
+    :param kwargs:
+    :return: source dictionary (without warping)
+    &quot;&quot;&quot;
+    # Extract feature
+    _f0, t = pw.dio(audiodatum, fs)  # raw pitch extractor
+
+    if refine_f0:
+        f0 = pw.stonemask(audiodatum, _f0, t, fs)  # pitch refinement
+    else:
+        f0 = _f0
+
+    sp = pw.cheaptrick(audiodatum, f0, t, fs)  # extract smoothed spectrogram
+    ap = pw.d4c(audiodatum, f0, t, fs)  # extract aperiodicity
+    # y = pw.synthesize(f0, sp, ap, fs)
+
+    features = {'sp': sp, 'ap': ap, 'f0': f0, 'fs': fs, 'sr': fs}
+
+    return features</text>
       </register>
       <register name="-" type="4">
         <text>l.format(filename)</text>
@@ -188,19 +216,48 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>def _get_conversion_data(audiodatum, fs, refine_f0):
+    &quot;&quot;&quot;
+        Note: this is file-based implementation for multiprocessing. Different from non-parallel version
+    Get A (without warping source dictionary) feature for conversion (sp, ap, f0)
+    :param audiodatum: 1 file audio data. not all 162
+    :param args:
+    :param kwargs:
+    :return: source dictionary (without warping)
+    &quot;&quot;&quot;
+    # Extract feature
+    _f0, t = pw.dio(audiodatum, fs)  # raw pitch extractor
+
+    if refine_f0:
+        f0 = pw.stonemask(audiodatum, _f0, t, fs)  # pitch refinement
+    else:
+        f0 = _f0
+
+    sp = pw.cheaptrick(audiodatum, f0, t, fs)  # extract smoothed spectrogram
+    ap = pw.d4c(audiodatum, f0, t, fs)  # extract aperiodicity
+    # y = pw.synthesize(f0, sp, ap, fs)
+
+    features = {'sp': sp, 'ap': ap, 'f0': f0, 'fs': fs, 'sr': fs}
+
+    return features</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfY29udmVyc2lvbl9kYXRhKGF1ZGlvZGF0dW0sIGZzLCByZWZpbmVfZjApOgogICAgIiIiCiAgICAgICAgTm90ZTogdGhpcyBpcyBmaWxlLWJhc2VkIGltcGxlbWVudGF0aW9uIGZvciBtdWx0aXByb2Nlc3NpbmcuIERpZmZlcmVudCBmcm9tIG5vbi1wYXJhbGxlbCB2ZXJzaW9uCiAgICBHZXQgQSAod2l0aG91dCB3YXJwaW5nIHNvdXJjZSBkaWN0aW9uYXJ5KSBmZWF0dXJlIGZvciBjb252ZXJzaW9uIChzcCwgYXAsIGYwKQogICAgOnBhcmFtIGF1ZGlvZGF0dW06IDEgZmlsZSBhdWRpbyBkYXRhLiBub3QgYWxsIDE2MgogICAgOnBhcmFtIGFyZ3M6CiAgICA6cGFyYW0ga3dhcmdzOgogICAgOnJldHVybjogc291cmNlIGRpY3Rpb25hcnkgKHdpdGhvdXQgd2FycGluZykKICAgICIiIgogICAgIyBFeHRyYWN0IGZlYXR1cmUKICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpb2RhdHVtLCBmcykgICMgcmF3IHBpdGNoIGV4dHJhY3Rvcgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHB5d29ybGQgYXMgcHcK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>if os.path.isfile(temp_filename):
             logging.info(&quot;Found {}. Load data from {}_{}&quot;.format(temp_filename, speaker, feat))
 
@@ -208,23 +265,17 @@
                 return pickle.load(f), feat
         else:</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBOb3RlOiB0aGlzIGlzIGZpbGUtYmFzZWQgaW1wbGVtZW50YXRpb24gZm9yIG11bHRpcHJvY2Vzc2luZy4gRGlmZmVyZW50IGZyb20gbm9uLXBhcmFsbGVsIHZlcnNpb24K</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogICAgZGVmIGZvbyhmZWF0KToKICAgICAgICAiIiIKICAgICAgICB0aGlzIGZ1bmN0aW9uIGlzIG1hZGUgZm9yIG11bHRpcHJvY2Vzc2luZwogICAgICAgIDpwYXJhbSBmZWF0OiBmZWF0dXJlIGZvciBjYWxjdWxhdGlvbgogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIi</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBhdWRpbyBpbiB0cWRtKGF1ZGlvZGF0KToK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorPageDown</text>
       </register>
     </registers>
     <search>
@@ -254,7 +305,6 @@
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action ImplementMethods</entry>
         <entry>action Replace</entry>
-        <entry>action EditorPageDown</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
@@ -263,6 +313,7 @@
         <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
