@@ -49,10 +49,12 @@
         <mark key="^" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547433586922">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547434788760">
         <mark key="'" line="164" column="21" />
         <mark key="[" line="105" column="20" />
-        <mark key="^" line="105" column="21" />
+        <mark key="]" line="146" column="15" />
+        <mark key="^" line="146" column="15" />
+        <mark key="." line="146" column="15" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" timestamp="1545120337946">
         <mark key="'" line="0" column="0" />
@@ -76,7 +78,7 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547431497812">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547434482545">
         <mark key="'" line="347" column="0" />
         <mark key="[" line="213" column="0" />
         <mark key="m" line="395" column="40" />
