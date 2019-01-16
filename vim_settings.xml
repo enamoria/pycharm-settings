@@ -21,7 +21,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1547547375082">
+      <file name="/Python Console" timestamp="1547623940072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1547519191063">
@@ -48,13 +48,12 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1547517344068">
-        <mark key="[" line="38" column="6" />
-        <mark key="]" line="38" column="6" />
-        <mark key="^" line="35" column="10" />
-        <mark key="." line="38" column="6" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1547623919969">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="41" />
+        <mark key="^" line="44" column="41" />
       </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/numpy/linalg/linalg.py" timestamp="1547516807816" />
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
         <mark key="^" line="72" column="0" />
@@ -350,11 +349,11 @@ for i in tqdm(range(len(src_W))):  # iterate through each audio file
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
