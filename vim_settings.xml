@@ -21,7 +21,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1547625499450">
+      <file name="/Python Console" timestamp="1547698423128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1547519191063">
@@ -36,7 +36,7 @@
         <mark key="^" line="190" column="22" />
         <mark key="." line="169" column="70" />
       </file>
-      <file name="/a.dummy" timestamp="1547450356637">
+      <file name="/a.dummy" timestamp="1547694645915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
@@ -54,6 +54,12 @@
         <mark key="." line="44" column="41" />
         <mark key="^" line="44" column="41" />
       </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547696027040">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="0" />
+      </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
         <mark key="^" line="72" column="0" />
@@ -65,8 +71,8 @@
         <mark key="^" line="146" column="15" />
         <mark key="." line="146" column="15" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1545615458239">
-        <mark key="[" line="28" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1547696295110">
+        <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="16" />
         <mark key="^" line="29" column="5" />
@@ -84,12 +90,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="24" column="10" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547518523399">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547698488792">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="213" column="0" />
-        <mark key="m" line="395" column="40" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
+        <mark key="[" line="216" column="4" />
+        <mark key="m" line="396" column="40" />
+        <mark key="]" line="216" column="70" />
+        <mark key="." line="216" column="70" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
         <mark key="[" line="1665" column="4" />
@@ -193,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(parallelly</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>(parallelly</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -205,118 +211,37 @@
         <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGlzdF8xZCA9IGxhbWJkYSB4LCB5OiBucC5zdW0oeCAtIHkpCg==</text>
+        <text encoding="base64">ICAgICMgZm9yIGlpIGluIHNyY19XW2ldOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>from tqdm import tqdm
-
-import numpy as np
-
-import os
-import sys
-import pdb
-import pickle
-
-import time
-import logging
-import datetime
-
-logging.basicConfig(
-    filename=&quot;logs/&quot; + &quot;:&quot;.join(str(datetime.datetime.now()).split(&quot;:&quot;)[:-1]),
-    level=logging.DEBUG,
-    format='%(asctime)s %(levelname)s %(module)s - %(funcName)s: %(message)s',
-    datefmt=&quot;%Y-%m-%d %H:%M:%S&quot;
-)
-
-try:
-    import coloredlogs
-
-    coloredlogs.install(level=logging.DEBUG, fmt='%(asctime)s %(levelname)s %(module)s - %(funcName)s: %(message)s')
-except ModuleNotFoundError:
-    pass
-
-
-def io_load_from_pickle():
-    with open(&quot;./data/vc/exem_dict/SF1_feat_sp_ap_f0.pkl&quot;, &quot;rb&quot;) as f:
-        src_feat = pickle.load(f)
-
-    with open(&quot;./data/vc/exem_dict/TF1_feat_sp_ap_f0.pkl&quot;, &quot;rb&quot;) as f:
-        tar_feat = pickle.load(f)
-
-    with open(&quot;./data/vc/exem_dict/exemplar_W_A&quot;, &quot;rb&quot;) as f:
-        src_W = pickle.load(f)
-
-    with open(&quot;./data/vc/exem_dict/exemplar_W_B&quot;, &quot;rb&quot;) as f:
-        tar_W = pickle.load(f)
-
-    return src_feat, tar_feat, src_W, tar_W
-
-
-src_feat, tar_feat, src_W, tar_W = io_load_from_pickle()
-
-start = time.time()
-
-dist = lambda x, y: np.linalg.norm(x - y, ord=1)
-for i in tqdm(range(len(src_W))):  # iterate through each audio file
-    # for ii in src_W[i]:
-    dtw(src_feat[i]['sp'], tar_feat[0]['sp'], l</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>советскй
-советский
-советский</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGR0d19mMCA9IGR0dyhzcmNfZmVhdFtpXVsnZjAnXSwgdGFyX2ZlYXRbMF1bJ2YwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>def _get_conversion_data(audiodatum, fs, refine_f0):
-    &quot;&quot;&quot;
-        Note: this is file-based implementation for multiprocessing. Different from non-parallel version
-    Get A (without warping source dictionary) feature for conversion (sp, ap, f0)
-    :param audiodatum: 1 file audio data. not all 162
-    :param args:
-    :param kwargs:
-    :return: source dictionary (without warping)
-    &quot;&quot;&quot;
-    # Extract feature
-    _f0, t = pw.dio(audiodatum, fs)  # raw pitch extractor
-
-    if refine_f0:
-        f0 = pw.stonemask(audiodatum, _f0, t, fs)  # pitch refinement
-    else:
-        f0 = _f0
-
-    sp = pw.cheaptrick(audiodatum, f0, t, fs)  # extract smoothed spectrogram
-    ap = pw.d4c(audiodatum, f0, t, fs)  # extract aperiodicity
-    # y = pw.synthesize(f0, sp, ap, fs)
-
-    features = {'sp': sp, 'ap': ap, 'f0': f0, 'fs': fs, 'sr': fs}
-
-    return features</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGR0d19hcCA9IGR0dyhzcmNfZmVhdFtpXVsnYXAnXSwgdGFyX2ZlYXRbMF1bJ2FwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29udmVyc2lvbl9kYXRhKGF1ZGlvZGF0dW0sIGZzLCByZWZpbmVfZjApOgogICAgIiIiCiAgICAgICAgTm90ZTogdGhpcyBpcyBmaWxlLWJhc2VkIGltcGxlbWVudGF0aW9uIGZvciBtdWx0aXByb2Nlc3NpbmcuIERpZmZlcmVudCBmcm9tIG5vbi1wYXJhbGxlbCB2ZXJzaW9uCiAgICBHZXQgQSAod2l0aG91dCB3YXJwaW5nIHNvdXJjZSBkaWN0aW9uYXJ5KSBmZWF0dXJlIGZvciBjb252ZXJzaW9uIChzcCwgYXAsIGYwKQogICAgOnBhcmFtIGF1ZGlvZGF0dW06IDEgZmlsZSBhdWRpbyBkYXRhLiBub3QgYWxsIDE2MgogICAgOnBhcmFtIGFyZ3M6CiAgICA6cGFyYW0ga3dhcmdzOgogICAgOnJldHVybjogc291cmNlIGRpY3Rpb25hcnkgKHdpdGhvdXQgd2FycGluZykKICAgICIiIgogICAgIyBFeHRyYWN0IGZlYXR1cmUKICAgIF9mMCwgdCA9IHB3LmRpbyhhdWRpb2RhdHVtLCBmcykgICMgcmF3IHBpdGNoIGV4dHJhY3Rvcgo=</text>
+        <text encoding="base64">ICAgIGR0d19zcCA9IGR0dyhzcmNfZmVhdFtpXVsnc3AnXSwgdGFyX2ZlYXRbMF1bJ3NwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHB5d29ybGQgYXMgcHcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if os.path.isfile(temp_filename):
-            logging.info(&quot;Found {}. Load data from {}_{}&quot;.format(temp_filename, speaker, feat))
-
-            with open(temp_filename, &quot;rb&quot;) as f:
-                return pickle.load(f), feat
-        else:</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGlzdCA9IGxhbWJkYSB4LCB5OiBucC5zdW0oeCAtIHkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLineStart</text>
+        <text>action EditorRightWithSelection</text>
       </register>
     </registers>
     <search>
@@ -348,13 +273,13 @@ for i in tqdm(range(len(src_W))):  # iterate through each audio file
         <entry>action EditorPageUp</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
