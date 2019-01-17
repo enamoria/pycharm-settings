@@ -90,12 +90,12 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="24" column="10" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547710852578">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="216" column="4" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547711586553">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="362" column="52" />
         <mark key="m" line="396" column="40" />
-        <mark key="]" line="216" column="70" />
-        <mark key="." line="216" column="70" />
+        <mark key="]" line="362" column="52" />
+        <mark key="." line="362" column="52" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
         <mark key="[" line="1665" column="4" />
@@ -180,7 +180,6 @@
       <jump line="87" column="20" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="118" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" />
       <jump line="135" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
-      <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="313" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="166" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="129" column="79" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" />
@@ -196,13 +195,15 @@
       <jump line="17" column="10" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_compensation.py" />
       <jump line="60" column="87" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_compensation.py" />
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
+      <jump line="250" column="57" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
+      <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
