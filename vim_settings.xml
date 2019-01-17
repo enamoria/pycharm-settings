@@ -78,11 +78,11 @@
         <mark key="^" line="193" column="11" />
         <mark key="." line="193" column="11" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/README.md" timestamp="1547517478593">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="10" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/README.md" timestamp="1547693173600">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="24" column="10" />
         <mark key="^" line="7" column="25" />
-        <mark key="." line="19" column="10" />
+        <mark key="." line="24" column="10" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547518523399">
         <mark key="'" line="28" column="0" />
@@ -316,7 +316,7 @@ for i in tqdm(range(len(src_W))):  # iterate through each audio file
         else:</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
@@ -352,9 +352,9 @@ for i in tqdm(range(len(src_W))):  # iterate through each audio file
         <entry>action EditorPageDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
