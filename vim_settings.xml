@@ -21,10 +21,10 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1547720321035">
+      <file name="/Python Console" timestamp="1547726121984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1547519191063">
+      <file name="/fragment.py" timestamp="1547725090979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -48,17 +48,16 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1547623919969">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="41" />
-        <mark key="." line="44" column="41" />
-        <mark key="^" line="44" column="41" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1547726913677">
+        <mark key="'" line="59" column="43" />
+        <mark key="[" line="50" column="50" />
+        <mark key="]" line="50" column="50" />
+        <mark key="^" line="50" column="50" />
+        <mark key="." line="50" column="50" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547721804067">
-        <mark key="[" line="132" column="3" />
-        <mark key="]" line="132" column="3" />
-        <mark key="^" line="132" column="3" />
-        <mark key="." line="132" column="3" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/05_conversion.py" timestamp="1547722907150" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547726961512">
+        <mark key="^" line="161" column="24" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
@@ -89,6 +88,9 @@
         <mark key="]" line="24" column="10" />
         <mark key="^" line="7" column="25" />
         <mark key="." line="24" column="10" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/decomposition/nmf.py" timestamp="1547726301256">
+        <mark key="[" line="902" column="42" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547718109058">
         <mark key="'" line="0" column="0" />
@@ -197,18 +199,14 @@
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
       <jump line="250" column="57" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
+      <jump line="39" column="43" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
-# y1 = pw.synthesize(aligned_tar_feat[0]['f0'], aligned_tar_feat[0]['sp'], aligned_tar_feat[0]['ap'], aligned_tar_feat[0]['fs'])
-# 
-# os.system(&quot;mkdir -p wav&quot;)
-# lbr.output.write_wav(&quot;wav/src.wav&quot;, y, sr=16000)
-# lbr.output.write_wav(&quot;wav/tar.wav&quot;, y1, sr=16000)</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>No</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
@@ -217,6 +215,12 @@
         <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
       <register name="1" type="4">
+        <text>None</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text># y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
 # y1 = pw.synthesize(aligned_tar_feat[0]['f0'], aligned_tar_feat[0]['sp'], aligned_tar_feat[0]['ap'], aligned_tar_feat[0]['fs'])
 # 
@@ -224,35 +228,32 @@
 # lbr.output.write_wav(&quot;wav/src.wav&quot;, y, sr=16000)
 # lbr.output.write_wav(&quot;wav/tar.wav&quot;, y1, sr=16000)</text>
       </register>
-      <register name="q" type="4">
-        <text />
+      <register name="r" type="4">
+        <text>None</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CgogICAgdGVtcFsnc3AnXSA9IG5wLmFzYXJyYXkoc3ApCiAgICB0ZW1wWydhcCddID0gbnAuYXNhcnJheShhcCkKICAgIHRlbXBbJ2YwJ10gPSBucC5hc2FycmF5KGYwKQogICAgdGVtcFsnZnMnXSA9IHNyY19mZWF0W2ldWydmcydd</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICMgZm9yIGlpIGluIHNyY19XW2ldOgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGR0d19mMCA9IGR0dyhzcmNfZmVhdFtpXVsnZjAnXSwgdGFyX2ZlYXRbMF1bJ2YwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGR0d19hcCA9IGR0dyhzcmNfZmVhdFtpXVsnYXAnXSwgdGFyX2ZlYXRbMF1bJ2FwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGR0d19zcCA9IGR0dyhzcmNfZmVhdFtpXVsnc3AnXSwgdGFyX2ZlYXRbMF1bJ3NwJ10sIGRpc3Q9ZGlzdCkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR0d19zcCA9IGR0dyhzcmNfZmVhdFtpXVsnc3AnXSwgdGFyX2ZlYXRbMF1bJ3NwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
@@ -284,13 +285,13 @@
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorLineStart</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorPageUp</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
