@@ -21,7 +21,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1547719555127">
+      <file name="/Python Console" timestamp="1547720321035">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1547519191063">
@@ -54,11 +54,11 @@
         <mark key="." line="44" column="41" />
         <mark key="^" line="44" column="41" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547719539327">
-        <mark key="[" line="81" column="7" />
-        <mark key="]" line="81" column="7" />
-        <mark key="." line="81" column="7" />
-        <mark key="^" line="81" column="8" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547721804067">
+        <mark key="[" line="132" column="3" />
+        <mark key="]" line="132" column="3" />
+        <mark key="^" line="132" column="3" />
+        <mark key="." line="132" column="3" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
@@ -200,7 +200,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>No</text>
+        <text># y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
+# y1 = pw.synthesize(aligned_tar_feat[0]['f0'], aligned_tar_feat[0]['sp'], aligned_tar_feat[0]['ap'], aligned_tar_feat[0]['fs'])
+# 
+# os.system(&quot;mkdir -p wav&quot;)
+# lbr.output.write_wav(&quot;wav/src.wav&quot;, y, sr=16000)
+# lbr.output.write_wav(&quot;wav/tar.wav&quot;, y1, sr=16000)</text>
       </register>
       <register name="-" type="4">
         <text>No</text>
@@ -211,38 +216,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGlpIGluIHNyY19XW2ldOgo=</text>
+      <register name="1" type="4">
+        <text># y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
+# y1 = pw.synthesize(aligned_tar_feat[0]['f0'], aligned_tar_feat[0]['sp'], aligned_tar_feat[0]['ap'], aligned_tar_feat[0]['fs'])
+# 
+# os.system(&quot;mkdir -p wav&quot;)
+# lbr.output.write_wav(&quot;wav/src.wav&quot;, y, sr=16000)
+# lbr.output.write_wav(&quot;wav/tar.wav&quot;, y1, sr=16000)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJyZWFrCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgdGVtcFsnc3AnXSA9IG5wLmFzYXJyYXkoc3ApCiAgICB0ZW1wWydhcCddID0gbnAuYXNhcnJheShhcCkKICAgIHRlbXBbJ2YwJ10gPSBucC5hc2FycmF5KGYwKQogICAgdGVtcFsnZnMnXSA9IHNyY19mZWF0W2ldWydmcydd</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGR0d19mMCA9IGR0dyhzcmNfZmVhdFtpXVsnZjAnXSwgdGFyX2ZlYXRbMF1bJ2YwJ10sIGRpc3Q9ZGlzdCkK</text>
+        <text encoding="base64">ICAgICMgZm9yIGlpIGluIHNyY19XW2ldOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGR0d19hcCA9IGR0dyhzcmNfZmVhdFtpXVsnYXAnXSwgdGFyX2ZlYXRbMF1bJ2FwJ10sIGRpc3Q9ZGlzdCkK</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGR0d19zcCA9IGR0dyhzcmNfZmVhdFtpXVsnc3AnXSwgdGFyX2ZlYXRbMF1bJ3NwJ10sIGRpc3Q9ZGlzdCkK</text>
+        <text encoding="base64">ICAgIGR0d19mMCA9IGR0dyhzcmNfZmVhdFtpXVsnZjAnXSwgdGFyX2ZlYXRbMF1bJ2YwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR0d19hcCA9IGR0dyhzcmNfZmVhdFtpXVsnYXAnXSwgdGFyX2ZlYXRbMF1bJ2FwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR0d19zcCA9IGR0dyhzcmNfZmVhdFtpXVsnc3AnXSwgdGFyX2ZlYXRbMF1bJ3NwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGlzdCA9IGxhbWJkYSB4LCB5OiBucC5zdW0oeCAtIHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorRightWithSelection</text>
       </register>
     </registers>
     <search>
@@ -271,16 +281,16 @@
         <entry>action EditorLineEnd</entry>
         <entry>action ImplementMethods</entry>
         <entry>action Replace</entry>
-        <entry>action EditorPageUp</entry>
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorPageUp</entry>
+        <entry>action EditorPageDown</entry>
+        <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLineStart</entry>
-        <entry>action EditorPageDown</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -330,6 +340,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
