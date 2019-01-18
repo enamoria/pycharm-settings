@@ -21,7 +21,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1547786326941">
+      <file name="/Python Console" timestamp="1547800403430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1547783501951">
@@ -59,12 +59,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547785539692">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547800395963">
         <mark key="'" line="217" column="26" />
-        <mark key="[" line="279" column="45" />
-        <mark key="]" line="279" column="45" />
-        <mark key="^" line="274" column="62" />
-        <mark key="." line="279" column="45" />
+        <mark key="[" line="276" column="27" />
+        <mark key="]" line="276" column="27" />
+        <mark key="^" line="276" column="27" />
+        <mark key="." line="276" column="27" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
@@ -213,10 +213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>40</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>40</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -294,7 +294,7 @@
         <text encoding="base64">ICAgIGR0d19hcCA9IGR0dyhzcmNfZmVhdFtpXVsnYXAnXSwgdGFyX2ZlYXRbMF1bJ2FwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorRightWithSelection</text>
       </register>
     </registers>
     <search>
@@ -328,12 +328,12 @@
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
