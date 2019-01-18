@@ -55,18 +55,18 @@
         <mark key="^" line="50" column="50" />
         <mark key="." line="50" column="50" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547776110886">
-        <mark key="'" line="204" column="26" />
-        <mark key="[" line="260" column="71" />
-        <mark key="]" line="195" column="0" />
-        <mark key="^" line="195" column="0" />
-        <mark key="." line="195" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547777474370">
+        <mark key="'" line="214" column="26" />
+        <mark key="[" line="280" column="71" />
+        <mark key="]" line="203" column="0" />
+        <mark key="^" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
         <mark key="^" line="72" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547775348753">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547777554624">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="159" column="79" />
         <mark key="]" line="146" column="15" />
@@ -257,7 +257,7 @@
         <text encoding="base64">ICAgIGR0d19zcCA9IGR0dyhzcmNfZmVhdFtpXVsnc3AnXSwgdGFyX2ZlYXRbMF1bJ3NwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -292,10 +292,10 @@
         <entry>action EditorPageDown</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
