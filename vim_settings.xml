@@ -70,12 +70,12 @@
         <mark key="'" line="0" column="0" />
         <mark key="^" line="72" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547795861109">
-        <mark key="'" line="163" column="85" />
-        <mark key="[" line="168" column="79" />
-        <mark key="]" line="168" column="79" />
-        <mark key="^" line="149" column="15" />
-        <mark key="." line="168" column="79" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547796774284">
+        <mark key="'" line="164" column="85" />
+        <mark key="[" line="75" column="59" />
+        <mark key="]" line="75" column="59" />
+        <mark key="^" line="75" column="59" />
+        <mark key="." line="75" column="59" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1547795825175">
         <mark key="'" line="39" column="1" />
@@ -294,7 +294,7 @@
         <text encoding="base64">ICAgIGR0d19hcCA9IGR0dyhzcmNfZmVhdFtpXVsnYXAnXSwgdGFyX2ZlYXRbMF1bJ2FwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -330,10 +330,10 @@
         <entry>action EditorPageDown</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLineStart</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
