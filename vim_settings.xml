@@ -98,12 +98,9 @@
         <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/decomposition/nmf.py" timestamp="1547783323270" />
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547795833781">
-        <mark key="'" line="362" column="100" />
-        <mark key="[" line="62" column="32" />
-        <mark key="m" line="411" column="40" />
-        <mark key="]" line="375" column="52" />
-        <mark key="." line="375" column="52" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547802826929">
+        <mark key="'" line="347" column="100" />
+        <mark key="m" line="396" column="40" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
         <mark key="[" line="1665" column="4" />
@@ -213,7 +210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">ICAgICMgZHR3X3BhdGhzID0gW10KICAgICMgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZmVhdF9mdWxsX0EpKSk6CiAgICAjICAgICBkaXN0LCBjb3N0LCBjdW1fY29zdCwgcGF0aCA9IGR0dyhmZWF0X2Z1bGxfQVtpXS5ULCBmZWF0X2Z1bGxfQltpXS5ULCBsYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB7fS97fSIuZm9ybWF0KGksIGxlbihmZWF0X2Z1bGxfQSkpKQogICAgIwogICAgIyAgICAgZGlzdCwgcGF0aCA9IGZhc3RkdHcoZmVhdF9BW2ldLlQsIGZlYXRfQltpXS5ULCByYWRpdXM9NSwgZGlzdD1sYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGRpc3QsIHBhdGhzID0gd2FycGluZ19wYXRocyhucC5hcnJheShmZWF0X0FbaV0uVCksIG5wLmFycmF5KGZlYXRfQltpXS5UKSkgICMgLCB3aW5kb3c9MjUsIHBzaT0yKQogICAgIyAgICAgYmVzdCA9IGJlc3RfcGF0aChwYXRocykKICAgICMKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQocGF0aCkKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQobGlzdCh6aXAoKnBhdGgpKSk=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -225,6 +222,12 @@
         <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICMgZHR3X3BhdGhzID0gW10KICAgICMgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZmVhdF9mdWxsX0EpKSk6CiAgICAjICAgICBkaXN0LCBjb3N0LCBjdW1fY29zdCwgcGF0aCA9IGR0dyhmZWF0X2Z1bGxfQVtpXS5ULCBmZWF0X2Z1bGxfQltpXS5ULCBsYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB7fS97fSIuZm9ybWF0KGksIGxlbihmZWF0X2Z1bGxfQSkpKQogICAgIwogICAgIyAgICAgZGlzdCwgcGF0aCA9IGZhc3RkdHcoZmVhdF9BW2ldLlQsIGZlYXRfQltpXS5ULCByYWRpdXM9NSwgZGlzdD1sYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGRpc3QsIHBhdGhzID0gd2FycGluZ19wYXRocyhucC5hcnJheShmZWF0X0FbaV0uVCksIG5wLmFycmF5KGZlYXRfQltpXS5UKSkgICMgLCB3aW5kb3c9MjUsIHBzaT0yKQogICAgIyAgICAgYmVzdCA9IGJlc3RfcGF0aChwYXRocykKICAgICMKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQocGF0aCkKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQobGlzdCh6aXAoKnBhdGgpKSk=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text># with open(&quot;SF1_mcep.pkl&quot;, &quot;rb&quot;) as f:
 #     SF1_mcep = pickle.load(f)
 
@@ -258,19 +261,16 @@
 # # print((SF1_mcep == bak_8_SF1_mcep).all())
 # # print((TF1_mcep == bak_8_TF1_mcep).all())</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYg==</text>
-      </register>
       <register name="r" type="4">
         <text>None</text>
       </register>
       <register name="3" type="4">
-        <text>None</text>
+        <text encoding="base64">CiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYg==</text>
       </register>
       <register name="4" type="4">
+        <text>None</text>
+      </register>
+      <register name="5" type="4">
         <text># y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
 # y1 = pw.synthesize(aligned_tar_feat[0]['f0'], aligned_tar_feat[0]['sp'], aligned_tar_feat[0]['ap'], aligned_tar_feat[0]['fs'])
 # 
@@ -278,20 +278,17 @@
 # lbr.output.write_wav(&quot;wav/src.wav&quot;, y, sr=16000)
 # lbr.output.write_wav(&quot;wav/tar.wav&quot;, y1, sr=16000)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgogICAgdGVtcFsnc3AnXSA9IG5wLmFzYXJyYXkoc3ApCiAgICB0ZW1wWydhcCddID0gbnAuYXNhcnJheShhcCkKICAgIHRlbXBbJ2YwJ10gPSBucC5hc2FycmF5KGYwKQogICAgdGVtcFsnZnMnXSA9IHNyY19mZWF0W2ldWydmcydd</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICMgZm9yIGlpIGluIHNyY19XW2ldOgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGR0d19mMCA9IGR0dyhzcmNfZmVhdFtpXVsnZjAnXSwgdGFyX2ZlYXRbMF1bJ2YwJ10sIGRpc3Q9ZGlzdCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGR0d19hcCA9IGR0dyhzcmNfZmVhdFtpXVsnYXAnXSwgdGFyX2ZlYXRbMF1bJ2FwJ10sIGRpc3Q9ZGlzdCkK</text>
+        <text encoding="base64">ICAgIGR0d19mMCA9IGR0dyhzcmNfZmVhdFtpXVsnZjAnXSwgdGFyX2ZlYXRbMF1bJ2YwJ10sIGRpc3Q9ZGlzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>action EditorRightWithSelection</text>
