@@ -21,10 +21,10 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1547776142233">
+      <file name="/Python Console" timestamp="1547782486304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1547729868180">
+      <file name="/fragment.py" timestamp="1547782787863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -55,12 +55,12 @@
         <mark key="^" line="50" column="50" />
         <mark key="." line="50" column="50" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547777474370">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547781332657">
         <mark key="'" line="214" column="26" />
-        <mark key="[" line="280" column="71" />
-        <mark key="]" line="203" column="0" />
-        <mark key="^" line="203" column="0" />
-        <mark key="." line="203" column="0" />
+        <mark key="[" line="276" column="45" />
+        <mark key="]" line="276" column="45" />
+        <mark key="^" line="271" column="62" />
+        <mark key="." line="276" column="45" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
@@ -91,9 +91,6 @@
         <mark key="]" line="24" column="10" />
         <mark key="^" line="7" column="25" />
         <mark key="." line="24" column="10" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/decomposition/nmf.py" timestamp="1547726301256">
-        <mark key="[" line="902" column="42" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547774905559">
         <mark key="'" line="0" column="0" />
@@ -207,10 +204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_sp, H_ap, H_f0</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>_sp, H_ap, H_f0</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
