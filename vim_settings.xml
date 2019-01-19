@@ -59,25 +59,25 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547885249022">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547887261763">
         <mark key="'" line="216" column="26" />
-        <mark key="[" line="170" column="44" />
-        <mark key="]" line="275" column="27" />
-        <mark key="^" line="275" column="27" />
-        <mark key="." line="275" column="27" />
+        <mark key="[" line="271" column="32" />
+        <mark key="]" line="271" column="43" />
+        <mark key="^" line="271" column="43" />
+        <mark key="." line="271" column="43" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
         <mark key="^" line="72" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547796774284">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547886692882">
         <mark key="'" line="164" column="85" />
-        <mark key="[" line="75" column="59" />
-        <mark key="]" line="75" column="59" />
+        <mark key="[" line="102" column="43" />
+        <mark key="]" line="102" column="43" />
         <mark key="^" line="75" column="59" />
-        <mark key="." line="75" column="59" />
+        <mark key="." line="102" column="43" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1547885903479">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1547886653150">
         <mark key="'" line="39" column="1" />
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="7" />
@@ -98,7 +98,7 @@
         <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/decomposition/nmf.py" timestamp="1547870467625" />
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547803739607">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547886851913">
         <mark key="'" line="347" column="100" />
         <mark key="m" line="396" column="40" />
       </file>
@@ -210,10 +210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICMgZHR3X3BhdGhzID0gW10KICAgICMgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZmVhdF9mdWxsX0EpKSk6CiAgICAjICAgICBkaXN0LCBjb3N0LCBjdW1fY29zdCwgcGF0aCA9IGR0dyhmZWF0X2Z1bGxfQVtpXS5ULCBmZWF0X2Z1bGxfQltpXS5ULCBsYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB7fS97fSIuZm9ybWF0KGksIGxlbihmZWF0X2Z1bGxfQSkpKQogICAgIwogICAgIyAgICAgZGlzdCwgcGF0aCA9IGZhc3RkdHcoZmVhdF9BW2ldLlQsIGZlYXRfQltpXS5ULCByYWRpdXM9NSwgZGlzdD1sYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGRpc3QsIHBhdGhzID0gd2FycGluZ19wYXRocyhucC5hcnJheShmZWF0X0FbaV0uVCksIG5wLmFycmF5KGZlYXRfQltpXS5UKSkgICMgLCB3aW5kb3c9MjUsIHBzaT0yKQogICAgIyAgICAgYmVzdCA9IGJlc3RfcGF0aChwYXRocykKICAgICMKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQocGF0aCkKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQobGlzdCh6aXAoKnBhdGgpKSk=</text>
+        <text>vc</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>vc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
