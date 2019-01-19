@@ -21,7 +21,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1547867208584">
+      <file name="/Python Console" timestamp="1547895007293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1547885284988">
@@ -59,18 +59,18 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547893688617">
-        <mark key="'" line="229" column="26" />
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="11" />
-        <mark key="^" line="56" column="33" />
-        <mark key="." line="53" column="11" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547894869275">
+        <mark key="'" line="262" column="26" />
+        <mark key="[" line="353" column="20" />
+        <mark key="]" line="353" column="20" />
+        <mark key="^" line="353" column="14" />
+        <mark key="." line="353" column="20" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
         <mark key="^" line="72" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547893198916">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547894312487">
         <mark key="'" line="89" column="49" />
         <mark key="[" line="107" column="42" />
         <mark key="]" line="103" column="79" />
@@ -211,10 +211,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>converted['f0'], converted['sp'], converted['ap'],</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>converted['f0'], converted['sp'], converted['ap'],</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -292,7 +292,7 @@
         <text encoding="base64">CgogICAgdGVtcFsnc3AnXSA9IG5wLmFzYXJyYXkoc3ApCiAgICB0ZW1wWydhcCddID0gbnAuYXNhcnJheShhcCkKICAgIHRlbXBbJ2YwJ10gPSBucC5hc2FycmF5KGYwKQogICAgdGVtcFsnZnMnXSA9IHNyY19mZWF0W2ldWydmcydd</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
@@ -328,10 +328,10 @@
         <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineStart</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
