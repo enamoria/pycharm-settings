@@ -29,12 +29,12 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1547795822303">
-        <mark key="'" line="132" column="79" />
-        <mark key="[" line="87" column="21" />
-        <mark key="]" line="87" column="11" />
-        <mark key="^" line="87" column="11" />
-        <mark key="." line="87" column="11" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1547893636792">
+        <mark key="'" line="135" column="79" />
+        <mark key="[" line="62" column="55" />
+        <mark key="]" line="90" column="11" />
+        <mark key="^" line="90" column="11" />
+        <mark key="." line="90" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1547694645915">
         <mark key="[" line="0" column="0" />
@@ -59,29 +59,29 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547887261763">
-        <mark key="'" line="216" column="26" />
-        <mark key="[" line="271" column="32" />
-        <mark key="]" line="271" column="43" />
-        <mark key="^" line="271" column="43" />
-        <mark key="." line="271" column="43" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1547893688617">
+        <mark key="'" line="229" column="26" />
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="11" />
+        <mark key="^" line="56" column="33" />
+        <mark key="." line="53" column="11" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
         <mark key="^" line="72" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547886692882">
-        <mark key="'" line="164" column="85" />
-        <mark key="[" line="102" column="43" />
-        <mark key="]" line="102" column="43" />
-        <mark key="^" line="75" column="59" />
-        <mark key="." line="102" column="43" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1547893198916">
+        <mark key="'" line="89" column="49" />
+        <mark key="[" line="107" column="42" />
+        <mark key="]" line="103" column="79" />
+        <mark key="^" line="103" column="79" />
+        <mark key="." line="103" column="79" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1547886653150">
-        <mark key="'" line="39" column="1" />
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1547893586048">
+        <mark key="'" line="40" column="1" />
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
         <mark key="^" line="8" column="7" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1547431130601">
@@ -98,7 +98,7 @@
         <mark key="." line="24" column="10" />
       </file>
       <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/sklearn/decomposition/nmf.py" timestamp="1547870467625" />
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547886851913">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547892903613">
         <mark key="'" line="347" column="100" />
         <mark key="m" line="396" column="40" />
       </file>
@@ -207,13 +207,14 @@
       <jump line="82" column="14" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" />
       <jump line="361" column="100" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
       <jump line="162" column="85" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
+      <jump line="84" column="49" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vc</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>vc</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -222,12 +223,24 @@
         <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICMgZHR3X3BhdGhzID0gW10KICAgICMgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZmVhdF9mdWxsX0EpKSk6CiAgICAjICAgICBkaXN0LCBjb3N0LCBjdW1fY29zdCwgcGF0aCA9IGR0dyhmZWF0X2Z1bGxfQVtpXS5ULCBmZWF0X2Z1bGxfQltpXS5ULCBsYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB7fS97fSIuZm9ybWF0KGksIGxlbihmZWF0X2Z1bGxfQSkpKQogICAgIwogICAgIyAgICAgZGlzdCwgcGF0aCA9IGZhc3RkdHcoZmVhdF9BW2ldLlQsIGZlYXRfQltpXS5ULCByYWRpdXM9NSwgZGlzdD1sYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGRpc3QsIHBhdGhzID0gd2FycGluZ19wYXRocyhucC5hcnJheShmZWF0X0FbaV0uVCksIG5wLmFycmF5KGZlYXRfQltpXS5UKSkgICMgLCB3aW5kb3c9MjUsIHBzaT0yKQogICAgIyAgICAgYmVzdCA9IGJlc3RfcGF0aChwYXRocykKICAgICMKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQocGF0aCkKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQobGlzdCh6aXAoKnBhdGgpKSk=</text>
+        <text encoding="base64">CgoKICAgICAgICAgICAgcg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIG5fd29ya2VycyA9IGludChjcHVfcmF0ZSAqIGNwdV9jb3VudCgpKQogICAgICAgICAgICBwID0gUG9vbChuX3dvcmtlcnMp</text>
+      </register>
+      <register name="r" type="4">
+        <text>None</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA6cGFyYW0gc3BlYWtlcjoKICAgIDpwYXJhbSBmMF9mbG9vcjoKICAgIDpwYXJhbSByZWZpbmVfZjA6CiAgICA6cGFyYW0gZnM6CiAgICA6cGFyYW0gYXVkaW9kYXRhOgogICAgOnBhcmFtIGF1ZGlvZGF0dW06IDEgZmlsZSBhdWRpbyBkYXRhLiBub3QgYWxsIDE2MgogICAgOnBhcmFtIGFyZ3M6CiAgICA6cGFyYW0ga3dhcmdzOg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICMgZHR3X3BhdGhzID0gW10KICAgICMgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZmVhdF9mdWxsX0EpKSk6CiAgICAjICAgICBkaXN0LCBjb3N0LCBjdW1fY29zdCwgcGF0aCA9IGR0dyhmZWF0X2Z1bGxfQVtpXS5ULCBmZWF0X2Z1bGxfQltpXS5ULCBsYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB7fS97fSIuZm9ybWF0KGksIGxlbihmZWF0X2Z1bGxfQSkpKQogICAgIwogICAgIyAgICAgZGlzdCwgcGF0aCA9IGZhc3RkdHcoZmVhdF9BW2ldLlQsIGZlYXRfQltpXS5ULCByYWRpdXM9NSwgZGlzdD1sYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGRpc3QsIHBhdGhzID0gd2FycGluZ19wYXRocyhucC5hcnJheShmZWF0X0FbaV0uVCksIG5wLmFycmF5KGZlYXRfQltpXS5UKSkgICMgLCB3aW5kb3c9MjUsIHBzaT0yKQogICAgIyAgICAgYmVzdCA9IGJlc3RfcGF0aChwYXRocykKICAgICMKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQocGF0aCkKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQobGlzdCh6aXAoKnBhdGgpKSk=</text>
+      </register>
+      <register name="5" type="4">
         <text># with open(&quot;SF1_mcep.pkl&quot;, &quot;rb&quot;) as f:
 #     SF1_mcep = pickle.load(f)
 
@@ -261,16 +274,13 @@
 # # print((SF1_mcep == bak_8_SF1_mcep).all())
 # # print((TF1_mcep == bak_8_TF1_mcep).all())</text>
       </register>
-      <register name="r" type="4">
-        <text>None</text>
-      </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>None</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text># y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
 # y1 = pw.synthesize(aligned_tar_feat[0]['f0'], aligned_tar_feat[0]['sp'], aligned_tar_feat[0]['ap'], aligned_tar_feat[0]['fs'])
 # 
@@ -278,20 +288,11 @@
 # lbr.output.write_wav(&quot;wav/src.wav&quot;, y, sr=16000)
 # lbr.output.write_wav(&quot;wav/tar.wav&quot;, y1, sr=16000)</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogICAgdGVtcFsnc3AnXSA9IG5wLmFzYXJyYXkoc3ApCiAgICB0ZW1wWydhcCddID0gbnAuYXNhcnJheShhcCkKICAgIHRlbXBbJ2YwJ10gPSBucC5hc2FycmF5KGYwKQogICAgdGVtcFsnZnMnXSA9IHNyY19mZWF0W2ldWydmcydd</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGlpIGluIHNyY19XW2ldOgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJyZWFrCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGR0d19mMCA9IGR0dyhzcmNfZmVhdFtpXVsnZjAnXSwgdGFyX2ZlYXRbMF1bJ2YwJ10sIGRpc3Q9ZGlzdCkK</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
@@ -324,13 +325,13 @@
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorPageDown</entry>
         <entry>action EditorPageUp</entry>
+        <entry>action EditorPageDown</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
