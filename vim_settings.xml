@@ -24,6 +24,13 @@
       <file name="/Python Console" timestamp="1548055651974">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548062234538">
+        <mark key="'" line="143" column="35" />
+        <mark key="[" line="139" column="56" />
+        <mark key="]" line="139" column="56" />
+        <mark key="^" line="165" column="18" />
+        <mark key="." line="139" column="56" />
+      </file>
       <file name="/fragment.py" timestamp="1548035099901">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
@@ -59,7 +66,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548056083887">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548061884694">
         <mark key="'" line="278" column="33" />
         <mark key="[" line="144" column="35" />
         <mark key="]" line="144" column="19" />
@@ -208,13 +215,14 @@
       <jump line="162" column="85" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
       <jump line="84" column="49" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" />
       <jump line="273" column="33" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" />
+      <jump line="143" column="35" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>conv_sp</text>
+        <text encoding="base64">IEJhcmliYXJu</text>
       </register>
       <register name="-" type="4">
-        <text>conv_sp</text>
+        <text encoding="base64">IEJhcmliYXJu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
