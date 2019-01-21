@@ -7,31 +7,25 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r.py" timestamp="1545290714747">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="76" column="19" />
-        <mark key="m" line="63" column="17" />
-        <mark key="]" line="145" column="15" />
-        <mark key="." line="145" column="15" />
-        <mark key="^" line="136" column="28" />
-      </file>
       <file name="/Dummy.txt" timestamp="1548045784838">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter_bak.py" timestamp="1548066776506" />
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548063621395">
+      <file name="/Python Console" timestamp="1548068828125">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548063780062">
-        <mark key="'" line="143" column="35" />
-        <mark key="[" line="139" column="56" />
-        <mark key="]" line="139" column="56" />
-        <mark key="^" line="167" column="18" />
-        <mark key="." line="139" column="56" />
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548068736118">
+        <mark key="p" line="94" column="29" />
+        <mark key="'" line="208" column="35" />
+        <mark key="[" line="189" column="26" />
+        <mark key="]" line="189" column="26" />
+        <mark key="^" line="229" column="3" />
+        <mark key="." line="189" column="26" />
       </file>
-      <file name="/fragment.py" timestamp="1548035099901">
+      <file name="/fragment.py" timestamp="1548068591585">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -43,7 +37,7 @@
         <mark key="^" line="90" column="11" />
         <mark key="." line="90" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1547694645915">
+      <file name="/a.dummy" timestamp="1548064937661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
@@ -219,7 +213,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEJhcmliYXJu</text>
+        <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEJhcmliYXJu</text>
@@ -231,24 +225,33 @@
         <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgoKICAgICAgICAgICAgcg==</text>
+        <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIG5fd29ya2VycyA9IGludChjcHVfcmF0ZSAqIGNwdV9jb3VudCgpKQogICAgICAgICAgICBwID0gUG9vbChuX3dvcmtlcnMp</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>None</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICA6cGFyYW0gc3BlYWtlcjoKICAgIDpwYXJhbSBmMF9mbG9vcjoKICAgIDpwYXJhbSByZWZpbmVfZjA6CiAgICA6cGFyYW0gZnM6CiAgICA6cGFyYW0gYXVkaW9kYXRhOgogICAgOnBhcmFtIGF1ZGlvZGF0dW06IDEgZmlsZSBhdWRpbyBkYXRhLiBub3QgYWxsIDE2MgogICAgOnBhcmFtIGFyZ3M6CiAgICA6cGFyYW0ga3dhcmdzOg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIENIZWNrIGlmIHdvcmQgaXMgaW4gYHdvcmRsaXN0X3dpdGhvdXRfdG9uZWAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICMgZHR3X3BhdGhzID0gW10KICAgICMgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZmVhdF9mdWxsX0EpKSk6CiAgICAjICAgICBkaXN0LCBjb3N0LCBjdW1fY29zdCwgcGF0aCA9IGR0dyhmZWF0X2Z1bGxfQVtpXS5ULCBmZWF0X2Z1bGxfQltpXS5ULCBsYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB7fS97fSIuZm9ybWF0KGksIGxlbihmZWF0X2Z1bGxfQSkpKQogICAgIwogICAgIyAgICAgZGlzdCwgcGF0aCA9IGZhc3RkdHcoZmVhdF9BW2ldLlQsIGZlYXRfQltpXS5ULCByYWRpdXM9NSwgZGlzdD1sYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGRpc3QsIHBhdGhzID0gd2FycGluZ19wYXRocyhucC5hcnJheShmZWF0X0FbaV0uVCksIG5wLmFycmF5KGZlYXRfQltpXS5UKSkgICMgLCB3aW5kb3c9MjUsIHBzaT0yKQogICAgIyAgICAgYmVzdCA9IGJlc3RfcGF0aChwYXRocykKICAgICMKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQocGF0aCkKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQobGlzdCh6aXAoKnBhdGgpKSk=</text>
+        <text encoding="base64">CgoKICAgICAgICAgICAgcg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIG5fd29ya2VycyA9IGludChjcHVfcmF0ZSAqIGNwdV9jb3VudCgpKQogICAgICAgICAgICBwID0gUG9vbChuX3dvcmtlcnMp</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICA6cGFyYW0gc3BlYWtlcjoKICAgIDpwYXJhbSBmMF9mbG9vcjoKICAgIDpwYXJhbSByZWZpbmVfZjA6CiAgICA6cGFyYW0gZnM6CiAgICA6cGFyYW0gYXVkaW9kYXRhOgogICAgOnBhcmFtIGF1ZGlvZGF0dW06IDEgZmlsZSBhdWRpbyBkYXRhLiBub3QgYWxsIDE2MgogICAgOnBhcmFtIGFyZ3M6CiAgICA6cGFyYW0ga3dhcmdzOg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICMgZHR3X3BhdGhzID0gW10KICAgICMgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZmVhdF9mdWxsX0EpKSk6CiAgICAjICAgICBkaXN0LCBjb3N0LCBjdW1fY29zdCwgcGF0aCA9IGR0dyhmZWF0X2Z1bGxfQVtpXS5ULCBmZWF0X2Z1bGxfQltpXS5ULCBsYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB7fS97fSIuZm9ybWF0KGksIGxlbihmZWF0X2Z1bGxfQSkpKQogICAgIwogICAgIyAgICAgZGlzdCwgcGF0aCA9IGZhc3RkdHcoZmVhdF9BW2ldLlQsIGZlYXRfQltpXS5ULCByYWRpdXM9NSwgZGlzdD1sYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGRpc3QsIHBhdGhzID0gd2FycGluZ19wYXRocyhucC5hcnJheShmZWF0X0FbaV0uVCksIG5wLmFycmF5KGZlYXRfQltpXS5UKSkgICMgLCB3aW5kb3c9MjUsIHBzaT0yKQogICAgIyAgICAgYmVzdCA9IGJlc3RfcGF0aChwYXRocykKICAgICMKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQocGF0aCkKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQobGlzdCh6aXAoKnBhdGgpKSk=</text>
+      </register>
+      <register name="8" type="4">
         <text># with open(&quot;SF1_mcep.pkl&quot;, &quot;rb&quot;) as f:
 #     SF1_mcep = pickle.load(f)
 
@@ -282,25 +285,11 @@
 # # print((SF1_mcep == bak_8_SF1_mcep).all())
 # # print((TF1_mcep == bak_8_TF1_mcep).all())</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYg==</text>
       </register>
-      <register name="7" type="4">
-        <text>None</text>
-      </register>
-      <register name="8" type="4">
-        <text># y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
-# y1 = pw.synthesize(aligned_tar_feat[0]['f0'], aligned_tar_feat[0]['sp'], aligned_tar_feat[0]['ap'], aligned_tar_feat[0]['fs'])
-# 
-# os.system(&quot;mkdir -p wav&quot;)
-# lbr.output.write_wav(&quot;wav/src.wav&quot;, y, sr=16000)
-# lbr.output.write_wav(&quot;wav/tar.wav&quot;, y1, sr=16000)</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgdGVtcFsnc3AnXSA9IG5wLmFzYXJyYXkoc3ApCiAgICB0ZW1wWydhcCddID0gbnAuYXNhcnJheShhcCkKICAgIHRlbXBbJ2YwJ10gPSBucC5hc2FycmF5KGYwKQogICAgdGVtcFsnZnMnXSA9IHNyY19mZWF0W2ldWydmcydd</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
@@ -335,11 +324,11 @@
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorLineStart</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
