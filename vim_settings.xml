@@ -19,7 +19,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548130467482">
+      <file name="/Python Console" timestamp="1548144645685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548068736118">
@@ -30,7 +30,7 @@
         <mark key="^" line="229" column="3" />
         <mark key="." line="189" column="26" />
       </file>
-      <file name="/fragment.py" timestamp="1548129329965">
+      <file name="/fragment.py" timestamp="1548144653237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -48,11 +48,11 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1548143013896">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1548144203039">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
         <mark key="^" line="20" column="19" />
-        <mark key="." line="7" column="18" />
+        <mark key="." line="10" column="47" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548128629749">
         <mark key="'" line="82" column="14" />
@@ -70,11 +70,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548129950686">
-        <mark key="'" line="282" column="33" />
-        <mark key="[" line="270" column="12" />
-        <mark key="]" line="270" column="48" />
-        <mark key="." line="270" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548144582774">
+        <mark key="'" line="283" column="33" />
+        <mark key="[" line="271" column="12" />
+        <mark key="]" line="271" column="48" />
+        <mark key="." line="271" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
@@ -209,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8712</text>
+        <text>, v</text>
       </register>
       <register name="-" type="4">
-        <text>8712</text>
+        <text>, v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
