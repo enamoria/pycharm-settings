@@ -7,10 +7,15 @@
         <mark key="'" line="193" column="54" />
         <mark key="[" line="12" column="20" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
+        <mark key="[" line="1665" column="4" />
+        <mark key="]" line="1663" column="0" />
+        <mark key="^" line="1663" column="0" />
+        <mark key="." line="1663" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1548045784838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter_bak.py" timestamp="1548066776506" />
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
@@ -49,9 +54,9 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548040617345">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548124141698">
         <mark key="'" line="82" column="14" />
-        <mark key="[" line="91" column="0" />
+        <mark key="[" line="93" column="0" />
         <mark key="]" line="50" column="50" />
         <mark key="^" line="50" column="50" />
         <mark key="." line="50" column="50" />
@@ -101,12 +106,6 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1547892903613">
         <mark key="'" line="347" column="100" />
         <mark key="m" line="396" column="40" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1545029067612">
-        <mark key="[" line="1665" column="4" />
-        <mark key="]" line="1663" column="0" />
-        <mark key="^" line="1663" column="0" />
-        <mark key="." line="1663" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_compensation.py" timestamp="1547547486865">
         <mark key="'" line="9" column="87" />
@@ -289,7 +288,7 @@
         <text encoding="base64">CiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLineStart</text>
+        <text>action EditorRightWithSelection</text>
       </register>
     </registers>
     <search>
@@ -324,11 +323,11 @@
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
