@@ -19,7 +19,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548068828125">
+      <file name="/Python Console" timestamp="1548130467482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548068736118">
@@ -30,7 +30,7 @@
         <mark key="^" line="229" column="3" />
         <mark key="." line="189" column="26" />
       </file>
-      <file name="/fragment.py" timestamp="1548068591585">
+      <file name="/fragment.py" timestamp="1548129329965">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -54,23 +54,27 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548124141698">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548128629749">
         <mark key="'" line="82" column="14" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="50" column="50" />
-        <mark key="^" line="50" column="50" />
-        <mark key="." line="50" column="50" />
+        <mark key="[" line="208" column="50" />
+        <mark key="]" line="208" column="50" />
+        <mark key="^" line="208" column="50" />
+        <mark key="." line="208" column="50" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_qrmf.py" timestamp="1548130589149">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/data/vc/linhtinh.py" timestamp="1547786210360">
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548061884694">
-        <mark key="'" line="278" column="33" />
-        <mark key="[" line="144" column="35" />
-        <mark key="]" line="144" column="19" />
-        <mark key="^" line="144" column="19" />
-        <mark key="." line="144" column="19" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548129950686">
+        <mark key="'" line="282" column="33" />
+        <mark key="[" line="270" column="12" />
+        <mark key="]" line="270" column="48" />
+        <mark key="." line="270" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
@@ -89,13 +93,6 @@
         <mark key="]" line="11" column="16" />
         <mark key="." line="11" column="16" />
         <mark key="^" line="8" column="7" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" timestamp="1547431130601">
-        <mark key="c" line="128" column="36" />
-        <mark key="[" line="5" column="46" />
-        <mark key="]" line="193" column="11" />
-        <mark key="^" line="193" column="11" />
-        <mark key="." line="193" column="11" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/README.md" timestamp="1547774717165">
         <mark key="[" line="18" column="0" />
@@ -211,84 +208,53 @@
       <jump line="143" column="35" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEJhcmliYXJu</text>
+        <text>']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuX3dvcmtlcnMgPSBjcHVfcmF0ZSAqIGNwdV9jb3VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgppbXBvcnQgcwpmcm9tIHV0aWxzIGltcG9ydCBjb25maWdfZ2V0X2NvbmZpZwo=</text>
       </register>
       <register name="r" type="4">
         <text>None</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENIZWNrIGlmIHdvcmQgaXMgaW4gYHdvcmRsaXN0X3dpdGhvdXRfdG9uZWAK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgpmcm9tIHMKZnJvbSB1dGlscyBpbXBvcnQgY29uZmlnX2dldF9jb25maWcK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgoKICAgICAgICAgICAgcg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIG5fd29ya2VycyA9IGludChjcHVfcmF0ZSAqIGNwdV9jb3VudCgpKQogICAgICAgICAgICBwID0gUG9vbChuX3dvcmtlcnMp</text>
+        <text encoding="base64">ICAgIAp3aXRoIG9wZW4oImRhdGEvdmMvZXhlbV9kaWN0L1NGMV9mZWF0X3N0ZnQucGtsIiwgInJiIikgYXMgZjoKICAgIHNyY19mZWF0ID0gcGlja2xlLmxvYWQoZilbMF1bJ3N0ZnQnXQoKd2l0aCBvcGVuKCJkYXRhL3ZjL2V4ZW1fZGljdC9UTTNfZmVhdF9zdGZ0LnBrbCIsICJyYiIpIGFzIGY6CiAgICB0YXJfZmVhdCA9IHBpY2tsZS5sb2FkKGYpWzBdWydzdGZ0J10=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICA6cGFyYW0gc3BlYWtlcjoKICAgIDpwYXJhbSBmMF9mbG9vcjoKICAgIDpwYXJhbSByZWZpbmVfZjA6CiAgICA6cGFyYW0gZnM6CiAgICA6cGFyYW0gYXVkaW9kYXRhOgogICAgOnBhcmFtIGF1ZGlvZGF0dW06IDEgZmlsZSBhdWRpbyBkYXRhLiBub3QgYWxsIDE2MgogICAgOnBhcmFtIGFyZ3M6CiAgICA6cGFyYW0ga3dhcmdzOg==</text>
+        <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICMgZHR3X3BhdGhzID0gW10KICAgICMgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZmVhdF9mdWxsX0EpKSk6CiAgICAjICAgICBkaXN0LCBjb3N0LCBjdW1fY29zdCwgcGF0aCA9IGR0dyhmZWF0X2Z1bGxfQVtpXS5ULCBmZWF0X2Z1bGxfQltpXS5ULCBsYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGxvZ2dpbmcuaW5mbygiRG9uZSB7fS97fSIuZm9ybWF0KGksIGxlbihmZWF0X2Z1bGxfQSkpKQogICAgIwogICAgIyAgICAgZGlzdCwgcGF0aCA9IGZhc3RkdHcoZmVhdF9BW2ldLlQsIGZlYXRfQltpXS5ULCByYWRpdXM9NSwgZGlzdD1sYW1iZGEgeCwgeTogbnAubGluYWxnLm5vcm0oeCAtIHksIG9yZD0xKSkKICAgICMgICAgIGRpc3QsIHBhdGhzID0gd2FycGluZ19wYXRocyhucC5hcnJheShmZWF0X0FbaV0uVCksIG5wLmFycmF5KGZlYXRfQltpXS5UKSkgICMgLCB3aW5kb3c9MjUsIHBzaT0yKQogICAgIyAgICAgYmVzdCA9IGJlc3RfcGF0aChwYXRocykKICAgICMKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQocGF0aCkKICAgICMgICAgIGR0d19wYXRocy5hcHBlbmQobGlzdCh6aXAoKnBhdGgpKSk=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text># with open(&quot;SF1_mcep.pkl&quot;, &quot;rb&quot;) as f:
-#     SF1_mcep = pickle.load(f)
-
-# with open(&quot;TF1_mcep.pkl&quot;, &quot;rb&quot;) as f:
-#     TF1_mcep = pickle.load(f)
-
-# with open(&quot;bak_8_SF1_mcep.pkl&quot;, &quot;rb&quot;) as f:
-#     bak_8_SF1_mcep = pickle.load(f)
-
-# with open(&quot;bak_8_TF1_mcep.pkl&quot;, &quot;rb&quot;) as f:
-#     bak_8_TF1_mcep = pickle.load(f)            
-
-# print(type(bak_8_SF1_mcep))
-# assert len(SF1_mcep) == len(bak_8_SF1_mcep), &quot;wrong len SF1&quot;
-# assert len(TF1_mcep) == len(bak_8_TF1_mcep), &quot;wrong len TF1&quot;
-
-# SF1 = []
-# for i in range(len(SF1_mcep)):
-#     # print(TF1_mcep[i][:3])
-#     # input(&quot;..&quot;)
-
-#     # print(bak_8_TF1_mcep[i][:3])
-#     # input(&quot;..&quot;)
-#     print((TF1_mcep[i] == bak_8_TF1_mcep[i]).all())
-#     SF1.append((TF1_mcep[i] == bak_8_TF1_mcep[i]).all())
-
-# print(np.array(SF1))
-# print(Counter(np.array(SF1)))
-# unique, counts = np.unique(np.array(SF1).ravel(), return_counts=True)
-# print(counts)
-# # print((SF1_mcep == bak_8_SF1_mcep).all())
-# # print((TF1_mcep == bak_8_TF1_mcep).all())</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIENIZWNrIGlmIHdvcmQgaXMgaW4gYHdvcmRsaXN0X3dpdGhvdXRfdG9uZWAK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYg==</text>
+        <text encoding="base64">CgoKICAgICAgICAgICAgcg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -323,11 +289,11 @@
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
