@@ -19,7 +19,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548144645685">
+      <file name="/Python Console" timestamp="1548145679309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548068736118">
@@ -30,14 +30,14 @@
         <mark key="^" line="229" column="3" />
         <mark key="." line="189" column="26" />
       </file>
-      <file name="/fragment.py" timestamp="1548144653237">
+      <file name="/fragment.py" timestamp="1548145692899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1547893636792">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1548145690237">
         <mark key="'" line="135" column="79" />
-        <mark key="[" line="62" column="55" />
+        <mark key="[" line="63" column="28" />
         <mark key="]" line="90" column="11" />
         <mark key="^" line="90" column="11" />
         <mark key="." line="90" column="11" />
@@ -70,7 +70,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548144582774">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548145476815">
         <mark key="'" line="283" column="33" />
         <mark key="[" line="271" column="12" />
         <mark key="]" line="271" column="48" />
@@ -87,9 +87,9 @@
         <mark key="^" line="106" column="79" />
         <mark key="." line="106" column="79" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1547893586048">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1548145659119">
         <mark key="'" line="40" column="1" />
-        <mark key="[" line="11" column="11" />
+        <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="16" />
         <mark key="." line="11" column="16" />
         <mark key="^" line="8" column="7" />
@@ -254,7 +254,7 @@
         <text encoding="base64">CgoKICAgICAgICAgICAgcg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorPageDown</text>
       </register>
     </registers>
     <search>
@@ -287,13 +287,13 @@
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorPageDown</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
