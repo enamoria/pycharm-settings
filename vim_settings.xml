@@ -70,11 +70,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548145476815">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548146419130">
         <mark key="'" line="283" column="33" />
-        <mark key="[" line="271" column="12" />
-        <mark key="]" line="271" column="48" />
-        <mark key="." line="271" column="0" />
+        <mark key="[" line="206" column="143" />
+        <mark key="]" line="206" column="143" />
+        <mark key="." line="206" column="143" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
         <mark key="'" line="0" column="0" />
@@ -209,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, v</text>
+        <text>mu</text>
       </register>
       <register name="-" type="4">
-        <text>, v</text>
+        <text>mu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -254,7 +254,7 @@
         <text encoding="base64">CgoKICAgICAgICAgICAgcg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorPageDown</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -289,11 +289,11 @@
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorLineStart</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorPageDown</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
