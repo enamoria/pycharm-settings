@@ -48,11 +48,11 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1547437696623">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="34" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/demo_graph.py" timestamp="1548143013896">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548128629749">
         <mark key="'" line="82" column="14" />
@@ -62,9 +62,9 @@
         <mark key="." line="208" column="50" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_qrmf.py" timestamp="1548130589149">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/data/vc/linhtinh.py" timestamp="1547786210360">
         <mark key="]" line="10" column="0" />
@@ -208,11 +208,11 @@
       <jump line="143" column="35" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
+      <register name="&quot;" type="4">
+        <text>8712</text>
       </register>
       <register name="-" type="4">
-        <text>']</text>
+        <text>8712</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -254,7 +254,7 @@
         <text encoding="base64">CgoKICAgICAgICAgICAgcg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -287,13 +287,13 @@
         <entry>action EditorUp</entry>
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
-        <entry>action EditorPageUp</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorPageUp</entry>
         <entry>action EditorLineStart</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
