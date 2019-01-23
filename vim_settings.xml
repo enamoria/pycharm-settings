@@ -19,7 +19,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548229747112">
+      <file name="/Python Console" timestamp="1548239869590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548068736118">
@@ -30,7 +30,7 @@
         <mark key="^" line="229" column="3" />
         <mark key="." line="189" column="26" />
       </file>
-      <file name="/fragment.py" timestamp="1548145692899">
+      <file name="/fragment.py" timestamp="1548239640820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -78,8 +78,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548237537577">
-        <mark key="[" line="283" column="60" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548239924459">
+        <mark key="'" line="360" column="60" />
+        <mark key="[" line="363" column="67" />
+        <mark key="]" line="363" column="67" />
+        <mark key="." line="363" column="67" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1548035343477">
         <mark key="'" line="89" column="49" />
@@ -88,9 +91,9 @@
         <mark key="^" line="106" column="79" />
         <mark key="." line="106" column="79" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1548236115827">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1548238698604">
         <mark key="'" line="40" column="1" />
-        <mark key="[" line="47" column="9" />
+        <mark key="[" line="47" column="11" />
         <mark key="]" line="47" column="10" />
         <mark key="." line="47" column="10" />
         <mark key="^" line="8" column="7" />
@@ -121,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="199" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="221" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="214" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -221,13 +223,14 @@
       <jump line="170" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
       <jump line="54" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" />
       <jump line="142" column="41" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf_pytorch.py" />
+      <jump line="360" column="60" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">bnAubWF0bXVsKEhfc3AuVCwg</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">bnAubWF0bXVsKEhfc3AuVCwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -236,6 +239,202 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
       <register name="1" type="4">
+        <text>SP AP F0
+    # y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
+    os.system(&quot;mkdir -p wav&quot;)
+    y = pw.synthesize(f0, sp, ap, fs)
+
+    lbr.output.write_wav(&quot;wav/{}.wav&quot;.format(filename), y, sr=fs)
+    logging.info(&quot;Done synthesizing. Output is saved at wav/sp_ap_f0_{}.wav&quot;.format(filename))
+
+
+def synthesize2(stft, fs, filename=str(datetime.datetime.now()).replace(&quot; &quot;, &quot;_&quot;)):
+    # ISTFT
+    # y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
+    os.system(&quot;mkdir -p wav&quot;)
+
+    y = lbr.core.istft(stft_matrix=stft, hop_length=hop_length, window=window)
+    lbr.output.write_wav(&quot;wav/{}.wav&quot;.format(filename), y, sr=fs)
+    logging.info(&quot;Done synthesizing. Output is saved at wav/stft_{}.wav&quot;.format(filename))
+
+
+def _factorize(X, W, beta_loss=&quot;kullback-leibler&quot;, tol=1e-4):
+    &quot;&quot;&quot;
+        Calculate matrix `H`, which `W x H ~ X`
+        Note: In this function, `sklearn.decomposition's` non_negative_factorization is used. This function's implementation only
+                allow we to feed in a fixed H, not W. So we need to used a trick here to feed in a fixed W (we need to fix W, it's our exemplar dictionary).
+                Instead of calling `non_negative_factorization(X=X, H=H)` directly, we feed in `X.T as X, W.T as H. Notice that:
+                        X.T = H.T x W.T
+                    So we transpose H and W to swap their roles. Remember to swap the result back
+
+    :param X: original matrix, which we need to decompose
+    :param W: We have precomputed W.
+    :return: H: W ~ W x H
+    &quot;&quot;&quot;
+    # Note: This statement should be true, but the input of this function is (n_samples, n_features), so we don't need to transpose (X.T). See their shapes for better understand
+    # _W, _H, n_iter = non_negative_factorization(X=X.T, H=W.T, init=&quot;custom&quot;, update_H=False, n_components=W.T.shape[1], beta_loss=beta_loss, solver='mu')
+
+    beta_loss = &quot;frobenius&quot;
+
+    _W, _H, n_iter = non_negative_factorization(X=X, H=W, init=&quot;custom&quot;, update_H=False, n_components=W.shape[0], beta_loss=beta_loss, solver='mu', tol=tol,
+                                                max_iter=50, verbose=1)
+
+    return _W.T
+
+
+def factorize(tobe_converted, src_feat):
+    &quot;&quot;&quot;
+        Perform Non-negative Matrix Factorization. Audio-file level.
+        1st attempt: perform nmf on each feature type (sp, ap, f0)
+
+        Note: NMF is best used with the fit_transform method, which returns the matrix W.
+        The matrix H is stored into the fitted model in the components_ attribute;
+
+            Note of note: X^T=H^T W^T. sklearn NMF decompose X = WH, but can fix H only (use precomputed H)
+    :return:
+    &quot;&quot;&quot;
+
+    def init_A_exemplar(tobe_converted, src_feat):
+        conv_sp, conv_ap, conv_f0 = tobe_converted['sp'], tobe_converted['ap'], tobe_converted['f0'][:, np.newaxis]
+
+        A_sp = []  # np.asarray([src_feat[i]['sp'] for i in range(len(src_feat))])
+        A_ap = []  # np.asarray([src_feat[i]['ap'] for i in range(len(src_feat))])
+        A_f0 = []  # np.asarray([src_feat[i]['f0'] for i in range(len(src_feat))])
+
+        for i in range(len(src_feat)):
+            A_sp.extend(src_feat[i]['sp'])
+            A_ap.extend(src_feat[i]['ap'])
+            A_f0.extend(src_feat[i]['f0'])
+
+        A_sp = np.asarray(A_sp)
+        A_ap = np.asarray(A_ap)
+        A_f0 = np.asarray(A_f0)[:, np.newaxis]
+
+        return A_sp, A_ap, A_f0, conv_sp, conv_ap, conv_f0
+
+    logging.info(&quot;Start calculating the activation matrix H ...&quot;)
+
+    if not use_stft:
+        if os.path.isfile(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_sp_ap_f0&quot;, len(src_feat))):
+            logging.info(&quot;Found a precomputed H at {}_{}.pkl. Loading ...&quot;.format(&quot;H_test_sp_ap_f0&quot;, len(src_feat)))
+            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_sp_ap_f0&quot;, len(src_feat)), &quot;rb&quot;) as f:
+                # return pickle.load(f)
+                H = pickle.load(f)
+
+            if os.path.isfile(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat))):
+                logging.info(&quot;Found a precomputed R at {}_{}.pkl. Loading ...&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat)))
+                with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat)), &quot;rb&quot;) as f:
+                    R = pickle.load(f)
+            else:
+                # R is not exist. Calculate R from H and src_feat:
+                #   log r_n = log y_n - log y_hat_n\
+                logging.info(&quot;Calculating residual compensation R ...&quot;)
+
+                A_sp, A_ap, A_f0, conv_sp, conv_ap, conv_f0 = init_A_exemplar(tobe_converted, src_feat)
+
+                src_hat_sp_residual = np.log(np.matmul(A_sp, H['H_sp']) - conv_sp)
+                src_hat_ap_residual = np.log(np.matmul(A_ap, H['H_ap']) - conv_ap)
+                src_hat_f0_residual = np.log(np.matmul(A_f0, H['H_f0']) - conv_f0)
+
+                R = {'r_sp': src_hat_sp_residual, 'r_ap': src_hat_ap_residual, 'f0': src_hat_f0_residual}
+                with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat)), &quot;wb&quot;) as f:
+                    pickle.dump(R, f)
+
+            return H, R
+        else:
+            logging.info(&quot;Calculating H with sp ap f0 feature ...&quot;)
+            # conv_sp, conv_ap, conv_f0 = tobe_converted['sp'], tobe_converted['ap'], tobe_converted['f0'][:, np.newaxis]
+
+            A_sp, A_ap, A_f0, conv_sp, conv_ap, conv_f0 = init_A_exemplar(tobe_converted, src_feat)
+
+            print(&quot;Calculating H_sp ...&quot;)
+            H_sp = _factorize(X=conv_sp, W=A_sp)
+            print(&quot;Calculating H_ap ...&quot;)
+            H_ap = _factorize(X=conv_ap, W=A_ap)
+            print(&quot;Calculating H_f0 ...&quot;)
+            H_f0 = _factorize(X=conv_f0, W=A_f0)
+
+            H = {'H_sp': H_sp, 'H_ap': H_ap, 'H_f0': H_f0}
+
+            src_hat_sp_residual = np.log(np.matmul(H['H_sp'].T, A_sp) - conv_sp)
+            src_hat_ap_residual = np.log(np.matmul(H['H_ap'].T, A_ap) - conv_ap)
+            src_hat_f0_residual = np.log(np.matmul(H['H_f0'].T, A_f0) - conv_f0)
+
+            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_sp_ap_f0&quot;, len(src_feat)), &quot;wb&quot;) as f:
+                pickle.dump(H, f)
+
+            R = {'r_sp': src_hat_sp_residual, 'r_ap': src_hat_ap_residual, 'f0': src_hat_f0_residual}
+            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat)), &quot;wb&quot;) as f:
+                pickle.dump(R, f)
+
+            return H, R
+    else:
+        if os.path.isfile(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_stft&quot;, len(src_feat))):
+            logging.info(&quot;Found a precomputed H at {}_{}.pkl. Loading ...&quot;.format(&quot;H_test_stft&quot;, len(src_feat)))
+            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_stft&quot;, len(src_feat)), &quot;rb&quot;) as f:
+                return pickle.load(f)
+        else:
+            logging.info(&quot;Calculating H with stft feature ...&quot;)
+
+            # EDIT 2019 Jan 22: within this block of code, `['stft']` will be changed to `['real']`: convert only the real part,
+            # since sklearn NMF doesn't support NMF for complex-value matrix. For testing the feasibility.
+            # conv_stft = tobe_converted['stft']
+            conv_stft = tobe_converted['real']
+
+            A_stft = []
+
+            for i in range(len(src_feat)):
+                A_stft.extend(src_feat[i]['stft'])
+
+            A_stft = np.asarray(A_stft)
+
+            print(&quot;Calculating H_stft ...&quot;)
+            H_stft = _factorize(X=conv_stft, W=A_stft)
+
+            H = {'H_stft': H_stft}
+
+            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_stft&quot;, len(src_feat)), &quot;wb&quot;) as f:
+                pickle.dump(H, f)
+
+            return H
+
+
+def convert(H, tar_feat, residual):
+    # TODO MAI VIET DOC
+    &quot;&quot;&quot;
+        From H and aligned_target_features (target exemplars), we calculate converted feature
+    :param H: Activation matrix
+    :param tar_feat: aligned target features
+    :param residual:
+    :return: converted feature, type `dict`
+    &quot;&quot;&quot;
+    logging.info(&quot;Using H for conversion ...&quot;)
+
+    H_sp, H_ap, H_f0 = H['H_sp'], H['H_ap'], H['H_f0']
+
+    B_sp = []  # np.asarray([src_feat[i]['sp'] for i in range(len(src_feat))])
+    B_ap = []  # np.asarray([src_feat[i]['ap'] for i in range(len(src_feat))])
+    B_f0 = []  # np.asarray([src_feat[i]['f0'] for i in range(len(src_feat))])
+
+    for i in range(len(tar_feat)):
+        B_sp.extend(tar_feat[i]['sp'])
+        B_ap.extend(tar_feat[i]['ap'])
+        B_f0.extend(tar_feat[i]['f0'])
+
+    B_sp = np.asarray(B_sp)
+    B_ap = np.asarray(B_ap)
+    B_f0 = np.asarray(B_f0)[:, np.newaxis]
+
+    # converted_sp = np.matmul(H_sp.T, B_sp)
+    # converted_ap = np.matmul(H_ap.T, B_ap)
+    # converted_f0 = np.matmul(H_f0.T, B_f0)
+
+    converted_sp = np.exp(np.log(np.matmul(H_sp.T, B_sp)) +</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>nmf = NMF(data, num_bases=W.shape[1])
 nmf._init_h()
 
@@ -247,10 +446,10 @@ print(np.matmul(nmf.W, nmf.H))
 print(np.matmul(nmf.W, nmf.H) - data)
 # pdb.set_trace()</text>
       </register>
-      <register name="q" type="4">
-        <text />
+      <register name="r" type="4">
+        <text>None</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text># def factorize(X, W, beta_loss=&quot;kullback-leibler&quot;):
 #     &quot;&quot;&quot;
 #         Calculate matrix `H`, which `W x H ~ X`
@@ -436,29 +635,23 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
 #
 # lbr.output.write_wav(&quot;wav/zz_test.wav&quot;, y, sr=fs, norm=True)</text>
       </register>
-      <register name="r" type="4">
-        <text>None</text>
-      </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ZGVmIG5tZihWLCBXaW5pdCwgSGluaXQsIHRvbCwgdGltZWxpbWl0LCBtYXhpdGVyKToKICAgICIiIgogICAgKFcsSCkgPSBubWYoVixXaW5pdCxIaW5pdCx0b2wsdGltZWxpbWl0LG1heGl0ZXIpCiAgICBXLEg6IG91dHB1dCBzb2x1dGlvbgogICAgV2luaXQsSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogdG9sZXJhbmNlIGZvciBhIHJlbGF0aXZlIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgdGltZWxpbWl0LCBtYXhpdGVyOiBsaW1pdCBvZiB0aW1lIGFuZCBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBXID0gV2luaXQ7CiAgICBIID0gSGluaXQ7CiAgICBpbml0dCA9IHRpbWUoKTsKCiAgICBncmFkVyA9IGRvdChXLCBkb3QoSCwgSC5UKSkgLSBkb3QoViwgSC5UKQogICAgZ3JhZEggPSBkb3QoZG90KFcuVCwgVyksIEgpIC0gZG90KFcuVCwgVikKICAgIGluaXRncmFkID0gbm9ybShyX1tncmFkVywgZ3JhZEguVF0pCiAgICBwcmludCgnSW5pdCBncmFkaWVudCBub3JtICVmJyAlIGluaXRncmFkKQogICAgdG9sVyA9IG1heCgwLjAwMSwgdG9sKSAqIGluaXRncmFkCiAgICB0b2xIID0gdG9sVwoKICAgIGZvciBpdGVyIGluIHhyYW5nZSgxLCBtYXhpdGVyKToKICAgICAgICAjIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgICAgIHByb2pub3JtID0gbm9ybShyX1tncmFkV1tsb2dpY2FsX29yKGdyYWRXIDwgMCwgVyA+IDApXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZEhbbG9naWNhbF9vcihncmFkSCA8IDAsIEggPiAwKV1dKQogICAgICAgIGlmIHByb2pub3JtIDwgdG9sICogaW5pdGdyYWQgb3IgdGltZSgpIC0gaW5pdHQgPiB0aW1lbGltaXQ6IGJyZWFrCgogICAgICAgIChXLCBncmFkVywgaXRlclcpID0gbmxzc3VicHJvYihWLlQsIEguVCwgVy5ULCB0b2xXLCAxMDAwKQogICAgICAgIFcgPSBXLlQKICAgICAgICBncmFkVyA9IGdyYWRXLlQKCiAgICAgICAgaWYgaXRlclcgPT0gMTogdG9sVyA9IDAuMSAqIHRvbFcKCiAgICAgICAgKEgsIGdyYWRILCBpdGVySCkgPSBubHNzdWJwcm9iKFYsIFcsIEgsIHRvbEgsIDEwMDApCiAgICAgICAgaWYgaXRlckggPT0gMTogdG9sSCA9IDAuMSAqIHRvbEgKCiAgICAgICAgaWYgaXRlciAlIDEwID09IDA6IHN0ZG91dC53cml0ZSgnLicpCgogICAgICAgIHByaW50KCdcbkl0ZXIgPSAlZCBGaW5hbCBwcm9qLWdyYWQgbm9ybSAlZicgJSAoaXRlciwgcHJvam5vcm0pKQogICAgICAgIAogICAgcmV0dXJuIChXLCBIKQoKCmRlZiBubHNzdWJwcm9iKFYsIFcsIEhpbml0LCB0b2wsIG1heGl0ZXIpOgogICAgIiIiCiAgICBILCBncmFkOiBvdXRwdXQgc29sdXRpb24gYW5kIGdyYWRpZW50CiAgICBpdGVyOiAjaXRlcmF0aW9ucyB1c2VkCiAgICBWLCBXOiBjb25zdGFudCBtYXRyaWNlcwogICAgSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogc3RvcHBpbmcgdG9sZXJhbmNlCiAgICBtYXhpdGVyOiBsaW1pdCBvZiBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBIID0gSGluaXQKICAgIFd0ViA9IGRvdChXLlQsIFYpCiAgICBXdFcgPSBkb3QoVy5ULCBXKQoKICAgIGFscGhhID0gMTsKICAgIGJldGEgPSAwLjE7CiAgICBmb3IgaXRlciBpbiB4cmFuZ2UoMSwgbWF4aXRlcik6CiAgICAgICAgZ3JhZCA9IGRvdChXdFcsIEgpIC0gV3RWCiAgICAgICAgcHJvamdyYWQgPSBub3JtKGdyYWRbbG9naWNhbF9vcihncmFkIDwgMCwgSCA+IDApXSkKICAgICAgICBpZiBwcm9qZ3JhZCA8IHRvbDogYnJlYWsKCiAgICAgICAgIyBzZWFyY2ggc3RlcCBzaXplIAogICAgICAgIGZvciBpbm5lcl9pdGVyIGluIHhyYW5nZSgxLCAyMCk6CiAgICAgICAgICAgIEhuID0gSCAtIGFscGhhICogZ3JhZAogICAgICAgICAgICBIbiA9IHdoZXJlKEhuID4gMCwgSG4sIDApCiAgICAgICAgICAgIGQgPSBIbiAtIEgKICAgICAgICAgICAgZ3JhZGQgPSBzdW0oZ3JhZCAqIGQpCiAgICAgICAgICAgIGRRZCA9IHN1bShkb3QoV3RXLCBkKSAqIGQpCiAgICAgICAgICAgIHN1ZmZfZGVjciA9IDAuOTkgKiBncmFkZCArIDAuNSAqIGRRZCA8IDA7CiAgICAgICAgICAgIGlmIGlubmVyX2l0ZXIgPT0gMToKICAgICAgICAgICAgICAgIGRlY3JfYWxwaGEgPSBub3Qgc3VmZl9kZWNyOwogICAgICAgICAgICAgICAgSHAgPSBIOwogICAgICAgICAgICBpZiBkZWNyX2FscGhhOgogICAgICAgICAgICAgICAgaWYgc3VmZl9kZWNyOgogICAgICAgICAgICAgICAgICAgIEggPSBIbjsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWxwaGEgPSBhbHBoYSAqIGJldGE7CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBub3Qgc3VmZl9kZWNyIG9yIChIcCA9PSBIbikuYWxsKCk6CiAgICAgICAgICAgICAgICAgICAgSCA9IEhwOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBhbHBoYSA9IGFscGhhIC8gYmV0YTsKICAgICAgICAgICAgICAgICAgICBIcCA9IEhuOwoKICAgICAgICBpZiBpdGVyID09IG1heGl0ZXI6CiAgICAgICAgICAgIHByaW50KCdNYXggaXRlciBpbiBubHNzdWJwcm9iJykKICAgIHJldHVybiAoSCwgZ3JhZCwgaXRlcik=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgppbXBvcnQgcwpmcm9tIHV0aWxzIGltcG9ydCBjb25maWdfZ2V0X2NvbmZpZwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgpmcm9tIHMKZnJvbSB1dGlscyBpbXBvcnQgY29uZmlnX2dldF9jb25maWcK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIAp3aXRoIG9wZW4oImRhdGEvdmMvZXhlbV9kaWN0L1NGMV9mZWF0X3N0ZnQucGtsIiwgInJiIikgYXMgZjoKICAgIHNyY19mZWF0ID0gcGlja2xlLmxvYWQoZilbMF1bJ3N0ZnQnXQoKd2l0aCBvcGVuKCJkYXRhL3ZjL2V4ZW1fZGljdC9UTTNfZmVhdF9zdGZ0LnBrbCIsICJyYiIpIGFzIGY6CiAgICB0YXJfZmVhdCA9IHBpY2tsZS5sb2FkKGYpWzBdWydzdGZ0J10=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
+        <text encoding="base64">ICAgIAp3aXRoIG9wZW4oImRhdGEvdmMvZXhlbV9kaWN0L1NGMV9mZWF0X3N0ZnQucGtsIiwgInJiIikgYXMgZjoKICAgIHNyY19mZWF0ID0gcGlja2xlLmxvYWQoZilbMF1bJ3N0ZnQnXQoKd2l0aCBvcGVuKCJkYXRhL3ZjL2V4ZW1fZGljdC9UTTNfZmVhdF9zdGZ0LnBrbCIsICJyYiIpIGFzIGY6CiAgICB0YXJfZmVhdCA9IHBpY2tsZS5sb2FkKGYpWzBdWydzdGZ0J10=</text>
       </register>
       <register name=":" type="4">
         <text>action EditorRightWithSelection</text>
