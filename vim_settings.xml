@@ -85,12 +85,12 @@
         <mark key="." line="208" column="56" />
         <mark key="^" line="208" column="56" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1548035343477">
-        <mark key="'" line="89" column="49" />
-        <mark key="[" line="97" column="99" />
-        <mark key="]" line="106" column="79" />
-        <mark key="^" line="106" column="79" />
-        <mark key="." line="106" column="79" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1548243105811">
+        <mark key="'" line="90" column="49" />
+        <mark key="[" line="202" column="116" />
+        <mark key="]" line="202" column="116" />
+        <mark key="^" line="107" column="79" />
+        <mark key="." line="202" column="116" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1548238698604">
         <mark key="'" line="40" column="1" />
@@ -228,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bnAubWF0bXVsKEhfc3AuVCwg</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnAubWF0bXVsKEhfc3AuVCwg</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -655,7 +655,7 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <text encoding="base64">ICAgIAp3aXRoIG9wZW4oImRhdGEvdmMvZXhlbV9kaWN0L1NGMV9mZWF0X3N0ZnQucGtsIiwgInJiIikgYXMgZjoKICAgIHNyY19mZWF0ID0gcGlja2xlLmxvYWQoZilbMF1bJ3N0ZnQnXQoKd2l0aCBvcGVuKCJkYXRhL3ZjL2V4ZW1fZGljdC9UTTNfZmVhdF9zdGZ0LnBrbCIsICJyYiIpIGFzIGY6CiAgICB0YXJfZmVhdCA9IHBpY2tsZS5sb2FkKGYpWzBdWydzdGZ0J10=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorPageDown</text>
       </register>
     </registers>
     <search>
@@ -689,12 +689,12 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorCodeBlockEnd</entry>
-        <entry>action EditorPageDown</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
