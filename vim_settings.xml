@@ -19,7 +19,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548213631672">
+      <file name="/Python Console" timestamp="1548229747112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548068736118">
@@ -46,6 +46,9 @@
         <mark key="^" line="90" column="11" />
         <mark key="." line="90" column="11" />
       </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf_pytorch.py" timestamp="1548229722201">
+        <mark key="'" line="142" column="41" />
+      </file>
       <file name="/a.dummy" timestamp="1548064937661">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,7 +61,7 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548218635745">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548229859350">
         <mark key="u" line="36" column="102" />
         <mark key="'" line="54" column="0" />
         <mark key="[" line="61" column="17" />
@@ -80,10 +83,6 @@
         <mark key="[" line="206" column="143" />
         <mark key="]" line="206" column="143" />
         <mark key="." line="206" column="143" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_conversion.py" timestamp="1547449880550">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="72" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1548035343477">
         <mark key="'" line="89" column="49" />
@@ -125,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="195" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="199" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="221" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -225,6 +223,7 @@
       <jump line="244" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
       <jump line="170" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
       <jump line="54" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" />
+      <jump line="142" column="41" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf_pytorch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
