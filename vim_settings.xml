@@ -78,11 +78,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548152294375">
-        <mark key="'" line="283" column="33" />
-        <mark key="[" line="206" column="143" />
-        <mark key="]" line="206" column="143" />
-        <mark key="." line="206" column="143" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548232806652">
+        <mark key="'" line="318" column="33" />
+        <mark key="[" line="265" column="23" />
+        <mark key="]" line="265" column="23" />
+        <mark key="." line="265" column="23" />
+        <mark key="^" line="265" column="23" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1548035343477">
         <mark key="'" line="89" column="49" />
@@ -227,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>np.random.rand(5, 15))</text>
+        <text>cd</text>
       </register>
       <register name="-" type="4">
-        <text>np.random.rand(5, 15))</text>
+        <text>cd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -464,7 +465,7 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLineStart</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -497,13 +498,13 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorCodeBlockEnd</entry>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorPageDown</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
