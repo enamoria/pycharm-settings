@@ -58,11 +58,13 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548214181285">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="16" />
-        <mark key="." line="41" column="16" />
-        <mark key="^" line="37" column="23" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548218635745">
+        <mark key="u" line="36" column="102" />
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="61" column="17" />
+        <mark key="]" line="61" column="17" />
+        <mark key="." line="61" column="17" />
+        <mark key="^" line="64" column="3" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_qrmf.py" timestamp="1548130589149">
         <mark key="[" line="20" column="0" />
@@ -114,16 +116,15 @@
         <mark key="." line="83" column="8" />
         <mark key="^" line="83" column="8" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/nmf.py" timestamp="1548208923072">
-        <mark key="'" line="90" column="65" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="41" column="17" />
-        <mark key="." line="145" column="0" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/nmf.py" timestamp="1548216530155">
+        <mark key="'" line="100" column="65" />
+        <mark key="[" line="70" column="92" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="45" column="17" />
+        <mark key="." line="155" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="8" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="189" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="195" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="199" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -223,13 +224,14 @@
       <jump line="247" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
       <jump line="244" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
       <jump line="170" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="54" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RNM</text>
+        <text>np.random.rand(5, 15))</text>
       </register>
       <register name="-" type="4">
-        <text>RNM</text>
+        <text>np.random.rand(5, 15))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -238,6 +240,21 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
       <register name="1" type="4">
+        <text>nmf = NMF(data, num_bases=W.shape[1])
+nmf._init_h()
+
+nmf.W = W
+nmf.factorize(niter=20000, compute_w=False, show_progress=True)
+print(nmf.W)
+print(nmf.H)
+print(np.matmul(nmf.W, nmf.H))
+print(np.matmul(nmf.W, nmf.H) - data)
+# pdb.set_trace()</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text># def factorize(X, W, beta_loss=&quot;kullback-leibler&quot;):
 #     &quot;&quot;&quot;
 #         Calculate matrix `H`, which `W x H ~ X`
@@ -423,38 +440,32 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
 #
 # lbr.output.write_wav(&quot;wav/zz_test.wav&quot;, y, sr=fs, norm=True)</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGVmIG5tZihWLCBXaW5pdCwgSGluaXQsIHRvbCwgdGltZWxpbWl0LCBtYXhpdGVyKToKICAgICIiIgogICAgKFcsSCkgPSBubWYoVixXaW5pdCxIaW5pdCx0b2wsdGltZWxpbWl0LG1heGl0ZXIpCiAgICBXLEg6IG91dHB1dCBzb2x1dGlvbgogICAgV2luaXQsSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogdG9sZXJhbmNlIGZvciBhIHJlbGF0aXZlIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgdGltZWxpbWl0LCBtYXhpdGVyOiBsaW1pdCBvZiB0aW1lIGFuZCBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBXID0gV2luaXQ7CiAgICBIID0gSGluaXQ7CiAgICBpbml0dCA9IHRpbWUoKTsKCiAgICBncmFkVyA9IGRvdChXLCBkb3QoSCwgSC5UKSkgLSBkb3QoViwgSC5UKQogICAgZ3JhZEggPSBkb3QoZG90KFcuVCwgVyksIEgpIC0gZG90KFcuVCwgVikKICAgIGluaXRncmFkID0gbm9ybShyX1tncmFkVywgZ3JhZEguVF0pCiAgICBwcmludCgnSW5pdCBncmFkaWVudCBub3JtICVmJyAlIGluaXRncmFkKQogICAgdG9sVyA9IG1heCgwLjAwMSwgdG9sKSAqIGluaXRncmFkCiAgICB0b2xIID0gdG9sVwoKICAgIGZvciBpdGVyIGluIHhyYW5nZSgxLCBtYXhpdGVyKToKICAgICAgICAjIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgICAgIHByb2pub3JtID0gbm9ybShyX1tncmFkV1tsb2dpY2FsX29yKGdyYWRXIDwgMCwgVyA+IDApXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZEhbbG9naWNhbF9vcihncmFkSCA8IDAsIEggPiAwKV1dKQogICAgICAgIGlmIHByb2pub3JtIDwgdG9sICogaW5pdGdyYWQgb3IgdGltZSgpIC0gaW5pdHQgPiB0aW1lbGltaXQ6IGJyZWFrCgogICAgICAgIChXLCBncmFkVywgaXRlclcpID0gbmxzc3VicHJvYihWLlQsIEguVCwgVy5ULCB0b2xXLCAxMDAwKQogICAgICAgIFcgPSBXLlQKICAgICAgICBncmFkVyA9IGdyYWRXLlQKCiAgICAgICAgaWYgaXRlclcgPT0gMTogdG9sVyA9IDAuMSAqIHRvbFcKCiAgICAgICAgKEgsIGdyYWRILCBpdGVySCkgPSBubHNzdWJwcm9iKFYsIFcsIEgsIHRvbEgsIDEwMDApCiAgICAgICAgaWYgaXRlckggPT0gMTogdG9sSCA9IDAuMSAqIHRvbEgKCiAgICAgICAgaWYgaXRlciAlIDEwID09IDA6IHN0ZG91dC53cml0ZSgnLicpCgogICAgICAgIHByaW50KCdcbkl0ZXIgPSAlZCBGaW5hbCBwcm9qLWdyYWQgbm9ybSAlZicgJSAoaXRlciwgcHJvam5vcm0pKQogICAgICAgIAogICAgcmV0dXJuIChXLCBIKQoKCmRlZiBubHNzdWJwcm9iKFYsIFcsIEhpbml0LCB0b2wsIG1heGl0ZXIpOgogICAgIiIiCiAgICBILCBncmFkOiBvdXRwdXQgc29sdXRpb24gYW5kIGdyYWRpZW50CiAgICBpdGVyOiAjaXRlcmF0aW9ucyB1c2VkCiAgICBWLCBXOiBjb25zdGFudCBtYXRyaWNlcwogICAgSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogc3RvcHBpbmcgdG9sZXJhbmNlCiAgICBtYXhpdGVyOiBsaW1pdCBvZiBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBIID0gSGluaXQKICAgIFd0ViA9IGRvdChXLlQsIFYpCiAgICBXdFcgPSBkb3QoVy5ULCBXKQoKICAgIGFscGhhID0gMTsKICAgIGJldGEgPSAwLjE7CiAgICBmb3IgaXRlciBpbiB4cmFuZ2UoMSwgbWF4aXRlcik6CiAgICAgICAgZ3JhZCA9IGRvdChXdFcsIEgpIC0gV3RWCiAgICAgICAgcHJvamdyYWQgPSBub3JtKGdyYWRbbG9naWNhbF9vcihncmFkIDwgMCwgSCA+IDApXSkKICAgICAgICBpZiBwcm9qZ3JhZCA8IHRvbDogYnJlYWsKCiAgICAgICAgIyBzZWFyY2ggc3RlcCBzaXplIAogICAgICAgIGZvciBpbm5lcl9pdGVyIGluIHhyYW5nZSgxLCAyMCk6CiAgICAgICAgICAgIEhuID0gSCAtIGFscGhhICogZ3JhZAogICAgICAgICAgICBIbiA9IHdoZXJlKEhuID4gMCwgSG4sIDApCiAgICAgICAgICAgIGQgPSBIbiAtIEgKICAgICAgICAgICAgZ3JhZGQgPSBzdW0oZ3JhZCAqIGQpCiAgICAgICAgICAgIGRRZCA9IHN1bShkb3QoV3RXLCBkKSAqIGQpCiAgICAgICAgICAgIHN1ZmZfZGVjciA9IDAuOTkgKiBncmFkZCArIDAuNSAqIGRRZCA8IDA7CiAgICAgICAgICAgIGlmIGlubmVyX2l0ZXIgPT0gMToKICAgICAgICAgICAgICAgIGRlY3JfYWxwaGEgPSBub3Qgc3VmZl9kZWNyOwogICAgICAgICAgICAgICAgSHAgPSBIOwogICAgICAgICAgICBpZiBkZWNyX2FscGhhOgogICAgICAgICAgICAgICAgaWYgc3VmZl9kZWNyOgogICAgICAgICAgICAgICAgICAgIEggPSBIbjsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWxwaGEgPSBhbHBoYSAqIGJldGE7CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBub3Qgc3VmZl9kZWNyIG9yIChIcCA9PSBIbikuYWxsKCk6CiAgICAgICAgICAgICAgICAgICAgSCA9IEhwOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBhbHBoYSA9IGFscGhhIC8gYmV0YTsKICAgICAgICAgICAgICAgICAgICBIcCA9IEhuOwoKICAgICAgICBpZiBpdGVyID09IG1heGl0ZXI6CiAgICAgICAgICAgIHByaW50KCdNYXggaXRlciBpbiBubHNzdWJwcm9iJykKICAgIHJldHVybiAoSCwgZ3JhZCwgaXRlcik=</text>
-      </register>
       <register name="r" type="4">
         <text>None</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIG5tZihWLCBXaW5pdCwgSGluaXQsIHRvbCwgdGltZWxpbWl0LCBtYXhpdGVyKToKICAgICIiIgogICAgKFcsSCkgPSBubWYoVixXaW5pdCxIaW5pdCx0b2wsdGltZWxpbWl0LG1heGl0ZXIpCiAgICBXLEg6IG91dHB1dCBzb2x1dGlvbgogICAgV2luaXQsSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogdG9sZXJhbmNlIGZvciBhIHJlbGF0aXZlIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgdGltZWxpbWl0LCBtYXhpdGVyOiBsaW1pdCBvZiB0aW1lIGFuZCBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBXID0gV2luaXQ7CiAgICBIID0gSGluaXQ7CiAgICBpbml0dCA9IHRpbWUoKTsKCiAgICBncmFkVyA9IGRvdChXLCBkb3QoSCwgSC5UKSkgLSBkb3QoViwgSC5UKQogICAgZ3JhZEggPSBkb3QoZG90KFcuVCwgVyksIEgpIC0gZG90KFcuVCwgVikKICAgIGluaXRncmFkID0gbm9ybShyX1tncmFkVywgZ3JhZEguVF0pCiAgICBwcmludCgnSW5pdCBncmFkaWVudCBub3JtICVmJyAlIGluaXRncmFkKQogICAgdG9sVyA9IG1heCgwLjAwMSwgdG9sKSAqIGluaXRncmFkCiAgICB0b2xIID0gdG9sVwoKICAgIGZvciBpdGVyIGluIHhyYW5nZSgxLCBtYXhpdGVyKToKICAgICAgICAjIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgICAgIHByb2pub3JtID0gbm9ybShyX1tncmFkV1tsb2dpY2FsX29yKGdyYWRXIDwgMCwgVyA+IDApXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZEhbbG9naWNhbF9vcihncmFkSCA8IDAsIEggPiAwKV1dKQogICAgICAgIGlmIHByb2pub3JtIDwgdG9sICogaW5pdGdyYWQgb3IgdGltZSgpIC0gaW5pdHQgPiB0aW1lbGltaXQ6IGJyZWFrCgogICAgICAgIChXLCBncmFkVywgaXRlclcpID0gbmxzc3VicHJvYihWLlQsIEguVCwgVy5ULCB0b2xXLCAxMDAwKQogICAgICAgIFcgPSBXLlQKICAgICAgICBncmFkVyA9IGdyYWRXLlQKCiAgICAgICAgaWYgaXRlclcgPT0gMTogdG9sVyA9IDAuMSAqIHRvbFcKCiAgICAgICAgKEgsIGdyYWRILCBpdGVySCkgPSBubHNzdWJwcm9iKFYsIFcsIEgsIHRvbEgsIDEwMDApCiAgICAgICAgaWYgaXRlckggPT0gMTogdG9sSCA9IDAuMSAqIHRvbEgKCiAgICAgICAgaWYgaXRlciAlIDEwID09IDA6IHN0ZG91dC53cml0ZSgnLicpCgogICAgICAgIHByaW50KCdcbkl0ZXIgPSAlZCBGaW5hbCBwcm9qLWdyYWQgbm9ybSAlZicgJSAoaXRlciwgcHJvam5vcm0pKQogICAgICAgIAogICAgcmV0dXJuIChXLCBIKQoKCmRlZiBubHNzdWJwcm9iKFYsIFcsIEhpbml0LCB0b2wsIG1heGl0ZXIpOgogICAgIiIiCiAgICBILCBncmFkOiBvdXRwdXQgc29sdXRpb24gYW5kIGdyYWRpZW50CiAgICBpdGVyOiAjaXRlcmF0aW9ucyB1c2VkCiAgICBWLCBXOiBjb25zdGFudCBtYXRyaWNlcwogICAgSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogc3RvcHBpbmcgdG9sZXJhbmNlCiAgICBtYXhpdGVyOiBsaW1pdCBvZiBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBIID0gSGluaXQKICAgIFd0ViA9IGRvdChXLlQsIFYpCiAgICBXdFcgPSBkb3QoVy5ULCBXKQoKICAgIGFscGhhID0gMTsKICAgIGJldGEgPSAwLjE7CiAgICBmb3IgaXRlciBpbiB4cmFuZ2UoMSwgbWF4aXRlcik6CiAgICAgICAgZ3JhZCA9IGRvdChXdFcsIEgpIC0gV3RWCiAgICAgICAgcHJvamdyYWQgPSBub3JtKGdyYWRbbG9naWNhbF9vcihncmFkIDwgMCwgSCA+IDApXSkKICAgICAgICBpZiBwcm9qZ3JhZCA8IHRvbDogYnJlYWsKCiAgICAgICAgIyBzZWFyY2ggc3RlcCBzaXplIAogICAgICAgIGZvciBpbm5lcl9pdGVyIGluIHhyYW5nZSgxLCAyMCk6CiAgICAgICAgICAgIEhuID0gSCAtIGFscGhhICogZ3JhZAogICAgICAgICAgICBIbiA9IHdoZXJlKEhuID4gMCwgSG4sIDApCiAgICAgICAgICAgIGQgPSBIbiAtIEgKICAgICAgICAgICAgZ3JhZGQgPSBzdW0oZ3JhZCAqIGQpCiAgICAgICAgICAgIGRRZCA9IHN1bShkb3QoV3RXLCBkKSAqIGQpCiAgICAgICAgICAgIHN1ZmZfZGVjciA9IDAuOTkgKiBncmFkZCArIDAuNSAqIGRRZCA8IDA7CiAgICAgICAgICAgIGlmIGlubmVyX2l0ZXIgPT0gMToKICAgICAgICAgICAgICAgIGRlY3JfYWxwaGEgPSBub3Qgc3VmZl9kZWNyOwogICAgICAgICAgICAgICAgSHAgPSBIOwogICAgICAgICAgICBpZiBkZWNyX2FscGhhOgogICAgICAgICAgICAgICAgaWYgc3VmZl9kZWNyOgogICAgICAgICAgICAgICAgICAgIEggPSBIbjsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWxwaGEgPSBhbHBoYSAqIGJldGE7CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBub3Qgc3VmZl9kZWNyIG9yIChIcCA9PSBIbikuYWxsKCk6CiAgICAgICAgICAgICAgICAgICAgSCA9IEhwOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBhbHBoYSA9IGFscGhhIC8gYmV0YTsKICAgICAgICAgICAgICAgICAgICBIcCA9IEhuOwoKICAgICAgICBpZiBpdGVyID09IG1heGl0ZXI6CiAgICAgICAgICAgIHByaW50KCdNYXggaXRlciBpbiBubHNzdWJwcm9iJykKICAgIHJldHVybiAoSCwgZ3JhZCwgaXRlcik=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgppbXBvcnQgcwpmcm9tIHV0aWxzIGltcG9ydCBjb25maWdfZ2V0X2NvbmZpZwo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgpmcm9tIHMKZnJvbSB1dGlscyBpbXBvcnQgY29uZmlnX2dldF9jb25maWcK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgppbXBvcnQgcwpmcm9tIHV0aWxzIGltcG9ydCBjb25maWdfZ2V0X2NvbmZpZwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgpmcm9tIHMKZnJvbSB1dGlscyBpbXBvcnQgY29uZmlnX2dldF9jb25maWcK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIAp3aXRoIG9wZW4oImRhdGEvdmMvZXhlbV9kaWN0L1NGMV9mZWF0X3N0ZnQucGtsIiwgInJiIikgYXMgZjoKICAgIHNyY19mZWF0ID0gcGlja2xlLmxvYWQoZilbMF1bJ3N0ZnQnXQoKd2l0aCBvcGVuKCJkYXRhL3ZjL2V4ZW1fZGljdC9UTTNfZmVhdF9zdGZ0LnBrbCIsICJyYiIpIGFzIGY6CiAgICB0YXJfZmVhdCA9IHBpY2tsZS5sb2FkKGYpWzBdWydzdGZ0J10=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
@@ -487,13 +498,13 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorPageDown</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorLineStart</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorCodeBlockEnd</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorPageDown</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
