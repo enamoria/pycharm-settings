@@ -13,7 +13,7 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548045784838">
+      <file name="/Dummy.txt" timestamp="1548210848429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
@@ -54,12 +54,10 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548128629749">
-        <mark key="'" line="82" column="14" />
-        <mark key="[" line="208" column="50" />
-        <mark key="]" line="208" column="50" />
-        <mark key="^" line="208" column="50" />
-        <mark key="." line="208" column="50" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548210887126">
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="23" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_qrmf.py" timestamp="1548130589149">
         <mark key="[" line="20" column="0" />
@@ -217,7 +215,190 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIG5tZihWLCBXaW5pdCwgSGluaXQsIHRvbCwgdGltZWxpbWl0LCBtYXhpdGVyKToKICAgICIiIgogICAgKFcsSCkgPSBubWYoVixXaW5pdCxIaW5pdCx0b2wsdGltZWxpbWl0LG1heGl0ZXIpCiAgICBXLEg6IG91dHB1dCBzb2x1dGlvbgogICAgV2luaXQsSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogdG9sZXJhbmNlIGZvciBhIHJlbGF0aXZlIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgdGltZWxpbWl0LCBtYXhpdGVyOiBsaW1pdCBvZiB0aW1lIGFuZCBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBXID0gV2luaXQ7CiAgICBIID0gSGluaXQ7CiAgICBpbml0dCA9IHRpbWUoKTsKCiAgICBncmFkVyA9IGRvdChXLCBkb3QoSCwgSC5UKSkgLSBkb3QoViwgSC5UKQogICAgZ3JhZEggPSBkb3QoZG90KFcuVCwgVyksIEgpIC0gZG90KFcuVCwgVikKICAgIGluaXRncmFkID0gbm9ybShyX1tncmFkVywgZ3JhZEguVF0pCiAgICBwcmludCgnSW5pdCBncmFkaWVudCBub3JtICVmJyAlIGluaXRncmFkKQogICAgdG9sVyA9IG1heCgwLjAwMSwgdG9sKSAqIGluaXRncmFkCiAgICB0b2xIID0gdG9sVwoKICAgIGZvciBpdGVyIGluIHhyYW5nZSgxLCBtYXhpdGVyKToKICAgICAgICAjIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgICAgIHByb2pub3JtID0gbm9ybShyX1tncmFkV1tsb2dpY2FsX29yKGdyYWRXIDwgMCwgVyA+IDApXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZEhbbG9naWNhbF9vcihncmFkSCA8IDAsIEggPiAwKV1dKQogICAgICAgIGlmIHByb2pub3JtIDwgdG9sICogaW5pdGdyYWQgb3IgdGltZSgpIC0gaW5pdHQgPiB0aW1lbGltaXQ6IGJyZWFrCgogICAgICAgIChXLCBncmFkVywgaXRlclcpID0gbmxzc3VicHJvYihWLlQsIEguVCwgVy5ULCB0b2xXLCAxMDAwKQogICAgICAgIFcgPSBXLlQKICAgICAgICBncmFkVyA9IGdyYWRXLlQKCiAgICAgICAgaWYgaXRlclcgPT0gMTogdG9sVyA9IDAuMSAqIHRvbFcKCiAgICAgICAgKEgsIGdyYWRILCBpdGVySCkgPSBubHNzdWJwcm9iKFYsIFcsIEgsIHRvbEgsIDEwMDApCiAgICAgICAgaWYgaXRlckggPT0gMTogdG9sSCA9IDAuMSAqIHRvbEgKCiAgICAgICAgaWYgaXRlciAlIDEwID09IDA6IHN0ZG91dC53cml0ZSgnLicpCgogICAgICAgIHByaW50KCdcbkl0ZXIgPSAlZCBGaW5hbCBwcm9qLWdyYWQgbm9ybSAlZicgJSAoaXRlciwgcHJvam5vcm0pKQogICAgICAgIAogICAgcmV0dXJuIChXLCBIKQoKCmRlZiBubHNzdWJwcm9iKFYsIFcsIEhpbml0LCB0b2wsIG1heGl0ZXIpOgogICAgIiIiCiAgICBILCBncmFkOiBvdXRwdXQgc29sdXRpb24gYW5kIGdyYWRpZW50CiAgICBpdGVyOiAjaXRlcmF0aW9ucyB1c2VkCiAgICBWLCBXOiBjb25zdGFudCBtYXRyaWNlcwogICAgSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogc3RvcHBpbmcgdG9sZXJhbmNlCiAgICBtYXhpdGVyOiBsaW1pdCBvZiBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBIID0gSGluaXQKICAgIFd0ViA9IGRvdChXLlQsIFYpCiAgICBXdFcgPSBkb3QoVy5ULCBXKQoKICAgIGFscGhhID0gMTsKICAgIGJldGEgPSAwLjE7CiAgICBmb3IgaXRlciBpbiB4cmFuZ2UoMSwgbWF4aXRlcik6CiAgICAgICAgZ3JhZCA9IGRvdChXdFcsIEgpIC0gV3RWCiAgICAgICAgcHJvamdyYWQgPSBub3JtKGdyYWRbbG9naWNhbF9vcihncmFkIDwgMCwgSCA+IDApXSkKICAgICAgICBpZiBwcm9qZ3JhZCA8IHRvbDogYnJlYWsKCiAgICAgICAgIyBzZWFyY2ggc3RlcCBzaXplIAogICAgICAgIGZvciBpbm5lcl9pdGVyIGluIHhyYW5nZSgxLCAyMCk6CiAgICAgICAgICAgIEhuID0gSCAtIGFscGhhICogZ3JhZAogICAgICAgICAgICBIbiA9IHdoZXJlKEhuID4gMCwgSG4sIDApCiAgICAgICAgICAgIGQgPSBIbiAtIEgKICAgICAgICAgICAgZ3JhZGQgPSBzdW0oZ3JhZCAqIGQpCiAgICAgICAgICAgIGRRZCA9IHN1bShkb3QoV3RXLCBkKSAqIGQpCiAgICAgICAgICAgIHN1ZmZfZGVjciA9IDAuOTkgKiBncmFkZCArIDAuNSAqIGRRZCA8IDA7CiAgICAgICAgICAgIGlmIGlubmVyX2l0ZXIgPT0gMToKICAgICAgICAgICAgICAgIGRlY3JfYWxwaGEgPSBub3Qgc3VmZl9kZWNyOwogICAgICAgICAgICAgICAgSHAgPSBIOwogICAgICAgICAgICBpZiBkZWNyX2FscGhhOgogICAgICAgICAgICAgICAgaWYgc3VmZl9kZWNyOgogICAgICAgICAgICAgICAgICAgIEggPSBIbjsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWxwaGEgPSBhbHBoYSAqIGJldGE7CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBub3Qgc3VmZl9kZWNyIG9yIChIcCA9PSBIbikuYWxsKCk6CiAgICAgICAgICAgICAgICAgICAgSCA9IEhwOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBhbHBoYSA9IGFscGhhIC8gYmV0YTsKICAgICAgICAgICAgICAgICAgICBIcCA9IEhuOwoKICAgICAgICBpZiBpdGVyID09IG1heGl0ZXI6CiAgICAgICAgICAgIHByaW50KCdNYXggaXRlciBpbiBubHNzdWJwcm9iJykKICAgIHJldHVybiAoSCwgZ3JhZCwgaXRlcik=</text>
+        <text># def factorize(X, W, beta_loss=&quot;kullback-leibler&quot;):
+#     &quot;&quot;&quot;
+#         Calculate matrix `H`, which `W x H ~ X`
+#         Note: In this function, `sklearn.decomposition's` non_negative_factorization is used. This function's implementation only
+#                 allow we to feed in a fixed H, not W. So we need to used a trick here to feed in a fixed W (we need to fix W, it's our exemplar dictionary).
+#                 Instead of calling `non_negative_factorization(X=X, H=H)` directly, we feed in `X.T as X, W.T as H. Notice that:
+#                         X.T = H.T x W.T
+#                     So we transpose H and W to swap their roles. Remember to swap the result back
+#
+#     :param X: original matrix, which we need to decompose
+#     :param W: We have precomputed W.
+#     :return: H: W ~ W x H
+#     &quot;&quot;&quot;
+#     _W, _H, n_iter = non_negative_factorization(X=X.T, H=W.T, init=&quot;custom&quot;, update_H=False, n_components=W.T.shape[0],
+#                                                 beta_loss=beta_loss, solver='mu')
+#
+#     return _W.T
+#
+#
+# X = np.asarray([[1, 2, 3, 4], [1, 3, 4, 5], [5, 7, 3, 1]], dtype=np.double)
+# W_org = np.asarray([[4, 5], [3, 1], [1, 9]], dtype=np.double)
+#
+#
+# H = factorize(X, W=W_org)
+# print(np.matmul(W_org, H))
+# print(X)
+
+# W = _H.T
+# H = _W.T
+# print(W)
+# print(&quot;==&quot;)
+# print(H)
+# print(&quot;==&quot;)
+# print(np.matmul(W, H))
+# print(x)
+# print(n_iter)
+
+# model = NMF(n_components=y.shape[1], init=&quot;custom&quot;, max_iter=10000)
+
+# for frame in src_for_conversion['sp']:
+# Each frame have size of (1, 513). Need to transpose:
+#       frame.T = exemplar_A[:]['sp'] x h (h is activation matrix)
+
+# output = model.fit_transform(src_for_conversion['sp'][0].T[:, np.newaxis], W=_W.T)
+# output = model.fit_transform(X=x, W=y)
+# print(output)
+# print(output.shape)
+#
+# print(model.components_)
+# print(model.components_.shape)
+# pdb.set_trace()
+import librosa as lbr
+import pyworld as pw
+
+from tqdm import tqdm
+# import decomp
+
+use_stft = True
+speakerA = &quot;SF1&quot;
+speakerB = &quot;TM3&quot;
+
+
+def io_load_from_pickle():
+    with open(&quot;./data/vc/exem_dict/exemplar_W_A&quot;, &quot;rb&quot;) as f:
+        src_W = pickle.load(f)
+
+    with open(&quot;./data/vc/exem_dict/exemplar_W_B&quot;, &quot;rb&quot;) as f:
+        tar_W = pickle.load(f)
+
+    if not use_stft:
+        with open(&quot;./data/vc/exem_dict/{}_feat_sp_ap_f0.pkl&quot;.format(speakerA), &quot;rb&quot;) as f:
+            src_feat = pickle.load(f)
+
+        with open(&quot;./data/vc/exem_dict/{}_feat_sp_ap_f0.pkl&quot;.format(speakerB), &quot;rb&quot;) as f:
+            tar_feat = pickle.load(f)
+    else:
+        with open(&quot;./data/vc/exem_dict/{}_feat_stft.pkl&quot;.format(speakerA), &quot;rb&quot;) as f:
+            src_feat = pickle.load(f)
+
+        with open(&quot;./data/vc/exem_dict/{}_feat_stft.pkl&quot;.format(speakerB), &quot;rb&quot;) as f:
+            tar_feat = pickle.load(f)
+
+    return src_feat, tar_feat, src_W, tar_W
+def align_sp_ap_f0(feat=None, dtw_path=None):
+    &quot;&quot;&quot;
+        Align spectral feature, based on dtw_path. Check if an available pickled version is existed
+    :param feat: spectral features
+    :param dtw_path: dtw_path of the audio
+    :return: `feat`-like object, but aligned
+    &quot;&quot;&quot;
+    src_feat, tar_feat, src_W, tar_W = io_load_from_pickle()
+
+    aligned_src_feat = []
+    aligned_tar_feat = []
+
+    if not use_stft:
+        for i in tqdm(range(len(src_W))):  # iterate through each audio file
+            sp1 = []; ap1 = []; f01 = []
+            sp2 = []; ap2 = []; f02 = []
+
+            for j in range(len(src_W[i])):
+                sp1.append(src_feat[i]['sp'][src_W[i][j]])
+                ap1.append(src_feat[i]['ap'][src_W[i][j]])
+                f01.append(src_feat[i]['f0'][src_W[i][j]])
+
+                sp2.append(tar_feat[i]['sp'][tar_W[i][j]])
+                ap2.append(tar_feat[i]['ap'][tar_W[i][j]])
+                f02.append(tar_feat[i]['f0'][tar_W[i][j]])
+
+            aligned_src_feat.append({
+                'sp': np.asarray(sp1),
+                'ap': np.asarray(ap1),
+                'f0': np.asarray(f01),
+                'fs': src_feat[i]['fs']
+            })
+
+            aligned_tar_feat.append({
+                'sp': np.asarray(sp2),
+                'ap': np.asarray(ap2),
+                'f0': np.asarray(f02),
+                'fs': tar_feat[i]['fs']
+            })
+
+        return aligned_src_feat, aligned_tar_feat
+    else:
+        for i in tqdm(range(len(src_W))):  # iterate through each audio file
+            stft1 = []; real1 = []; imag1 = []
+            stft2 = []; real2 = []; imag2 = []
+
+            for j in range(len(src_W[i])):
+                stft1.append(src_feat[i]['stft'][src_W[i][j]])
+                real1.append(src_feat[i]['stft'][src_W[i][j]].real)
+                imag1.append(src_feat[i]['stft'][src_W[i][j]].imag)
+
+                stft2.append(tar_feat[i]['stft'][tar_W[i][j]])
+                real2.append(tar_feat[i]['stft'][src_W[i][j]].real)
+                imag2.append(tar_feat[i]['stft'][src_W[i][j]].imag)
+
+            aligned_src_feat.append({
+                'stft': np.asarray(stft1),
+                'real': np.asarray(real1),
+                'imag': np.asarray(imag1),
+                'fs': src_feat[i]['fs']
+            })
+
+            aligned_tar_feat.append({
+                'stft': np.asarray(stft2),
+                'real': np.asarray(real2),
+                'imag': np.asarray(imag2),
+                'fs': tar_feat[i]['fs']
+            })
+
+        return aligned_src_feat, aligned_tar_feat
+
+
+# x, fs = lbr.load(&quot;data/SF1/100001.wav&quot;, sr=None, dtype=np.double)
+# x_stft = lbr.core.stft(y=x)
+src_feat, tar_feat, src_W, tar_W = io_load_from_pickle()
+
+aligned_src_feat, aligned_tar_feat = align_sp_ap_f0()
+aligned_src_feat = aligned_src_feat[0]['stft']
+aligned_tar_feat = aligned_tar_feat[0]['stft']
+
+print(aligned_src_feat.shape, aligned_tar_feat.shape)
+
+# mix_stft = np.zeros(aligned_src_feat.shape, dtype=np.complex64)
+# for i in range(len(aligned_src_feat)):
+#     for j in range(len(aligned_src_feat[0])):
+#         # mix_stft[i][j].real, mix_stft[i][j].imag = aligned_tar_feat[i][j].real, aligned_src_feat[i][j].imag
+#         mix_stft[i][j] = aligned_tar_feat[i][j].real + aligned_tar_feat[i][j].imag * 1j
+
+y = lbr.core.istft(aligned_tar_feat.T, hop_length=80)
+lbr.output.write_wav(&quot;wav/linhtinh.wav&quot;, y, sr=16000)
+
+y1 = lbr.core.istft(tar_feat[0]['stft'].T, hop_length=80)
+lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
+# pdb.set_trace()
+# _f0, t = pw.dio(x, fs)    # raw pitch extractor
+# f0 = pw.stonemask(x, _f0, t, fs)  # pitch refinement
+# sp = pw.cheaptrick(x, f0, t, fs)  # extract smoothed spectrogram
+# ap = pw.d4c(x, f0, t, fs)         # extract aperiodicity
+# y = pw.synthesize(f0, sp, ap, fs)
+#
+# lbr.output.write_wav(&quot;wav/zz_test.wav&quot;, y, sr=fs, norm=True)</text>
       </register>
       <register name="-" type="4">
         <text>mu</text>
@@ -229,40 +410,223 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZGVmIG5tZihWLCBXaW5pdCwgSGluaXQsIHRvbCwgdGltZWxpbWl0LCBtYXhpdGVyKToKICAgICIiIgogICAgKFcsSCkgPSBubWYoVixXaW5pdCxIaW5pdCx0b2wsdGltZWxpbWl0LG1heGl0ZXIpCiAgICBXLEg6IG91dHB1dCBzb2x1dGlvbgogICAgV2luaXQsSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogdG9sZXJhbmNlIGZvciBhIHJlbGF0aXZlIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgdGltZWxpbWl0LCBtYXhpdGVyOiBsaW1pdCBvZiB0aW1lIGFuZCBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBXID0gV2luaXQ7CiAgICBIID0gSGluaXQ7CiAgICBpbml0dCA9IHRpbWUoKTsKCiAgICBncmFkVyA9IGRvdChXLCBkb3QoSCwgSC5UKSkgLSBkb3QoViwgSC5UKQogICAgZ3JhZEggPSBkb3QoZG90KFcuVCwgVyksIEgpIC0gZG90KFcuVCwgVikKICAgIGluaXRncmFkID0gbm9ybShyX1tncmFkVywgZ3JhZEguVF0pCiAgICBwcmludCgnSW5pdCBncmFkaWVudCBub3JtICVmJyAlIGluaXRncmFkKQogICAgdG9sVyA9IG1heCgwLjAwMSwgdG9sKSAqIGluaXRncmFkCiAgICB0b2xIID0gdG9sVwoKICAgIGZvciBpdGVyIGluIHhyYW5nZSgxLCBtYXhpdGVyKToKICAgICAgICAjIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgICAgIHByb2pub3JtID0gbm9ybShyX1tncmFkV1tsb2dpY2FsX29yKGdyYWRXIDwgMCwgVyA+IDApXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZEhbbG9naWNhbF9vcihncmFkSCA8IDAsIEggPiAwKV1dKQogICAgICAgIGlmIHByb2pub3JtIDwgdG9sICogaW5pdGdyYWQgb3IgdGltZSgpIC0gaW5pdHQgPiB0aW1lbGltaXQ6IGJyZWFrCgogICAgICAgIChXLCBncmFkVywgaXRlclcpID0gbmxzc3VicHJvYihWLlQsIEguVCwgVy5ULCB0b2xXLCAxMDAwKQogICAgICAgIFcgPSBXLlQKICAgICAgICBncmFkVyA9IGdyYWRXLlQKCiAgICAgICAgaWYgaXRlclcgPT0gMTogdG9sVyA9IDAuMSAqIHRvbFcKCiAgICAgICAgKEgsIGdyYWRILCBpdGVySCkgPSBubHNzdWJwcm9iKFYsIFcsIEgsIHRvbEgsIDEwMDApCiAgICAgICAgaWYgaXRlckggPT0gMTogdG9sSCA9IDAuMSAqIHRvbEgKCiAgICAgICAgaWYgaXRlciAlIDEwID09IDA6IHN0ZG91dC53cml0ZSgnLicpCgogICAgICAgIHByaW50KCdcbkl0ZXIgPSAlZCBGaW5hbCBwcm9qLWdyYWQgbm9ybSAlZicgJSAoaXRlciwgcHJvam5vcm0pKQogICAgICAgIAogICAgcmV0dXJuIChXLCBIKQoKCmRlZiBubHNzdWJwcm9iKFYsIFcsIEhpbml0LCB0b2wsIG1heGl0ZXIpOgogICAgIiIiCiAgICBILCBncmFkOiBvdXRwdXQgc29sdXRpb24gYW5kIGdyYWRpZW50CiAgICBpdGVyOiAjaXRlcmF0aW9ucyB1c2VkCiAgICBWLCBXOiBjb25zdGFudCBtYXRyaWNlcwogICAgSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogc3RvcHBpbmcgdG9sZXJhbmNlCiAgICBtYXhpdGVyOiBsaW1pdCBvZiBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBIID0gSGluaXQKICAgIFd0ViA9IGRvdChXLlQsIFYpCiAgICBXdFcgPSBkb3QoVy5ULCBXKQoKICAgIGFscGhhID0gMTsKICAgIGJldGEgPSAwLjE7CiAgICBmb3IgaXRlciBpbiB4cmFuZ2UoMSwgbWF4aXRlcik6CiAgICAgICAgZ3JhZCA9IGRvdChXdFcsIEgpIC0gV3RWCiAgICAgICAgcHJvamdyYWQgPSBub3JtKGdyYWRbbG9naWNhbF9vcihncmFkIDwgMCwgSCA+IDApXSkKICAgICAgICBpZiBwcm9qZ3JhZCA8IHRvbDogYnJlYWsKCiAgICAgICAgIyBzZWFyY2ggc3RlcCBzaXplIAogICAgICAgIGZvciBpbm5lcl9pdGVyIGluIHhyYW5nZSgxLCAyMCk6CiAgICAgICAgICAgIEhuID0gSCAtIGFscGhhICogZ3JhZAogICAgICAgICAgICBIbiA9IHdoZXJlKEhuID4gMCwgSG4sIDApCiAgICAgICAgICAgIGQgPSBIbiAtIEgKICAgICAgICAgICAgZ3JhZGQgPSBzdW0oZ3JhZCAqIGQpCiAgICAgICAgICAgIGRRZCA9IHN1bShkb3QoV3RXLCBkKSAqIGQpCiAgICAgICAgICAgIHN1ZmZfZGVjciA9IDAuOTkgKiBncmFkZCArIDAuNSAqIGRRZCA8IDA7CiAgICAgICAgICAgIGlmIGlubmVyX2l0ZXIgPT0gMToKICAgICAgICAgICAgICAgIGRlY3JfYWxwaGEgPSBub3Qgc3VmZl9kZWNyOwogICAgICAgICAgICAgICAgSHAgPSBIOwogICAgICAgICAgICBpZiBkZWNyX2FscGhhOgogICAgICAgICAgICAgICAgaWYgc3VmZl9kZWNyOgogICAgICAgICAgICAgICAgICAgIEggPSBIbjsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWxwaGEgPSBhbHBoYSAqIGJldGE7CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBub3Qgc3VmZl9kZWNyIG9yIChIcCA9PSBIbikuYWxsKCk6CiAgICAgICAgICAgICAgICAgICAgSCA9IEhwOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBhbHBoYSA9IGFscGhhIC8gYmV0YTsKICAgICAgICAgICAgICAgICAgICBIcCA9IEhuOwoKICAgICAgICBpZiBpdGVyID09IG1heGl0ZXI6CiAgICAgICAgICAgIHByaW50KCdNYXggaXRlciBpbiBubHNzdWJwcm9iJykKICAgIHJldHVybiAoSCwgZ3JhZCwgaXRlcik=</text>
+        <text># def factorize(X, W, beta_loss=&quot;kullback-leibler&quot;):
+#     &quot;&quot;&quot;
+#         Calculate matrix `H`, which `W x H ~ X`
+#         Note: In this function, `sklearn.decomposition's` non_negative_factorization is used. This function's implementation only
+#                 allow we to feed in a fixed H, not W. So we need to used a trick here to feed in a fixed W (we need to fix W, it's our exemplar dictionary).
+#                 Instead of calling `non_negative_factorization(X=X, H=H)` directly, we feed in `X.T as X, W.T as H. Notice that:
+#                         X.T = H.T x W.T
+#                     So we transpose H and W to swap their roles. Remember to swap the result back
+#
+#     :param X: original matrix, which we need to decompose
+#     :param W: We have precomputed W.
+#     :return: H: W ~ W x H
+#     &quot;&quot;&quot;
+#     _W, _H, n_iter = non_negative_factorization(X=X.T, H=W.T, init=&quot;custom&quot;, update_H=False, n_components=W.T.shape[0],
+#                                                 beta_loss=beta_loss, solver='mu')
+#
+#     return _W.T
+#
+#
+# X = np.asarray([[1, 2, 3, 4], [1, 3, 4, 5], [5, 7, 3, 1]], dtype=np.double)
+# W_org = np.asarray([[4, 5], [3, 1], [1, 9]], dtype=np.double)
+#
+#
+# H = factorize(X, W=W_org)
+# print(np.matmul(W_org, H))
+# print(X)
+
+# W = _H.T
+# H = _W.T
+# print(W)
+# print(&quot;==&quot;)
+# print(H)
+# print(&quot;==&quot;)
+# print(np.matmul(W, H))
+# print(x)
+# print(n_iter)
+
+# model = NMF(n_components=y.shape[1], init=&quot;custom&quot;, max_iter=10000)
+
+# for frame in src_for_conversion['sp']:
+# Each frame have size of (1, 513). Need to transpose:
+#       frame.T = exemplar_A[:]['sp'] x h (h is activation matrix)
+
+# output = model.fit_transform(src_for_conversion['sp'][0].T[:, np.newaxis], W=_W.T)
+# output = model.fit_transform(X=x, W=y)
+# print(output)
+# print(output.shape)
+#
+# print(model.components_)
+# print(model.components_.shape)
+# pdb.set_trace()
+import librosa as lbr
+import pyworld as pw
+
+from tqdm import tqdm
+# import decomp
+
+use_stft = True
+speakerA = &quot;SF1&quot;
+speakerB = &quot;TM3&quot;
+
+
+def io_load_from_pickle():
+    with open(&quot;./data/vc/exem_dict/exemplar_W_A&quot;, &quot;rb&quot;) as f:
+        src_W = pickle.load(f)
+
+    with open(&quot;./data/vc/exem_dict/exemplar_W_B&quot;, &quot;rb&quot;) as f:
+        tar_W = pickle.load(f)
+
+    if not use_stft:
+        with open(&quot;./data/vc/exem_dict/{}_feat_sp_ap_f0.pkl&quot;.format(speakerA), &quot;rb&quot;) as f:
+            src_feat = pickle.load(f)
+
+        with open(&quot;./data/vc/exem_dict/{}_feat_sp_ap_f0.pkl&quot;.format(speakerB), &quot;rb&quot;) as f:
+            tar_feat = pickle.load(f)
+    else:
+        with open(&quot;./data/vc/exem_dict/{}_feat_stft.pkl&quot;.format(speakerA), &quot;rb&quot;) as f:
+            src_feat = pickle.load(f)
+
+        with open(&quot;./data/vc/exem_dict/{}_feat_stft.pkl&quot;.format(speakerB), &quot;rb&quot;) as f:
+            tar_feat = pickle.load(f)
+
+    return src_feat, tar_feat, src_W, tar_W
+def align_sp_ap_f0(feat=None, dtw_path=None):
+    &quot;&quot;&quot;
+        Align spectral feature, based on dtw_path. Check if an available pickled version is existed
+    :param feat: spectral features
+    :param dtw_path: dtw_path of the audio
+    :return: `feat`-like object, but aligned
+    &quot;&quot;&quot;
+    src_feat, tar_feat, src_W, tar_W = io_load_from_pickle()
+
+    aligned_src_feat = []
+    aligned_tar_feat = []
+
+    if not use_stft:
+        for i in tqdm(range(len(src_W))):  # iterate through each audio file
+            sp1 = []; ap1 = []; f01 = []
+            sp2 = []; ap2 = []; f02 = []
+
+            for j in range(len(src_W[i])):
+                sp1.append(src_feat[i]['sp'][src_W[i][j]])
+                ap1.append(src_feat[i]['ap'][src_W[i][j]])
+                f01.append(src_feat[i]['f0'][src_W[i][j]])
+
+                sp2.append(tar_feat[i]['sp'][tar_W[i][j]])
+                ap2.append(tar_feat[i]['ap'][tar_W[i][j]])
+                f02.append(tar_feat[i]['f0'][tar_W[i][j]])
+
+            aligned_src_feat.append({
+                'sp': np.asarray(sp1),
+                'ap': np.asarray(ap1),
+                'f0': np.asarray(f01),
+                'fs': src_feat[i]['fs']
+            })
+
+            aligned_tar_feat.append({
+                'sp': np.asarray(sp2),
+                'ap': np.asarray(ap2),
+                'f0': np.asarray(f02),
+                'fs': tar_feat[i]['fs']
+            })
+
+        return aligned_src_feat, aligned_tar_feat
+    else:
+        for i in tqdm(range(len(src_W))):  # iterate through each audio file
+            stft1 = []; real1 = []; imag1 = []
+            stft2 = []; real2 = []; imag2 = []
+
+            for j in range(len(src_W[i])):
+                stft1.append(src_feat[i]['stft'][src_W[i][j]])
+                real1.append(src_feat[i]['stft'][src_W[i][j]].real)
+                imag1.append(src_feat[i]['stft'][src_W[i][j]].imag)
+
+                stft2.append(tar_feat[i]['stft'][tar_W[i][j]])
+                real2.append(tar_feat[i]['stft'][src_W[i][j]].real)
+                imag2.append(tar_feat[i]['stft'][src_W[i][j]].imag)
+
+            aligned_src_feat.append({
+                'stft': np.asarray(stft1),
+                'real': np.asarray(real1),
+                'imag': np.asarray(imag1),
+                'fs': src_feat[i]['fs']
+            })
+
+            aligned_tar_feat.append({
+                'stft': np.asarray(stft2),
+                'real': np.asarray(real2),
+                'imag': np.asarray(imag2),
+                'fs': tar_feat[i]['fs']
+            })
+
+        return aligned_src_feat, aligned_tar_feat
+
+
+# x, fs = lbr.load(&quot;data/SF1/100001.wav&quot;, sr=None, dtype=np.double)
+# x_stft = lbr.core.stft(y=x)
+src_feat, tar_feat, src_W, tar_W = io_load_from_pickle()
+
+aligned_src_feat, aligned_tar_feat = align_sp_ap_f0()
+aligned_src_feat = aligned_src_feat[0]['stft']
+aligned_tar_feat = aligned_tar_feat[0]['stft']
+
+print(aligned_src_feat.shape, aligned_tar_feat.shape)
+
+# mix_stft = np.zeros(aligned_src_feat.shape, dtype=np.complex64)
+# for i in range(len(aligned_src_feat)):
+#     for j in range(len(aligned_src_feat[0])):
+#         # mix_stft[i][j].real, mix_stft[i][j].imag = aligned_tar_feat[i][j].real, aligned_src_feat[i][j].imag
+#         mix_stft[i][j] = aligned_tar_feat[i][j].real + aligned_tar_feat[i][j].imag * 1j
+
+y = lbr.core.istft(aligned_tar_feat.T, hop_length=80)
+lbr.output.write_wav(&quot;wav/linhtinh.wav&quot;, y, sr=16000)
+
+y1 = lbr.core.istft(tar_feat[0]['stft'].T, hop_length=80)
+lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
+# pdb.set_trace()
+# _f0, t = pw.dio(x, fs)    # raw pitch extractor
+# f0 = pw.stonemask(x, _f0, t, fs)  # pitch refinement
+# sp = pw.cheaptrick(x, f0, t, fs)  # extract smoothed spectrogram
+# ap = pw.d4c(x, f0, t, fs)         # extract aperiodicity
+# y = pw.synthesize(f0, sp, ap, fs)
+#
+# lbr.output.write_wav(&quot;wav/zz_test.wav&quot;, y, sr=fs, norm=True)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGVmIG5tZihWLCBXaW5pdCwgSGluaXQsIHRvbCwgdGltZWxpbWl0LCBtYXhpdGVyKToKICAgICIiIgogICAgKFcsSCkgPSBubWYoVixXaW5pdCxIaW5pdCx0b2wsdGltZWxpbWl0LG1heGl0ZXIpCiAgICBXLEg6IG91dHB1dCBzb2x1dGlvbgogICAgV2luaXQsSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogdG9sZXJhbmNlIGZvciBhIHJlbGF0aXZlIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgdGltZWxpbWl0LCBtYXhpdGVyOiBsaW1pdCBvZiB0aW1lIGFuZCBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBXID0gV2luaXQ7CiAgICBIID0gSGluaXQ7CiAgICBpbml0dCA9IHRpbWUoKTsKCiAgICBncmFkVyA9IGRvdChXLCBkb3QoSCwgSC5UKSkgLSBkb3QoViwgSC5UKQogICAgZ3JhZEggPSBkb3QoZG90KFcuVCwgVyksIEgpIC0gZG90KFcuVCwgVikKICAgIGluaXRncmFkID0gbm9ybShyX1tncmFkVywgZ3JhZEguVF0pCiAgICBwcmludCgnSW5pdCBncmFkaWVudCBub3JtICVmJyAlIGluaXRncmFkKQogICAgdG9sVyA9IG1heCgwLjAwMSwgdG9sKSAqIGluaXRncmFkCiAgICB0b2xIID0gdG9sVwoKICAgIGZvciBpdGVyIGluIHhyYW5nZSgxLCBtYXhpdGVyKToKICAgICAgICAjIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgICAgIHByb2pub3JtID0gbm9ybShyX1tncmFkV1tsb2dpY2FsX29yKGdyYWRXIDwgMCwgVyA+IDApXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZEhbbG9naWNhbF9vcihncmFkSCA8IDAsIEggPiAwKV1dKQogICAgICAgIGlmIHByb2pub3JtIDwgdG9sICogaW5pdGdyYWQgb3IgdGltZSgpIC0gaW5pdHQgPiB0aW1lbGltaXQ6IGJyZWFrCgogICAgICAgIChXLCBncmFkVywgaXRlclcpID0gbmxzc3VicHJvYihWLlQsIEguVCwgVy5ULCB0b2xXLCAxMDAwKQogICAgICAgIFcgPSBXLlQKICAgICAgICBncmFkVyA9IGdyYWRXLlQKCiAgICAgICAgaWYgaXRlclcgPT0gMTogdG9sVyA9IDAuMSAqIHRvbFcKCiAgICAgICAgKEgsIGdyYWRILCBpdGVySCkgPSBubHNzdWJwcm9iKFYsIFcsIEgsIHRvbEgsIDEwMDApCiAgICAgICAgaWYgaXRlckggPT0gMTogdG9sSCA9IDAuMSAqIHRvbEgKCiAgICAgICAgaWYgaXRlciAlIDEwID09IDA6IHN0ZG91dC53cml0ZSgnLicpCgogICAgICAgIHByaW50KCdcbkl0ZXIgPSAlZCBGaW5hbCBwcm9qLWdyYWQgbm9ybSAlZicgJSAoaXRlciwgcHJvam5vcm0pKQogICAgICAgIAogICAgcmV0dXJuIChXLCBIKQoKCmRlZiBubHNzdWJwcm9iKFYsIFcsIEhpbml0LCB0b2wsIG1heGl0ZXIpOgogICAgIiIiCiAgICBILCBncmFkOiBvdXRwdXQgc29sdXRpb24gYW5kIGdyYWRpZW50CiAgICBpdGVyOiAjaXRlcmF0aW9ucyB1c2VkCiAgICBWLCBXOiBjb25zdGFudCBtYXRyaWNlcwogICAgSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogc3RvcHBpbmcgdG9sZXJhbmNlCiAgICBtYXhpdGVyOiBsaW1pdCBvZiBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBIID0gSGluaXQKICAgIFd0ViA9IGRvdChXLlQsIFYpCiAgICBXdFcgPSBkb3QoVy5ULCBXKQoKICAgIGFscGhhID0gMTsKICAgIGJldGEgPSAwLjE7CiAgICBmb3IgaXRlciBpbiB4cmFuZ2UoMSwgbWF4aXRlcik6CiAgICAgICAgZ3JhZCA9IGRvdChXdFcsIEgpIC0gV3RWCiAgICAgICAgcHJvamdyYWQgPSBub3JtKGdyYWRbbG9naWNhbF9vcihncmFkIDwgMCwgSCA+IDApXSkKICAgICAgICBpZiBwcm9qZ3JhZCA8IHRvbDogYnJlYWsKCiAgICAgICAgIyBzZWFyY2ggc3RlcCBzaXplIAogICAgICAgIGZvciBpbm5lcl9pdGVyIGluIHhyYW5nZSgxLCAyMCk6CiAgICAgICAgICAgIEhuID0gSCAtIGFscGhhICogZ3JhZAogICAgICAgICAgICBIbiA9IHdoZXJlKEhuID4gMCwgSG4sIDApCiAgICAgICAgICAgIGQgPSBIbiAtIEgKICAgICAgICAgICAgZ3JhZGQgPSBzdW0oZ3JhZCAqIGQpCiAgICAgICAgICAgIGRRZCA9IHN1bShkb3QoV3RXLCBkKSAqIGQpCiAgICAgICAgICAgIHN1ZmZfZGVjciA9IDAuOTkgKiBncmFkZCArIDAuNSAqIGRRZCA8IDA7CiAgICAgICAgICAgIGlmIGlubmVyX2l0ZXIgPT0gMToKICAgICAgICAgICAgICAgIGRlY3JfYWxwaGEgPSBub3Qgc3VmZl9kZWNyOwogICAgICAgICAgICAgICAgSHAgPSBIOwogICAgICAgICAgICBpZiBkZWNyX2FscGhhOgogICAgICAgICAgICAgICAgaWYgc3VmZl9kZWNyOgogICAgICAgICAgICAgICAgICAgIEggPSBIbjsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWxwaGEgPSBhbHBoYSAqIGJldGE7CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBub3Qgc3VmZl9kZWNyIG9yIChIcCA9PSBIbikuYWxsKCk6CiAgICAgICAgICAgICAgICAgICAgSCA9IEhwOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBhbHBoYSA9IGFscGhhIC8gYmV0YTsKICAgICAgICAgICAgICAgICAgICBIcCA9IEhuOwoKICAgICAgICBpZiBpdGVyID09IG1heGl0ZXI6CiAgICAgICAgICAgIHByaW50KCdNYXggaXRlciBpbiBubHNzdWJwcm9iJykKICAgIHJldHVybiAoSCwgZ3JhZCwgaXRlcik=</text>
       </register>
       <register name="r" type="4">
         <text>None</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgppbXBvcnQgcwpmcm9tIHV0aWxzIGltcG9ydCBjb25maWdfZ2V0X2NvbmZpZwo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgpmcm9tIHMKZnJvbSB1dGlscyBpbXBvcnQgY29uZmlnX2dldF9jb25maWcK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgppbXBvcnQgcwpmcm9tIHV0aWxzIGltcG9ydCBjb25maWdfZ2V0X2NvbmZpZwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgpmcm9tIHMKZnJvbSB1dGlscyBpbXBvcnQgY29uZmlnX2dldF9jb25maWcK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIAp3aXRoIG9wZW4oImRhdGEvdmMvZXhlbV9kaWN0L1NGMV9mZWF0X3N0ZnQucGtsIiwgInJiIikgYXMgZjoKICAgIHNyY19mZWF0ID0gcGlja2xlLmxvYWQoZilbMF1bJ3N0ZnQnXQoKd2l0aCBvcGVuKCJkYXRhL3ZjL2V4ZW1fZGljdC9UTTNfZmVhdF9zdGZ0LnBrbCIsICJyYiIpIGFzIGY6CiAgICB0YXJfZmVhdCA9IHBpY2tsZS5sb2FkKGYpWzBdWydzdGZ0J10=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICB0ZXh0ID0gImVtY2Ftb24iCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCkKICAgIHByaW50KHdvcmQpCiAgICB3b3JkLCBuZXh0X3dvcmRfcG9zID0gY2hlY2tfd29yZCgiZW1jIiwgdGV4dCwgMCk=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIENIZWNrIGlmIHdvcmQgaXMgaW4gYHdvcmRsaXN0X3dpdGhvdXRfdG9uZWAK</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorLineStart</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -300,8 +664,8 @@
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
