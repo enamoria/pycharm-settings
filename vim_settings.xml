@@ -19,7 +19,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548145679309">
+      <file name="/Python Console" timestamp="1548213631672">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548068736118">
@@ -34,6 +34,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" timestamp="1548214115168">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/utils.py" timestamp="1548145690237">
         <mark key="'" line="135" column="79" />
@@ -54,10 +58,11 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548210887126">
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="23" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548214181285">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
+        <mark key="^" line="37" column="23" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_qrmf.py" timestamp="1548130589149">
         <mark key="[" line="20" column="0" />
@@ -118,9 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="16" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="179" column="33" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="203" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="187" column="8" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="189" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="195" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -212,196 +214,22 @@
       <jump line="273" column="33" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" />
       <jump line="143" column="35" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" />
       <jump line="90" column="65" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/nmf.py" />
+      <jump line="248" column="12" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="313" column="10" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="307" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="304" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="247" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="244" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># def factorize(X, W, beta_loss=&quot;kullback-leibler&quot;):
-#     &quot;&quot;&quot;
-#         Calculate matrix `H`, which `W x H ~ X`
-#         Note: In this function, `sklearn.decomposition's` non_negative_factorization is used. This function's implementation only
-#                 allow we to feed in a fixed H, not W. So we need to used a trick here to feed in a fixed W (we need to fix W, it's our exemplar dictionary).
-#                 Instead of calling `non_negative_factorization(X=X, H=H)` directly, we feed in `X.T as X, W.T as H. Notice that:
-#                         X.T = H.T x W.T
-#                     So we transpose H and W to swap their roles. Remember to swap the result back
-#
-#     :param X: original matrix, which we need to decompose
-#     :param W: We have precomputed W.
-#     :return: H: W ~ W x H
-#     &quot;&quot;&quot;
-#     _W, _H, n_iter = non_negative_factorization(X=X.T, H=W.T, init=&quot;custom&quot;, update_H=False, n_components=W.T.shape[0],
-#                                                 beta_loss=beta_loss, solver='mu')
-#
-#     return _W.T
-#
-#
-# X = np.asarray([[1, 2, 3, 4], [1, 3, 4, 5], [5, 7, 3, 1]], dtype=np.double)
-# W_org = np.asarray([[4, 5], [3, 1], [1, 9]], dtype=np.double)
-#
-#
-# H = factorize(X, W=W_org)
-# print(np.matmul(W_org, H))
-# print(X)
-
-# W = _H.T
-# H = _W.T
-# print(W)
-# print(&quot;==&quot;)
-# print(H)
-# print(&quot;==&quot;)
-# print(np.matmul(W, H))
-# print(x)
-# print(n_iter)
-
-# model = NMF(n_components=y.shape[1], init=&quot;custom&quot;, max_iter=10000)
-
-# for frame in src_for_conversion['sp']:
-# Each frame have size of (1, 513). Need to transpose:
-#       frame.T = exemplar_A[:]['sp'] x h (h is activation matrix)
-
-# output = model.fit_transform(src_for_conversion['sp'][0].T[:, np.newaxis], W=_W.T)
-# output = model.fit_transform(X=x, W=y)
-# print(output)
-# print(output.shape)
-#
-# print(model.components_)
-# print(model.components_.shape)
-# pdb.set_trace()
-import librosa as lbr
-import pyworld as pw
-
-from tqdm import tqdm
-# import decomp
-
-use_stft = True
-speakerA = &quot;SF1&quot;
-speakerB = &quot;TM3&quot;
-
-
-def io_load_from_pickle():
-    with open(&quot;./data/vc/exem_dict/exemplar_W_A&quot;, &quot;rb&quot;) as f:
-        src_W = pickle.load(f)
-
-    with open(&quot;./data/vc/exem_dict/exemplar_W_B&quot;, &quot;rb&quot;) as f:
-        tar_W = pickle.load(f)
-
-    if not use_stft:
-        with open(&quot;./data/vc/exem_dict/{}_feat_sp_ap_f0.pkl&quot;.format(speakerA), &quot;rb&quot;) as f:
-            src_feat = pickle.load(f)
-
-        with open(&quot;./data/vc/exem_dict/{}_feat_sp_ap_f0.pkl&quot;.format(speakerB), &quot;rb&quot;) as f:
-            tar_feat = pickle.load(f)
-    else:
-        with open(&quot;./data/vc/exem_dict/{}_feat_stft.pkl&quot;.format(speakerA), &quot;rb&quot;) as f:
-            src_feat = pickle.load(f)
-
-        with open(&quot;./data/vc/exem_dict/{}_feat_stft.pkl&quot;.format(speakerB), &quot;rb&quot;) as f:
-            tar_feat = pickle.load(f)
-
-    return src_feat, tar_feat, src_W, tar_W
-def align_sp_ap_f0(feat=None, dtw_path=None):
-    &quot;&quot;&quot;
-        Align spectral feature, based on dtw_path. Check if an available pickled version is existed
-    :param feat: spectral features
-    :param dtw_path: dtw_path of the audio
-    :return: `feat`-like object, but aligned
-    &quot;&quot;&quot;
-    src_feat, tar_feat, src_W, tar_W = io_load_from_pickle()
-
-    aligned_src_feat = []
-    aligned_tar_feat = []
-
-    if not use_stft:
-        for i in tqdm(range(len(src_W))):  # iterate through each audio file
-            sp1 = []; ap1 = []; f01 = []
-            sp2 = []; ap2 = []; f02 = []
-
-            for j in range(len(src_W[i])):
-                sp1.append(src_feat[i]['sp'][src_W[i][j]])
-                ap1.append(src_feat[i]['ap'][src_W[i][j]])
-                f01.append(src_feat[i]['f0'][src_W[i][j]])
-
-                sp2.append(tar_feat[i]['sp'][tar_W[i][j]])
-                ap2.append(tar_feat[i]['ap'][tar_W[i][j]])
-                f02.append(tar_feat[i]['f0'][tar_W[i][j]])
-
-            aligned_src_feat.append({
-                'sp': np.asarray(sp1),
-                'ap': np.asarray(ap1),
-                'f0': np.asarray(f01),
-                'fs': src_feat[i]['fs']
-            })
-
-            aligned_tar_feat.append({
-                'sp': np.asarray(sp2),
-                'ap': np.asarray(ap2),
-                'f0': np.asarray(f02),
-                'fs': tar_feat[i]['fs']
-            })
-
-        return aligned_src_feat, aligned_tar_feat
-    else:
-        for i in tqdm(range(len(src_W))):  # iterate through each audio file
-            stft1 = []; real1 = []; imag1 = []
-            stft2 = []; real2 = []; imag2 = []
-
-            for j in range(len(src_W[i])):
-                stft1.append(src_feat[i]['stft'][src_W[i][j]])
-                real1.append(src_feat[i]['stft'][src_W[i][j]].real)
-                imag1.append(src_feat[i]['stft'][src_W[i][j]].imag)
-
-                stft2.append(tar_feat[i]['stft'][tar_W[i][j]])
-                real2.append(tar_feat[i]['stft'][src_W[i][j]].real)
-                imag2.append(tar_feat[i]['stft'][src_W[i][j]].imag)
-
-            aligned_src_feat.append({
-                'stft': np.asarray(stft1),
-                'real': np.asarray(real1),
-                'imag': np.asarray(imag1),
-                'fs': src_feat[i]['fs']
-            })
-
-            aligned_tar_feat.append({
-                'stft': np.asarray(stft2),
-                'real': np.asarray(real2),
-                'imag': np.asarray(imag2),
-                'fs': tar_feat[i]['fs']
-            })
-
-        return aligned_src_feat, aligned_tar_feat
-
-
-# x, fs = lbr.load(&quot;data/SF1/100001.wav&quot;, sr=None, dtype=np.double)
-# x_stft = lbr.core.stft(y=x)
-src_feat, tar_feat, src_W, tar_W = io_load_from_pickle()
-
-aligned_src_feat, aligned_tar_feat = align_sp_ap_f0()
-aligned_src_feat = aligned_src_feat[0]['stft']
-aligned_tar_feat = aligned_tar_feat[0]['stft']
-
-print(aligned_src_feat.shape, aligned_tar_feat.shape)
-
-# mix_stft = np.zeros(aligned_src_feat.shape, dtype=np.complex64)
-# for i in range(len(aligned_src_feat)):
-#     for j in range(len(aligned_src_feat[0])):
-#         # mix_stft[i][j].real, mix_stft[i][j].imag = aligned_tar_feat[i][j].real, aligned_src_feat[i][j].imag
-#         mix_stft[i][j] = aligned_tar_feat[i][j].real + aligned_tar_feat[i][j].imag * 1j
-
-y = lbr.core.istft(aligned_tar_feat.T, hop_length=80)
-lbr.output.write_wav(&quot;wav/linhtinh.wav&quot;, y, sr=16000)
-
-y1 = lbr.core.istft(tar_feat[0]['stft'].T, hop_length=80)
-lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
-# pdb.set_trace()
-# _f0, t = pw.dio(x, fs)    # raw pitch extractor
-# f0 = pw.stonemask(x, _f0, t, fs)  # pitch refinement
-# sp = pw.cheaptrick(x, f0, t, fs)  # extract smoothed spectrogram
-# ap = pw.d4c(x, f0, t, fs)         # extract aperiodicity
-# y = pw.synthesize(f0, sp, ap, fs)
-#
-# lbr.output.write_wav(&quot;wav/zz_test.wav&quot;, y, sr=fs, norm=True)</text>
+        <text>RNM</text>
       </register>
       <register name="-" type="4">
-        <text>mu</text>
+        <text>RNM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUFw+</text>
@@ -626,7 +454,7 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -646,7 +474,6 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry encoding="base64">XDxTUFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorEscape</entry>
         <entry>action EditorDeleteLine</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action EditorPageUpWithSelection</entry>
@@ -660,12 +487,13 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorDown</entry>
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLineStart</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorCodeBlockEnd</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
