@@ -10,7 +10,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548239869590">
+      <file name="/Python Console" timestamp="1548388186877">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548239640820">
@@ -18,7 +18,9 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548387126819" />
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548388304269">
+        <mark key="[" line="394" column="52" />
+      </file>
       <file name="/a.dummy" timestamp="1548064937661">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,16 +97,8 @@
         <mark key="^" line="1663" column="0" />
         <mark key="." line="1663" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548210848429">
+      <file name="/Dummy.txt" timestamp="1548388123275">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/word_splitter_into_subword/splitter.py" timestamp="1548068736118">
-        <mark key="p" line="94" column="29" />
-        <mark key="'" line="208" column="35" />
-        <mark key="[" line="189" column="26" />
-        <mark key="]" line="189" column="26" />
-        <mark key="^" line="229" column="3" />
-        <mark key="." line="189" column="26" />
       </file>
       <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" timestamp="1548214115168">
         <mark key="'" line="170" column="0" />
@@ -119,6 +113,9 @@
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf_pytorch.py" timestamp="1548229722201">
         <mark key="'" line="142" column="41" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548388282252">
+        <mark key="[" line="21" column="29" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548387352805">
         <mark key="[" line="45" column="0" />
@@ -666,7 +663,7 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgpmcm9tIHMKZnJvbSB1dGlscyBpbXBvcnQgY29uZmlnX2dldF9jb25maWcK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLineStart</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -702,10 +699,10 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorCodeBlockEnd</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorLineStart</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
