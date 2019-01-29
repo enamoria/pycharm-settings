@@ -18,8 +18,8 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548750327655">
-        <mark key="[" line="394" column="52" />
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548751123235">
+        <mark key="[" line="382" column="38" />
       </file>
       <file name="/a.dummy" timestamp="1548064937661">
         <mark key="[" line="0" column="0" />
@@ -103,8 +103,10 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf_pytorch.py" timestamp="1548229722201">
         <mark key="'" line="142" column="41" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548388282252">
-        <mark key="[" line="22" column="29" />
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548751319856">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="25" />
+        <mark key="." line="34" column="25" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
         <mark key="[" line="45" column="0" />
@@ -120,6 +122,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/xxx/baotrungquocnhandinh-14.lab" timestamp="1548751045849">
+        <mark key="[" line="7" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -225,11 +230,11 @@
       <jump line="75" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHUiVk4gZ+G6t3AgQWZnaGFuaXN0YW4gbmfDoHkgbcaw4budaSBi4buRbiB0aMOhbmcgbcaw4budaSBt4buZdCB04bqhaSBzw6JuIE3hu7kgxJDDrG5oLiDDlG5nIMSRxrDhu6NjIGvDrCB24buNbmcgc+G6vSBsw6BtIHThu5F0IGjGoW4gbmfGsOG7nWkgdGnhu4FuIG5oaeG7h20gdG9zaGlZYSBNaXVyYSIK</text>
+      <register name="&quot;" type="4">
+        <text>onar</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>onar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
@@ -691,8 +696,8 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorPageDown</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
