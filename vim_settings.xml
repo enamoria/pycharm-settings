@@ -10,7 +10,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548643722169">
+      <file name="/Python Console" timestamp="1548725385375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548644343592">
@@ -46,14 +46,14 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548643721198">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" timestamp="1548725791106">
         <mark key="'" line="361" column="60" />
         <mark key="[" line="358" column="43" />
         <mark key="]" line="208" column="56" />
         <mark key="." line="208" column="56" />
         <mark key="^" line="208" column="56" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1548243105811">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/03_a_b_r_parallel.py" timestamp="1548725877851">
         <mark key="'" line="90" column="49" />
         <mark key="[" line="202" column="116" />
         <mark key="]" line="202" column="116" />
@@ -64,9 +64,9 @@
         <mark key="'" line="12685" column="11" />
         <mark key="[" line="18275" column="37" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1548238698604">
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/config/config" timestamp="1548726581973">
         <mark key="'" line="40" column="1" />
-        <mark key="[" line="47" column="11" />
+        <mark key="[" line="31" column="21" />
         <mark key="]" line="47" column="10" />
         <mark key="." line="47" column="10" />
         <mark key="^" line="8" column="7" />
@@ -77,8 +77,9 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="24" column="10" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1548642712040">
-        <mark key="[" line="98" column="128" />
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1548726556836">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="75" column="33" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_compensation.py" timestamp="1547547486865">
         <mark key="'" line="9" column="87" />
@@ -136,8 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="207" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="204" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="202" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="198" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -236,6 +235,8 @@
       <jump line="360" column="60" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf.py" />
       <jump line="12685" column="11" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/oov_muon.dict" />
       <jump line="883" column="3" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/zz_final_all.dict" />
+      <jump line="107" column="119" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
+      <jump line="75" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -245,7 +246,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTUFw+</text>
+        <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
@@ -666,13 +667,13 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgpmcm9tIHMKZnJvbSB1dGlscyBpbXBvcnQgY29uZmlnX2dldF9jb25maWcK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLineStart</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTUFw+</last-search>
+      <last-search encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTUFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -684,6 +685,7 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>system</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxTUFw+</entry>
+        <entry encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorDeleteLine</entry>
@@ -701,11 +703,11 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorPageUp</entry>
         <entry>action EditorCodeBlockEnd</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLineStart</entry>
       </history-cmd>
       <history-expr />
       <history-input />
