@@ -10,18 +10,20 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548821349284">
+      <file name="/Python Console" timestamp="1548824976365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1548819230349">
+      <file name="/fragment.py" timestamp="1548825057049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548756480503">
-        <mark key="[" line="366" column="16" />
-        <mark key="]" line="366" column="16" />
-        <mark key="." line="366" column="16" />
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548825240166">
+        <mark key="'" line="380" column="29" />
+        <mark key="[" line="378" column="17" />
+        <mark key="]" line="378" column="17" />
+        <mark key="." line="378" column="17" />
+        <mark key="^" line="288" column="12" />
       </file>
       <file name="/a.dummy" timestamp="1548064937661">
         <mark key="[" line="0" column="0" />
@@ -55,6 +57,12 @@
         <mark key="]" line="202" column="116" />
         <mark key="^" line="107" column="79" />
         <mark key="." line="202" column="116" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_parallel.py" timestamp="1548824729987">
+        <mark key="'" line="67" column="85" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/oov_muon.dict" timestamp="1548387271918">
         <mark key="'" line="12685" column="11" />
@@ -93,7 +101,7 @@
         <mark key="]" line="415" column="18" />
         <mark key="." line="415" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548823261089">
+      <file name="/Dummy.txt" timestamp="1548824817524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" timestamp="1548214115168">
@@ -139,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="194" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="172" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="180" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="234" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -239,13 +245,15 @@
       <jump line="0" column="0" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
       <jump line="288" column="19" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
       <jump line="10" column="18" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
+      <jump line="67" column="85" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_parallel.py" />
+      <jump line="377" column="29" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmlmICdMRF9MSUJSQVJZX1BBVEgnIG5vdCBpbiBvcy5lbnZpcm9uOgogICAgb3MuZW52aXJvblsnTERfTElCUkFSWV9QQVRIJ10gPSAnL3Vzci9sb2NhbC9saWIvJwoKICAgIHRyeToKICAgICAgICBwcmludChzeXMuYXJndikKICAgICAgICBvcy5leGVjdmUob3MucGF0aC5yZWFscGF0aChfX2ZpbGVfXyksIHN5cy5hcmd2LCBvcy5lbnZpcm9uKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgcHJpbnQoJ0ZhaWxlZCByZS1leGVjOicsIGV4YykKICAgICAgICBzeXMuZXhpdCgxKQoKZWxzZToKICAgIG9zLmVudmlyb25bJ0xEX0xJQlJBUllfUEFUSCddICs9ICcvdXNyL2xvY2FsL2xpYi8nCgoKIyAjCiMgIyBpbXBvcnQgeW91cm1vZHVsZQojIHByaW50KCdTdWNjZXNzOicsIG9zLmVudmlyb25bJ0xEX0xJQlJBUllfUEFUSCddKQoKc3lzLnBhdGguYXBwZW5kKCIvdXNyL2xvY2FsL2xpYiIp</text>
+        <text>model</text>
       </register>
       <register name="-" type="4">
-        <text>environ</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
@@ -669,7 +677,7 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorPageDown</text>
       </register>
     </registers>
     <search>
@@ -704,12 +712,12 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorPageDownWithSelection</entry>
         <entry>action EditorPageUp</entry>
         <entry>action EditorCodeBlockEnd</entry>
-        <entry>action EditorPageDown</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineStart</entry>
-        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorPageDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
