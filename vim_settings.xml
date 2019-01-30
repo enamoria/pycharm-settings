@@ -10,7 +10,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548819255958">
+      <file name="/Python Console" timestamp="1548821349284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548819230349">
@@ -124,6 +124,7 @@
         <mark key="'" line="883" column="3" />
         <mark key="[" line="19353" column="25" />
       </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" timestamp="1548821348493" />
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/__init__.py" timestamp="1548379144510">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -664,7 +665,7 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgpmcm9tIGR0dyBpbXBvcnQgZHR3CmZyb20gdHFkbSBpbXBvcnQgdHFkbQpmcm9tIHNrbGVhcm4uZGVjb21wb3NpdGlvbiBpbXBvcnQgTk1GLCBub25fbmVnYXRpdmVfZmFjdG9yaXphdGlvbgppbXBvcnQgcwpmcm9tIHV0aWxzIGltcG9ydCBjb25maWdfZ2V0X2NvbmZpZwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -700,11 +701,11 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorPageUp</entry>
         <entry>action EditorCodeBlockEnd</entry>
         <entry>action EditorPageDown</entry>
+        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
