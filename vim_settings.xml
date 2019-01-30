@@ -10,7 +10,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548824976365">
+      <file name="/Python Console" timestamp="1548835281122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548825057049">
@@ -18,7 +18,7 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548825240166">
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548835009396">
         <mark key="'" line="380" column="29" />
         <mark key="[" line="378" column="17" />
         <mark key="]" line="378" column="17" />
@@ -31,14 +31,7 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinh.py" timestamp="1548236404939">
-        <mark key="u" line="36" column="102" />
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="61" column="17" />
-        <mark key="]" line="61" column="17" />
-        <mark key="." line="61" column="17" />
-        <mark key="^" line="64" column="3" />
-      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/BACKUP_genLab_v2_oov_backup_for_parallel_impl.py" timestamp="1548836392061" />
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_qrmf.py" timestamp="1548130589149">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -75,8 +68,10 @@
         <mark key="." line="47" column="10" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test.txt" timestamp="1548756265990">
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test.txt" timestamp="1548834908630">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1548755608215">
         <mark key="'" line="75" column="0" />
@@ -101,7 +96,7 @@
         <mark key="]" line="415" column="18" />
         <mark key="." line="415" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548824817524">
+      <file name="/Dummy.txt" timestamp="1548835150535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" timestamp="1548214115168">
@@ -115,14 +110,12 @@
         <mark key="^" line="90" column="11" />
         <mark key="." line="90" column="11" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_nmf_pytorch.py" timestamp="1548229722201">
-        <mark key="'" line="142" column="41" />
-      </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548751319856">
         <mark key="[" line="34" column="25" />
         <mark key="]" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548834903965" />
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -132,10 +125,15 @@
         <mark key="'" line="883" column="3" />
         <mark key="[" line="19353" column="25" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" timestamp="1548823060321">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
+        <mark key="'" line="161" column="0" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" timestamp="1548836705333">
+        <mark key="'" line="293" column="0" />
+        <mark key="[" line="247" column="46" />
+        <mark key="]" line="247" column="46" />
+        <mark key="." line="247" column="46" />
+        <mark key="^" line="247" column="46" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/__init__.py" timestamp="1548379144510">
         <mark key="[" line="1" column="0" />
@@ -147,9 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="180" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="234" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="233" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="229" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="226" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -247,13 +242,16 @@
       <jump line="10" column="18" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
       <jump line="67" column="85" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_parallel.py" />
       <jump line="377" column="29" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" />
+      <jump line="14" column="29" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
+      <jump line="291" column="0" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
+      <jump line="161" column="0" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>model</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
@@ -262,24 +260,29 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmlmICdMRF9MSUJSQVJZX1BBVEgnIG5vdCBpbiBvcy5lbnZpcm9uOgogICAgb3MuZW52aXJvblsnTERfTElCUkFSWV9QQVRIJ10gPSAnL3Vzci9sb2NhbC9saWIvJwoKICAgIHRyeToKICAgICAgICBwcmludChzeXMuYXJndikKICAgICAgICBvcy5leGVjdmUob3MucGF0aC5yZWFscGF0aChfX2ZpbGVfXyksIHN5cy5hcmd2LCBvcy5lbnZpcm9uKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgcHJpbnQoJ0ZhaWxlZCByZS1leGVjOicsIGV4YykKICAgICAgICBzeXMuZXhpdCgxKQoKZWxzZToKICAgIG9zLmVudmlyb25bJ0xEX0xJQlJBUllfUEFUSCddICs9ICcvdXNyL2xvY2FsL2xpYi8nCgoKIyAjCiMgIyBpbXBvcnQgeW91cm1vZHVsZQojIHByaW50KCdTdWNjZXNzOicsIG9zLmVudmlyb25bJ0xEX0xJQlJBUllfUEFUSCddKQoKc3lzLnBhdGguYXBwZW5kKCIvdXNyL2xvY2FsL2xpYiIp</text>
+        <text>doiu23ando-05|huấn luyện viên stephen constantine
+baotrungquocnhandinh-14|và màn so tài giữa chúng ta với olympic palestine
+andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIAogICAgICAgICAgICBvdXRfbGFiZWxfZmlsZSA9IG91dF9kaXIgKyAiLyIgKyBsYWJlbF9uYW1lX2ZpbGUgKyAiLmxhYiIKICAgICAgICAgICAgd3JpdGVfbGFiZWwobGFiZWxfbGluZXMsIG91dF9sYWJlbF9maWxlKQogICAgICAgICAgICAjIGxvZ2dpbmcuaW5mbygiZG9uZSEiKQ==</text>
+        <text encoding="base64">CmlmICdMRF9MSUJSQVJZX1BBVEgnIG5vdCBpbiBvcy5lbnZpcm9uOgogICAgb3MuZW52aXJvblsnTERfTElCUkFSWV9QQVRIJ10gPSAnL3Vzci9sb2NhbC9saWIvJwoKICAgIHRyeToKICAgICAgICBwcmludChzeXMuYXJndikKICAgICAgICBvcy5leGVjdmUob3MucGF0aC5yZWFscGF0aChfX2ZpbGVfXyksIHN5cy5hcmd2LCBvcy5lbnZpcm9uKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgcHJpbnQoJ0ZhaWxlZCByZS1leGVjOicsIGV4YykKICAgICAgICBzeXMuZXhpdCgxKQoKZWxzZToKICAgIG9zLmVudmlyb25bJ0xEX0xJQlJBUllfUEFUSCddICs9ICcvdXNyL2xvY2FsL2xpYi8nCgoKIyAjCiMgIyBpbXBvcnQgeW91cm1vZHVsZQojIHByaW50KCdTdWNjZXNzOicsIG9zLmVudmlyb25bJ0xEX0xJQlJBUllfUEFUSCddKQoKc3lzLnBhdGguYXBwZW5kKCIvdXNyL2xvY2FsL2xpYiIp</text>
       </register>
       <register name="r" type="4">
         <text>None</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIAogICAgICAgICAgICBvdXRfbGFiZWxfZmlsZSA9IG91dF9kaXIgKyAiLyIgKyBsYWJlbF9uYW1lX2ZpbGUgKyAiLmxhYiIKICAgICAgICAgICAgd3JpdGVfbGFiZWwobGFiZWxfbGluZXMsIG91dF9sYWJlbF9maWxlKQogICAgICAgICAgICAjIGxvZ2dpbmcuaW5mbygiZG9uZSEiKQ==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIHUiVk4gZ+G6t3AgQWZnaGFuaXN0YW4gbmfDoHkgbcaw4budaSBi4buRbiB0aMOhbmcgbcaw4budaSBt4buZdCB04bqhaSBzw6JuIE3hu7kgxJDDrG5oLiDDlG5nIMSRxrDhu6NjIGvDrCB24buNbmcgc+G6vSBsw6BtIHThu5F0IGjGoW4gbmfGsOG7nWkgdGnhu4FuIG5oaeG7h20gdG9zaGlZYSBNaXVyYSIK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Y2xhc3MgeDoKICAgIGRlZiBsb3NzKHNlbGYsIHhzOmludCkgLT4gZmxvYXQ6CiAgICAgICAgcHJpbnQoeHMpCiAgICAgICAgcmV0dXJuIDAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SP AP F0
     # y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
     os.system(&quot;mkdir -p wav&quot;)
@@ -472,7 +475,7 @@ def convert(H, tar_feat, residual):
 
     converted_sp = np.exp(np.log(np.matmul(H_sp.T, B_sp)) +</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>nmf = NMF(data, num_bases=W.shape[1])
 nmf._init_h()
 
@@ -484,7 +487,7 @@ print(np.matmul(nmf.W, nmf.H))
 print(np.matmul(nmf.W, nmf.H) - data)
 # pdb.set_trace()</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text># def factorize(X, W, beta_loss=&quot;kullback-leibler&quot;):
 #     &quot;&quot;&quot;
 #         Calculate matrix `H`, which `W x H ~ X`
@@ -670,14 +673,11 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
 #
 # lbr.output.write_wav(&quot;wav/zz_test.wav&quot;, y, sr=fs, norm=True)</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZGVmIG5tZihWLCBXaW5pdCwgSGluaXQsIHRvbCwgdGltZWxpbWl0LCBtYXhpdGVyKToKICAgICIiIgogICAgKFcsSCkgPSBubWYoVixXaW5pdCxIaW5pdCx0b2wsdGltZWxpbWl0LG1heGl0ZXIpCiAgICBXLEg6IG91dHB1dCBzb2x1dGlvbgogICAgV2luaXQsSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogdG9sZXJhbmNlIGZvciBhIHJlbGF0aXZlIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgdGltZWxpbWl0LCBtYXhpdGVyOiBsaW1pdCBvZiB0aW1lIGFuZCBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBXID0gV2luaXQ7CiAgICBIID0gSGluaXQ7CiAgICBpbml0dCA9IHRpbWUoKTsKCiAgICBncmFkVyA9IGRvdChXLCBkb3QoSCwgSC5UKSkgLSBkb3QoViwgSC5UKQogICAgZ3JhZEggPSBkb3QoZG90KFcuVCwgVyksIEgpIC0gZG90KFcuVCwgVikKICAgIGluaXRncmFkID0gbm9ybShyX1tncmFkVywgZ3JhZEguVF0pCiAgICBwcmludCgnSW5pdCBncmFkaWVudCBub3JtICVmJyAlIGluaXRncmFkKQogICAgdG9sVyA9IG1heCgwLjAwMSwgdG9sKSAqIGluaXRncmFkCiAgICB0b2xIID0gdG9sVwoKICAgIGZvciBpdGVyIGluIHhyYW5nZSgxLCBtYXhpdGVyKToKICAgICAgICAjIHN0b3BwaW5nIGNvbmRpdGlvbgogICAgICAgIHByb2pub3JtID0gbm9ybShyX1tncmFkV1tsb2dpY2FsX29yKGdyYWRXIDwgMCwgVyA+IDApXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZ3JhZEhbbG9naWNhbF9vcihncmFkSCA8IDAsIEggPiAwKV1dKQogICAgICAgIGlmIHByb2pub3JtIDwgdG9sICogaW5pdGdyYWQgb3IgdGltZSgpIC0gaW5pdHQgPiB0aW1lbGltaXQ6IGJyZWFrCgogICAgICAgIChXLCBncmFkVywgaXRlclcpID0gbmxzc3VicHJvYihWLlQsIEguVCwgVy5ULCB0b2xXLCAxMDAwKQogICAgICAgIFcgPSBXLlQKICAgICAgICBncmFkVyA9IGdyYWRXLlQKCiAgICAgICAgaWYgaXRlclcgPT0gMTogdG9sVyA9IDAuMSAqIHRvbFcKCiAgICAgICAgKEgsIGdyYWRILCBpdGVySCkgPSBubHNzdWJwcm9iKFYsIFcsIEgsIHRvbEgsIDEwMDApCiAgICAgICAgaWYgaXRlckggPT0gMTogdG9sSCA9IDAuMSAqIHRvbEgKCiAgICAgICAgaWYgaXRlciAlIDEwID09IDA6IHN0ZG91dC53cml0ZSgnLicpCgogICAgICAgIHByaW50KCdcbkl0ZXIgPSAlZCBGaW5hbCBwcm9qLWdyYWQgbm9ybSAlZicgJSAoaXRlciwgcHJvam5vcm0pKQogICAgICAgIAogICAgcmV0dXJuIChXLCBIKQoKCmRlZiBubHNzdWJwcm9iKFYsIFcsIEhpbml0LCB0b2wsIG1heGl0ZXIpOgogICAgIiIiCiAgICBILCBncmFkOiBvdXRwdXQgc29sdXRpb24gYW5kIGdyYWRpZW50CiAgICBpdGVyOiAjaXRlcmF0aW9ucyB1c2VkCiAgICBWLCBXOiBjb25zdGFudCBtYXRyaWNlcwogICAgSGluaXQ6IGluaXRpYWwgc29sdXRpb24KICAgIHRvbDogc3RvcHBpbmcgdG9sZXJhbmNlCiAgICBtYXhpdGVyOiBsaW1pdCBvZiBpdGVyYXRpb25zCiAgICAiIiIKCiAgICBIID0gSGluaXQKICAgIFd0ViA9IGRvdChXLlQsIFYpCiAgICBXdFcgPSBkb3QoVy5ULCBXKQoKICAgIGFscGhhID0gMTsKICAgIGJldGEgPSAwLjE7CiAgICBmb3IgaXRlciBpbiB4cmFuZ2UoMSwgbWF4aXRlcik6CiAgICAgICAgZ3JhZCA9IGRvdChXdFcsIEgpIC0gV3RWCiAgICAgICAgcHJvamdyYWQgPSBub3JtKGdyYWRbbG9naWNhbF9vcihncmFkIDwgMCwgSCA+IDApXSkKICAgICAgICBpZiBwcm9qZ3JhZCA8IHRvbDogYnJlYWsKCiAgICAgICAgIyBzZWFyY2ggc3RlcCBzaXplIAogICAgICAgIGZvciBpbm5lcl9pdGVyIGluIHhyYW5nZSgxLCAyMCk6CiAgICAgICAgICAgIEhuID0gSCAtIGFscGhhICogZ3JhZAogICAgICAgICAgICBIbiA9IHdoZXJlKEhuID4gMCwgSG4sIDApCiAgICAgICAgICAgIGQgPSBIbiAtIEgKICAgICAgICAgICAgZ3JhZGQgPSBzdW0oZ3JhZCAqIGQpCiAgICAgICAgICAgIGRRZCA9IHN1bShkb3QoV3RXLCBkKSAqIGQpCiAgICAgICAgICAgIHN1ZmZfZGVjciA9IDAuOTkgKiBncmFkZCArIDAuNSAqIGRRZCA8IDA7CiAgICAgICAgICAgIGlmIGlubmVyX2l0ZXIgPT0gMToKICAgICAgICAgICAgICAgIGRlY3JfYWxwaGEgPSBub3Qgc3VmZl9kZWNyOwogICAgICAgICAgICAgICAgSHAgPSBIOwogICAgICAgICAgICBpZiBkZWNyX2FscGhhOgogICAgICAgICAgICAgICAgaWYgc3VmZl9kZWNyOgogICAgICAgICAgICAgICAgICAgIEggPSBIbjsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgYWxwaGEgPSBhbHBoYSAqIGJldGE7CiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBub3Qgc3VmZl9kZWNyIG9yIChIcCA9PSBIbikuYWxsKCk6CiAgICAgICAgICAgICAgICAgICAgSCA9IEhwOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBhbHBoYSA9IGFscGhhIC8gYmV0YTsKICAgICAgICAgICAgICAgICAgICBIcCA9IEhuOwoKICAgICAgICBpZiBpdGVyID09IG1heGl0ZXI6CiAgICAgICAgICAgIHByaW50KCdNYXggaXRlciBpbiBubHNzdWJwcm9iJykKICAgIHJldHVybiAoSCwgZ3JhZCwgaXRlcik=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHBkYgppbXBvcnQgcGlja2xlCmltcG9ydCBzYyAKaW1wb3J0IHRpbWUKaW1wb3J0IGxvZ2dpbmcKaW1wb3J0IGRhdGV0aW1lCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorPageDown</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -714,10 +714,10 @@ lbr.output.write_wav(&quot;wav/linhtinh1.wav&quot;, y1, sr=16000)
         <entry>action EditorCodeBlockEnd</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorLineStart</entry>
         <entry>action EditorPageDown</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLineStart</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />

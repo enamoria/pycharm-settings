@@ -6,6 +6,7 @@
       <mapping pattern="ipa_toy" type="PLAIN_TEXT" />
       <mapping pattern="phone_counter" type="PLAIN_TEXT" />
       <mapping pattern="text_11k" type="PLAIN_TEXT" />
+      <mapping pattern="oov-test-mini-leyen" type="PLAIN_TEXT" />
       <mapping pattern="phone_map" type="PLAIN_TEXT" />
       <mapping pattern="oov_muon" type="PLAIN_TEXT" />
       <mapping pattern="VietCompoundWord_from_wikinatory" type="PLAIN_TEXT" />
