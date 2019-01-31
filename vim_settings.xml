@@ -3,14 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-26487350/pyworld/pyworld.py" timestamp="1547794623510">
-        <mark key="'" line="193" column="54" />
-        <mark key="[" line="12" column="20" />
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2.1_oov.py" timestamp="1548900717918">
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="0" />
+        <mark key="." line="477" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548835150535">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1548847144858">
+      <file name="/Python Console" timestamp="1548901354805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548842084624">
@@ -41,37 +45,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_parallel.py" timestamp="1548824729987">
-        <mark key="'" line="67" column="85" />
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="30" column="14" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/oov_muon.dict" timestamp="1548387271918">
-        <mark key="'" line="12685" column="11" />
-        <mark key="[" line="18275" column="37" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test.txt" timestamp="1548834908630">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1548755608215">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="75" column="33" />
-      </file>
-      <file name="$USER_HOME$/anaconda2/lib/python2.7/os.py" timestamp="1548818864779">
-        <mark key="[" line="415" column="17" />
-        <mark key="]" line="415" column="18" />
-        <mark key="." line="415" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1548835150535">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/PyMF-0.3-py3.6.egg!/pymf/nmf.py" timestamp="1548214115168">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548751319856">
         <mark key="[" line="34" column="25" />
         <mark key="]" line="34" column="25" />
@@ -80,14 +53,25 @@
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
         <mark key="[" line="9799" column="81" />
       </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_parallel.py" timestamp="1548824729987">
+        <mark key="'" line="67" column="85" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+      </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/zz_final_all.dict" timestamp="1548387332789">
-        <mark key="'" line="883" column="3" />
-        <mark key="[" line="19353" column="25" />
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test.txt" timestamp="1548834908630">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1548900767092">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="75" column="33" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
         <mark key="'" line="161" column="0" />
@@ -98,6 +82,11 @@
         <mark key="]" line="201" column="7" />
         <mark key="." line="201" column="7" />
         <mark key="^" line="201" column="7" />
+      </file>
+      <file name="$USER_HOME$/anaconda2/lib/python2.7/os.py" timestamp="1548818864779">
+        <mark key="[" line="415" column="17" />
+        <mark key="]" line="415" column="18" />
+        <mark key="." line="415" column="17" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/__init__.py" timestamp="1548379144510">
         <mark key="[" line="1" column="0" />
@@ -211,8 +200,8 @@
       <jump line="161" column="0" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHBob25lbWUubmV4dF9waG9uZW1lLm5leHRfcGhvbmVtZSBpcyBvdCBOb25lOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAjIHdpdGggb3BlbigiL2hvbWUvZW5hbW9yaWEvRGVza3RvcC94eHgiLCAidyIpIGFzIGY6CiAgICAjICAgICBmb3IgbGluZSBpbiBjaHVua190YWdzOgogICAgIyAgICAgICAgICMgcHJpbnQoIlx0Ii5qb2luKFt1bmljb2RlKHgpIGZvciB4IGluIGxpbmVdKSkKICAgICMgICAgICAgICBmLndyaXRlKCJcdCIuam9pbihbdW5pY29kZSh4KSBmb3IgeCBpbiBsaW5lXSkuZW5jb2RlKCJVVEYtOCIpICsgIlxuIikKICAgICMgcHJpbnQod29yZHMpCiAgICAjIHByaW50KCIgIi5qb2luKFt3b3JkLnJlcGxhY2UoIiAiLCAiXyIpIGZvciB3b3JkIGluIHdvcmRzXSkpCiAgICAjIHByaW50KHdvcmRfdGFncykKICAgICMgcHJpbnQoY2h1bmtfdGFncyk=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -223,242 +212,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHBob25lbWUubmV4dF9waG9uZW1lLm5leHRfcGhvbmVtZSBpcyBvdCBOb25lOgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAjIHdpdGggb3BlbigiL2hvbWUvZW5hbW9yaWEvRGVza3RvcC94eHgiLCAidyIpIGFzIGY6CiAgICAjICAgICBmb3IgbGluZSBpbiBjaHVua190YWdzOgogICAgIyAgICAgICAgICMgcHJpbnQoIlx0Ii5qb2luKFt1bmljb2RlKHgpIGZvciB4IGluIGxpbmVdKSkKICAgICMgICAgICAgICBmLndyaXRlKCJcdCIuam9pbihbdW5pY29kZSh4KSBmb3IgeCBpbiBsaW5lXSkuZW5jb2RlKCJVVEYtOCIpICsgIlxuIikKICAgICMgcHJpbnQod29yZHMpCiAgICAjIHByaW50KCIgIi5qb2luKFt3b3JkLnJlcGxhY2UoIiAiLCAiXyIpIGZvciB3b3JkIGluIHdvcmRzXSkpCiAgICAjIHByaW50KHdvcmRfdGFncykKICAgICMgcHJpbnQoY2h1bmtfdGFncyk=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">d29yZF9wb3MsIHdvcmRfdGFnID0gd29yZF90YWdzW3Bvc10KICAgICAgICAgICAgaWYgd29yZF9wb3MgIT0gd29yZDoKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcignRGlmZmVyZW5jZSB3b3JkIG9mIHdvcmQgc2VnbWVudGF0aW9uIGFuZCBwYXJ0IG9mIHNwZWVjaCB0YWdnaW5nIG1vZGVsIScpCgogICAgICAgICAgICB3b3JkX2NodW5rLCB3b3JkX3RhZ19jaHVuaywgY2h1bmtfdGFnID0gY2h1bmtfdGFnc1twb3NdCiAgICAgICAgICAgIGlmIHdvcmRfY2h1bmsgIT0gd29yZDoKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcignRGlmZmVyZW5jZSB3b3JkIG9mIHdvcmQgc2VnbWVudGF0aW9uIGFuZCBjaHVua2luZyBtb2RlbCEnKQoKICAgICAgICAgICAgY3VycmVudF9waHJhc2VfdGFnID0gY2h1bmtfdGFnCiAgICAgICAgICAgICMgRXh0cmFjdCByZWFsIHBocmFzZSB0YWcgKEItVlAgPT4+PiBWUCkKICAgICAgICAgICAgZV9jdXJyZW50X3BocmFzZV90YWdzID0gY3VycmVudF9waHJhc2VfdGFnLnNwbGl0KCItIikKCiAgICAgICAgICAgIGlmIGxlbihlX2N1cnJlbnRfcGhyYXNlX3RhZ3MpID4gMToKICAgICAgICAgICAgICAgIGN1cnJlbnRfcGhyYXNlX3RhZyA9IGVfY3VycmVudF9waHJhc2VfdGFnc1sxXQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY3VycmVudF9waHJhc2VfdGFnID0gZV9jdXJyZW50X3BocmFzZV90YWdzWzBdCiAgICAgICAgICAgICMgcHJpbnQoImN1cnJlbnRfcGhyYXNlX3RhZyAlcyAiICUgY3VycmVudF9waHJhc2VfdGFnKQogICAgICAgICAgICAjIHByaW50KCJwcmV2X3BocmFzZV90YWcgJXMgIiAlIHByZXZfcGhyYXNlX3RhZykKCiAgICAgICAgICAgIGlmIHByZXZfcGhyYXNlX3RhZyBpcyBub3QgTm9uZSBhbmQgY3VycmVudF9waHJhc2VfdGFnICE9IHByZXZfcGhyYXNlX3RhZzoKICAgICAgICAgICAgICAgIHBocmFzZV9vYmogPSBwaHJhc2UuUGhyYXNlKHdvcmRfb2JqcywgcHJldl9waHJhc2VfdGFnLCBwcmV2X3BocmFzZSwgTm9uZSkKCiAgICAgICAgICAgICAgICBpZiBwcmV2X3BocmFzZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgICAgICBwcmV2X3BocmFzZS5zZXRfbmV4dF9waHJhc2UocGhyYXNlX29iaikKCiAgICAgICAgICAgICAgICBwcmV2X3BocmFzZSA9IHBocmFzZV9vYmoKICAgICAgICAgICAgICAgIHBocmFzZV9vYmpzLmFwcGVuZChwaHJhc2Vfb2JqKQogICAgICAgICAgICAgICAgd29yZF9vYmpzID0gW10KCiAgICAgICAgICAgIHdvcmRfb2JqID0gV29yZChzeWxsYWJsZV9vYmpzLCB3b3JkX3RhZywgcHJldl93b3JkLCBOb25lKQogICAgICAgICAgICBpZiBwcmV2X3dvcmQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBwcmV2X3dvcmQuc2V0X25leHRfd29yZCh3b3JkX29iaikKCiAgICAgICAgICAgIHByZXZfd29yZCA9IHdvcmRfb2JqCiAgICAgICAgICAgIHdvcmRfb2Jqcy5hcHBlbmQod29yZF9vYmopCgogICAgICAgICAgICBpZiBwb3MgPT0gbGVuKHdvcmRzKSAtIDE6CiAgICAgICAgICAgICAgICBwaHJhc2Vfb2JqID0gcGhyYXNlLlBocmFzZSh3b3JkX29ianMsIGN1cnJlbnRfcGhyYXNlX3RhZywgcHJldl9waHJhc2UsIE5vbmUpCiAgICAgICAgICAgICAgICBpZiBwcmV2X3BocmFzZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgICAgICBwcmV2X3BocmFzZS5zZXRfbmV4dF9waHJhc2UocGhyYXNlX29iaikKICAgICAgICAgICAgICAgIHByZXZfcGhyYXNlID0gcGhyYXNlX29iagogICAgICAgICAgICAgICAgcGhyYXNlX29ianMuYXBwZW5kKHBocmFzZV9vYmopCiAgICAgICAgICAgICAgICB3b3JkX29ianMgPSBbXQoKICAgICAgICAgICAgcHJldl9waHJhc2VfdGFnID0gY3VycmVudF9waHJhc2VfdGFn</text>
+        <text encoding="base64">CiAgICAgICAgIyBpZiAiT09WIiBub3QgaW4gd29yZF90YWdzW3Bvc106CiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHN5bGxhYmxlcyA9</text>
       </register>
       <register name="r" type="4">
         <text>None</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIHBob25lbWUubmV4dF9waG9uZW1lLm5leHRfcGhvbmVtZSBpcyBvdCBOb25lOgo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">d29yZF9wb3MsIHdvcmRfdGFnID0gd29yZF90YWdzW3Bvc10KICAgICAgICAgICAgaWYgd29yZF9wb3MgIT0gd29yZDoKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcignRGlmZmVyZW5jZSB3b3JkIG9mIHdvcmQgc2VnbWVudGF0aW9uIGFuZCBwYXJ0IG9mIHNwZWVjaCB0YWdnaW5nIG1vZGVsIScpCgogICAgICAgICAgICB3b3JkX2NodW5rLCB3b3JkX3RhZ19jaHVuaywgY2h1bmtfdGFnID0gY2h1bmtfdGFnc1twb3NdCiAgICAgICAgICAgIGlmIHdvcmRfY2h1bmsgIT0gd29yZDoKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcignRGlmZmVyZW5jZSB3b3JkIG9mIHdvcmQgc2VnbWVudGF0aW9uIGFuZCBjaHVua2luZyBtb2RlbCEnKQoKICAgICAgICAgICAgY3VycmVudF9waHJhc2VfdGFnID0gY2h1bmtfdGFnCiAgICAgICAgICAgICMgRXh0cmFjdCByZWFsIHBocmFzZSB0YWcgKEItVlAgPT4+PiBWUCkKICAgICAgICAgICAgZV9jdXJyZW50X3BocmFzZV90YWdzID0gY3VycmVudF9waHJhc2VfdGFnLnNwbGl0KCItIikKCiAgICAgICAgICAgIGlmIGxlbihlX2N1cnJlbnRfcGhyYXNlX3RhZ3MpID4gMToKICAgICAgICAgICAgICAgIGN1cnJlbnRfcGhyYXNlX3RhZyA9IGVfY3VycmVudF9waHJhc2VfdGFnc1sxXQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY3VycmVudF9waHJhc2VfdGFnID0gZV9jdXJyZW50X3BocmFzZV90YWdzWzBdCiAgICAgICAgICAgICMgcHJpbnQoImN1cnJlbnRfcGhyYXNlX3RhZyAlcyAiICUgY3VycmVudF9waHJhc2VfdGFnKQogICAgICAgICAgICAjIHByaW50KCJwcmV2X3BocmFzZV90YWcgJXMgIiAlIHByZXZfcGhyYXNlX3RhZykKCiAgICAgICAgICAgIGlmIHByZXZfcGhyYXNlX3RhZyBpcyBub3QgTm9uZSBhbmQgY3VycmVudF9waHJhc2VfdGFnICE9IHByZXZfcGhyYXNlX3RhZzoKICAgICAgICAgICAgICAgIHBocmFzZV9vYmogPSBwaHJhc2UuUGhyYXNlKHdvcmRfb2JqcywgcHJldl9waHJhc2VfdGFnLCBwcmV2X3BocmFzZSwgTm9uZSkKCiAgICAgICAgICAgICAgICBpZiBwcmV2X3BocmFzZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgICAgICBwcmV2X3BocmFzZS5zZXRfbmV4dF9waHJhc2UocGhyYXNlX29iaikKCiAgICAgICAgICAgICAgICBwcmV2X3BocmFzZSA9IHBocmFzZV9vYmoKICAgICAgICAgICAgICAgIHBocmFzZV9vYmpzLmFwcGVuZChwaHJhc2Vfb2JqKQogICAgICAgICAgICAgICAgd29yZF9vYmpzID0gW10KCiAgICAgICAgICAgIHdvcmRfb2JqID0gV29yZChzeWxsYWJsZV9vYmpzLCB3b3JkX3RhZywgcHJldl93b3JkLCBOb25lKQogICAgICAgICAgICBpZiBwcmV2X3dvcmQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBwcmV2X3dvcmQuc2V0X25leHRfd29yZCh3b3JkX29iaikKCiAgICAgICAgICAgIHByZXZfd29yZCA9IHdvcmRfb2JqCiAgICAgICAgICAgIHdvcmRfb2Jqcy5hcHBlbmQod29yZF9vYmopCgogICAgICAgICAgICBpZiBwb3MgPT0gbGVuKHdvcmRzKSAtIDE6CiAgICAgICAgICAgICAgICBwaHJhc2Vfb2JqID0gcGhyYXNlLlBocmFzZSh3b3JkX29ianMsIGN1cnJlbnRfcGhyYXNlX3RhZywgcHJldl9waHJhc2UsIE5vbmUpCiAgICAgICAgICAgICAgICBpZiBwcmV2X3BocmFzZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgICAgICBwcmV2X3BocmFzZS5zZXRfbmV4dF9waHJhc2UocGhyYXNlX29iaikKICAgICAgICAgICAgICAgIHByZXZfcGhyYXNlID0gcGhyYXNlX29iagogICAgICAgICAgICAgICAgcGhyYXNlX29ianMuYXBwZW5kKHBocmFzZV9vYmopCiAgICAgICAgICAgICAgICB3b3JkX29ianMgPSBbXQoKICAgICAgICAgICAgcHJldl9waHJhc2VfdGFnID0gY3VycmVudF9waHJhc2VfdGFn</text>
+      </register>
+      <register name="5" type="4">
         <text>doiu23ando-05|huấn luyện viên stephen constantine
 baotrungquocnhandinh-14|và màn so tài giữa chúng ta với olympic palestine
 andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmlmICdMRF9MSUJSQVJZX1BBVEgnIG5vdCBpbiBvcy5lbnZpcm9uOgogICAgb3MuZW52aXJvblsnTERfTElCUkFSWV9QQVRIJ10gPSAnL3Vzci9sb2NhbC9saWIvJwoKICAgIHRyeToKICAgICAgICBwcmludChzeXMuYXJndikKICAgICAgICBvcy5leGVjdmUob3MucGF0aC5yZWFscGF0aChfX2ZpbGVfXyksIHN5cy5hcmd2LCBvcy5lbnZpcm9uKQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6CiAgICAgICAgcHJpbnQoJ0ZhaWxlZCByZS1leGVjOicsIGV4YykKICAgICAgICBzeXMuZXhpdCgxKQoKZWxzZToKICAgIG9zLmVudmlyb25bJ0xEX0xJQlJBUllfUEFUSCddICs9ICcvdXNyL2xvY2FsL2xpYi8nCgoKIyAjCiMgIyBpbXBvcnQgeW91cm1vZHVsZQojIHByaW50KCdTdWNjZXNzOicsIG9zLmVudmlyb25bJ0xEX0xJQlJBUllfUEFUSCddKQoKc3lzLnBhdGguYXBwZW5kKCIvdXNyL2xvY2FsL2xpYiIp</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIAogICAgICAgICAgICBvdXRfbGFiZWxfZmlsZSA9IG91dF9kaXIgKyAiLyIgKyBsYWJlbF9uYW1lX2ZpbGUgKyAiLmxhYiIKICAgICAgICAgICAgd3JpdGVfbGFiZWwobGFiZWxfbGluZXMsIG91dF9sYWJlbF9maWxlKQogICAgICAgICAgICAjIGxvZ2dpbmcuaW5mbygiZG9uZSEiKQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIHUiVk4gZ+G6t3AgQWZnaGFuaXN0YW4gbmfDoHkgbcaw4budaSBi4buRbiB0aMOhbmcgbcaw4budaSBt4buZdCB04bqhaSBzw6JuIE3hu7kgxJDDrG5oLiDDlG5nIMSRxrDhu6NjIGvDrCB24buNbmcgc+G6vSBsw6BtIHThu5F0IGjGoW4gbmfGsOG7nWkgdGnhu4FuIG5oaeG7h20gdG9zaGlZYSBNaXVyYSIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Y2xhc3MgeDoKICAgIGRlZiBsb3NzKHNlbGYsIHhzOmludCkgLT4gZmxvYXQ6CiAgICAgICAgcHJpbnQoeHMpCiAgICAgICAgcmV0dXJuIDAK</text>
       </register>
-      <register name="8" type="4">
-        <text>SP AP F0
-    # y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
-    os.system(&quot;mkdir -p wav&quot;)
-    y = pw.synthesize(f0, sp, ap, fs)
-
-    lbr.output.write_wav(&quot;wav/{}.wav&quot;.format(filename), y, sr=fs)
-    logging.info(&quot;Done synthesizing. Output is saved at wav/sp_ap_f0_{}.wav&quot;.format(filename))
-
-
-def synthesize2(stft, fs, filename=str(datetime.datetime.now()).replace(&quot; &quot;, &quot;_&quot;)):
-    # ISTFT
-    # y = pw.synthesize(aligned_src_feat[0]['f0'], aligned_src_feat[0]['sp'], aligned_src_feat[0]['ap'], aligned_src_feat[0]['fs'])
-    os.system(&quot;mkdir -p wav&quot;)
-
-    y = lbr.core.istft(stft_matrix=stft, hop_length=hop_length, window=window)
-    lbr.output.write_wav(&quot;wav/{}.wav&quot;.format(filename), y, sr=fs)
-    logging.info(&quot;Done synthesizing. Output is saved at wav/stft_{}.wav&quot;.format(filename))
-
-
-def _factorize(X, W, beta_loss=&quot;kullback-leibler&quot;, tol=1e-4):
-    &quot;&quot;&quot;
-        Calculate matrix `H`, which `W x H ~ X`
-        Note: In this function, `sklearn.decomposition's` non_negative_factorization is used. This function's implementation only
-                allow we to feed in a fixed H, not W. So we need to used a trick here to feed in a fixed W (we need to fix W, it's our exemplar dictionary).
-                Instead of calling `non_negative_factorization(X=X, H=H)` directly, we feed in `X.T as X, W.T as H. Notice that:
-                        X.T = H.T x W.T
-                    So we transpose H and W to swap their roles. Remember to swap the result back
-
-    :param X: original matrix, which we need to decompose
-    :param W: We have precomputed W.
-    :return: H: W ~ W x H
-    &quot;&quot;&quot;
-    # Note: This statement should be true, but the input of this function is (n_samples, n_features), so we don't need to transpose (X.T). See their shapes for better understand
-    # _W, _H, n_iter = non_negative_factorization(X=X.T, H=W.T, init=&quot;custom&quot;, update_H=False, n_components=W.T.shape[1], beta_loss=beta_loss, solver='mu')
-
-    beta_loss = &quot;frobenius&quot;
-
-    _W, _H, n_iter = non_negative_factorization(X=X, H=W, init=&quot;custom&quot;, update_H=False, n_components=W.shape[0], beta_loss=beta_loss, solver='mu', tol=tol,
-                                                max_iter=50, verbose=1)
-
-    return _W.T
-
-
-def factorize(tobe_converted, src_feat):
-    &quot;&quot;&quot;
-        Perform Non-negative Matrix Factorization. Audio-file level.
-        1st attempt: perform nmf on each feature type (sp, ap, f0)
-
-        Note: NMF is best used with the fit_transform method, which returns the matrix W.
-        The matrix H is stored into the fitted model in the components_ attribute;
-
-            Note of note: X^T=H^T W^T. sklearn NMF decompose X = WH, but can fix H only (use precomputed H)
-    :return:
-    &quot;&quot;&quot;
-
-    def init_A_exemplar(tobe_converted, src_feat):
-        conv_sp, conv_ap, conv_f0 = tobe_converted['sp'], tobe_converted['ap'], tobe_converted['f0'][:, np.newaxis]
-
-        A_sp = []  # np.asarray([src_feat[i]['sp'] for i in range(len(src_feat))])
-        A_ap = []  # np.asarray([src_feat[i]['ap'] for i in range(len(src_feat))])
-        A_f0 = []  # np.asarray([src_feat[i]['f0'] for i in range(len(src_feat))])
-
-        for i in range(len(src_feat)):
-            A_sp.extend(src_feat[i]['sp'])
-            A_ap.extend(src_feat[i]['ap'])
-            A_f0.extend(src_feat[i]['f0'])
-
-        A_sp = np.asarray(A_sp)
-        A_ap = np.asarray(A_ap)
-        A_f0 = np.asarray(A_f0)[:, np.newaxis]
-
-        return A_sp, A_ap, A_f0, conv_sp, conv_ap, conv_f0
-
-    logging.info(&quot;Start calculating the activation matrix H ...&quot;)
-
-    if not use_stft:
-        if os.path.isfile(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_sp_ap_f0&quot;, len(src_feat))):
-            logging.info(&quot;Found a precomputed H at {}_{}.pkl. Loading ...&quot;.format(&quot;H_test_sp_ap_f0&quot;, len(src_feat)))
-            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_sp_ap_f0&quot;, len(src_feat)), &quot;rb&quot;) as f:
-                # return pickle.load(f)
-                H = pickle.load(f)
-
-            if os.path.isfile(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat))):
-                logging.info(&quot;Found a precomputed R at {}_{}.pkl. Loading ...&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat)))
-                with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat)), &quot;rb&quot;) as f:
-                    R = pickle.load(f)
-            else:
-                # R is not exist. Calculate R from H and src_feat:
-                #   log r_n = log y_n - log y_hat_n\
-                logging.info(&quot;Calculating residual compensation R ...&quot;)
-
-                A_sp, A_ap, A_f0, conv_sp, conv_ap, conv_f0 = init_A_exemplar(tobe_converted, src_feat)
-
-                src_hat_sp_residual = np.log(np.matmul(A_sp, H['H_sp']) - conv_sp)
-                src_hat_ap_residual = np.log(np.matmul(A_ap, H['H_ap']) - conv_ap)
-                src_hat_f0_residual = np.log(np.matmul(A_f0, H['H_f0']) - conv_f0)
-
-                R = {'r_sp': src_hat_sp_residual, 'r_ap': src_hat_ap_residual, 'f0': src_hat_f0_residual}
-                with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat)), &quot;wb&quot;) as f:
-                    pickle.dump(R, f)
-
-            return H, R
-        else:
-            logging.info(&quot;Calculating H with sp ap f0 feature ...&quot;)
-            # conv_sp, conv_ap, conv_f0 = tobe_converted['sp'], tobe_converted['ap'], tobe_converted['f0'][:, np.newaxis]
-
-            A_sp, A_ap, A_f0, conv_sp, conv_ap, conv_f0 = init_A_exemplar(tobe_converted, src_feat)
-
-            print(&quot;Calculating H_sp ...&quot;)
-            H_sp = _factorize(X=conv_sp, W=A_sp)
-            print(&quot;Calculating H_ap ...&quot;)
-            H_ap = _factorize(X=conv_ap, W=A_ap)
-            print(&quot;Calculating H_f0 ...&quot;)
-            H_f0 = _factorize(X=conv_f0, W=A_f0)
-
-            H = {'H_sp': H_sp, 'H_ap': H_ap, 'H_f0': H_f0}
-
-            src_hat_sp_residual = np.log(np.matmul(H['H_sp'].T, A_sp) - conv_sp)
-            src_hat_ap_residual = np.log(np.matmul(H['H_ap'].T, A_ap) - conv_ap)
-            src_hat_f0_residual = np.log(np.matmul(H['H_f0'].T, A_f0) - conv_f0)
-
-            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_sp_ap_f0&quot;, len(src_feat)), &quot;wb&quot;) as f:
-                pickle.dump(H, f)
-
-            R = {'r_sp': src_hat_sp_residual, 'r_ap': src_hat_ap_residual, 'f0': src_hat_f0_residual}
-            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;R_test_sp_ap_f0&quot;, len(src_feat)), &quot;wb&quot;) as f:
-                pickle.dump(R, f)
-
-            return H, R
-    else:
-        if os.path.isfile(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_stft&quot;, len(src_feat))):
-            logging.info(&quot;Found a precomputed H at {}_{}.pkl. Loading ...&quot;.format(&quot;H_test_stft&quot;, len(src_feat)))
-            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_stft&quot;, len(src_feat)), &quot;rb&quot;) as f:
-                return pickle.load(f)
-        else:
-            logging.info(&quot;Calculating H with stft feature ...&quot;)
-
-            # EDIT 2019 Jan 22: within this block of code, `['stft']` will be changed to `['real']`: convert only the real part,
-            # since sklearn NMF doesn't support NMF for complex-value matrix. For testing the feasibility.
-            # conv_stft = tobe_converted['stft']
-            conv_stft = tobe_converted['real']
-
-            A_stft = []
-
-            for i in range(len(src_feat)):
-                A_stft.extend(src_feat[i]['stft'])
-
-            A_stft = np.asarray(A_stft)
-
-            print(&quot;Calculating H_stft ...&quot;)
-            H_stft = _factorize(X=conv_stft, W=A_stft)
-
-            H = {'H_stft': H_stft}
-
-            with open(&quot;data/vc/exem_dict/{}_{}.pkl&quot;.format(&quot;H_test_stft&quot;, len(src_feat)), &quot;wb&quot;) as f:
-                pickle.dump(H, f)
-
-            return H
-
-
-def convert(H, tar_feat, residual):
-    # TODO MAI VIET DOC
-    &quot;&quot;&quot;
-        From H and aligned_target_features (target exemplars), we calculate converted feature
-    :param H: Activation matrix
-    :param tar_feat: aligned target features
-    :param residual:
-    :return: converted feature, type `dict`
-    &quot;&quot;&quot;
-    logging.info(&quot;Using H for conversion ...&quot;)
-
-    H_sp, H_ap, H_f0 = H['H_sp'], H['H_ap'], H['H_f0']
-
-    B_sp = []  # np.asarray([src_feat[i]['sp'] for i in range(len(src_feat))])
-    B_ap = []  # np.asarray([src_feat[i]['ap'] for i in range(len(src_feat))])
-    B_f0 = []  # np.asarray([src_feat[i]['f0'] for i in range(len(src_feat))])
-
-    for i in range(len(tar_feat)):
-        B_sp.extend(tar_feat[i]['sp'])
-        B_ap.extend(tar_feat[i]['ap'])
-        B_f0.extend(tar_feat[i]['f0'])
-
-    B_sp = np.asarray(B_sp)
-    B_ap = np.asarray(B_ap)
-    B_f0 = np.asarray(B_f0)[:, np.newaxis]
-
-    # converted_sp = np.matmul(H_sp.T, B_sp)
-    # converted_ap = np.matmul(H_ap.T, B_ap)
-    # converted_f0 = np.matmul(H_f0.T, B_f0)
-
-    converted_sp = np.exp(np.log(np.matmul(H_sp.T, B_sp)) +</text>
-      </register>
-      <register name="9" type="4">
-        <text>nmf = NMF(data, num_bases=W.shape[1])
-nmf._init_h()
-
-nmf.W = W
-nmf.factorize(niter=20000, compute_w=False, show_progress=True)
-print(nmf.W)
-print(nmf.H)
-print(np.matmul(nmf.W, nmf.H))
-print(np.matmul(nmf.W, nmf.H) - data)
-# pdb.set_trace()</text>
-      </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorRightWithSelection</text>
       </register>
     </registers>
     <search>
@@ -494,11 +284,11 @@ print(np.matmul(nmf.W, nmf.H) - data)
         <entry>action EditorPageUp</entry>
         <entry>action EditorCodeBlockEnd</entry>
         <entry>action EditorPageDown</entry>
-        <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
