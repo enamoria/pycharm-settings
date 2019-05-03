@@ -24,6 +24,7 @@
       <mapping pattern="all_words_no_duplicated" type="PLAIN_TEXT" />
       <mapping pattern="README.md" type="PLAIN_TEXT" />
       <mapping pattern="ipa_train" type="PLAIN_TEXT" />
+      <mapping pattern="stopwords" type="PLAIN_TEXT" />
       <mapping pattern="cap_huyen" type="PLAIN_TEXT" />
       <mapping pattern="VietProperNoun" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
