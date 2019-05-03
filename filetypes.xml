@@ -12,6 +12,7 @@
       <mapping pattern="oov_muon" type="PLAIN_TEXT" />
       <mapping pattern="VietCompoundWord_from_wikinatory" type="PLAIN_TEXT" />
       <mapping pattern="demo_corpus" type="PLAIN_TEXT" />
+      <mapping pattern="wiki_all" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="word_with_pronounciation" type="PLAIN_TEXT" />
       <mapping pattern="word_with_pronounciation_oxford" type="PLAIN_TEXT" />
