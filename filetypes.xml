@@ -31,6 +31,7 @@
       <mapping pattern="README.md" type="PLAIN_TEXT" />
       <mapping pattern="ipa_train" type="PLAIN_TEXT" />
       <mapping ext="bap" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

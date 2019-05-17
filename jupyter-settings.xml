@@ -1,0 +1,17 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="/data/data/giaitri/Cyrillic/.idea/Cyrillic.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="c4cbf7ce497d1262dea66145691de86428f78e7d9697078c" />
+              <option name="urlString" value="http://localhost:8888" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
