@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="README" type="Markdown" />
+      <mapping pattern="demo_text" type="PLAIN_TEXT" />
       <mapping pattern="all_words_no_duplicated_simplified" type="PLAIN_TEXT" />
       <mapping pattern="stopwords" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
