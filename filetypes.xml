@@ -25,6 +25,7 @@
       <mapping pattern="pronounce_mapping" type="PLAIN_TEXT" />
       <mapping pattern="all_words_no_duplicated" type="PLAIN_TEXT" />
       <mapping pattern="wiki_all" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="demo_corpus" type="PLAIN_TEXT" />
       <mapping pattern="new_vidic" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
