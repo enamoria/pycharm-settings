@@ -20,6 +20,7 @@
       <mapping pattern="phone_counter" type="PLAIN_TEXT" />
       <mapping pattern="cap_xa" type="PLAIN_TEXT" />
       <mapping pattern="ipa_toy" type="PLAIN_TEXT" />
+      <mapping pattern="reference" type="PLAIN_TEXT" />
       <mapping pattern="VietCompoundWord_from_wikinatory" type="PLAIN_TEXT" />
       <mapping pattern="oov_muon" type="PLAIN_TEXT" />
       <mapping pattern="pronounce_mapping" type="PLAIN_TEXT" />
