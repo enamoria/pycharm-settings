@@ -39,6 +39,7 @@
       <mapping ext="bap" type="PLAIN_TEXT" />
       <mapping ext="lab" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="dict_with_oov" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
