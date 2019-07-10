@@ -9,6 +9,7 @@
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="oov-test-mini-leyen" type="PLAIN_TEXT" />
       <mapping pattern="text_11k" type="PLAIN_TEXT" />
+      <mapping pattern="word2syllables" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="word_with_pronounciation_oxford" type="PLAIN_TEXT" />
       <mapping pattern="word_list" type="PLAIN_TEXT" />
@@ -16,17 +17,18 @@
       <mapping pattern="dantri-categories" type="PLAIN_TEXT" />
       <mapping pattern="baochi_all" type="PLAIN_TEXT" />
       <mapping pattern="phone_map" type="PLAIN_TEXT" />
+      <mapping pattern="all_words_no_duplicated" type="PLAIN_TEXT" />
       <mapping pattern="cap_huyen" type="PLAIN_TEXT" />
       <mapping pattern="reference_buffer" type="PLAIN_TEXT" />
       <mapping pattern="phone_counter" type="PLAIN_TEXT" />
       <mapping pattern="cap_xa" type="PLAIN_TEXT" />
+      <mapping pattern="trangtay" type="PLAIN_TEXT" />
       <mapping pattern="ipa_toy" type="PLAIN_TEXT" />
       <mapping pattern="reference_pyGenLab" type="PLAIN_TEXT" />
       <mapping pattern="reference" type="PLAIN_TEXT" />
       <mapping pattern="VietCompoundWord_from_wikinatory" type="PLAIN_TEXT" />
       <mapping pattern="oov_muon" type="PLAIN_TEXT" />
       <mapping pattern="pronounce_mapping" type="PLAIN_TEXT" />
-      <mapping pattern="all_words_no_duplicated" type="PLAIN_TEXT" />
       <mapping pattern="wiki_all" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="demo_corpus" type="PLAIN_TEXT" />
