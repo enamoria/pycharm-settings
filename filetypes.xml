@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="demo_text" type="PLAIN_TEXT" />
+      <mapping pattern="trangtay_test" type="PLAIN_TEXT" />
       <mapping pattern="all_words_no_duplicated_simplified" type="PLAIN_TEXT" />
       <mapping pattern="stopwords" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
