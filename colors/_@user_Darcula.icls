@@ -3,13 +3,9 @@
     <property name="created">2018-12-18T14:07:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-18T14:09:19</property>
+    <property name="modified">2019-07-15T11:48:25</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <colors>
-    <option name="FILESTATUS_COPIED" value="629755" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
-  </colors>
   <attributes>
     <option name="HTML_CODE">
       <value />
@@ -66,6 +62,11 @@
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
         <option name="FOREGROUND" value="87cefa" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
