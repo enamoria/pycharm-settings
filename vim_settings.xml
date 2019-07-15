@@ -42,8 +42,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563175204295">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563177639486">
+        <mark key="[" line="66" column="15" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_parallel.py" timestamp="1548824729987">
         <mark key="'" line="67" column="85" />
@@ -72,10 +72,10 @@
       <file name="/Dummy.txt" timestamp="1548835150535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu" timestamp="1563175420800">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="75" column="10" />
-        <mark key="." line="75" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu" timestamp="1563177494303">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="75" column="10" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548751319856">
@@ -94,8 +94,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/linhtinh.py" timestamp="1563176464629">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/linhtinh.py" timestamp="1563178061402">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
         <mark key="'" line="161" column="0" />
@@ -120,8 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="254" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="259" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="225" column="73" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="224" column="8" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -220,13 +221,15 @@
       <jump line="5013" column="4" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_5000_common_words" />
       <jump line="2764" column="0" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_common_words" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_common_words" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/oov_english_w2s_1" />
+      <jump line="1620" column="14" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/oov_english_w2s_1" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
@@ -270,7 +273,7 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <text encoding="base64">ICAgICAgIHUiVk4gZ+G6t3AgQWZnaGFuaXN0YW4gbmfDoHkgbcaw4budaSBi4buRbiB0aMOhbmcgbcaw4budaSBt4buZdCB04bqhaSBzw6JuIE3hu7kgxJDDrG5oLiDDlG5nIMSRxrDhu6NjIGvDrCB24buNbmcgc+G6vSBsw6BtIHThu5F0IGjGoW4gbmfGsOG7nWkgdGnhu4FuIG5oaeG7h20gdG9zaGlZYSBNaXVyYSIK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
@@ -309,8 +312,8 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorDownWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
