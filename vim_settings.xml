@@ -61,6 +61,12 @@
         <mark key="[" line="86" column="10" />
         <mark key="]" line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_abbrevs2s_Hieu" timestamp="1563188381425">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test.txt" timestamp="1548834908630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -113,8 +119,12 @@
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_borrow_word" timestamp="1563186906700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563187602706">
-        <mark key="'" line="18046" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563188608768">
+        <mark key="'" line="18031" column="36" />
+        <mark key="[" line="633" column="4" />
+        <mark key="]" line="633" column="3" />
+        <mark key="." line="633" column="3" />
+        <mark key="^" line="633" column="3" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
         <mark key="'" line="161" column="0" />
@@ -242,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>khô</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>khô</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
