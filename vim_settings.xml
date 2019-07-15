@@ -42,17 +42,14 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563177639486">
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" timestamp="1563180281840">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563180277484">
         <mark key="[" line="66" column="15" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_parallel.py" timestamp="1548824729987">
-        <mark key="'" line="67" column="85" />
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="30" column="14" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563175251425">
-        <mark key="[" line="20" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563180565914">
+        <mark key="[" line="22" column="12" />
         <mark key="]" line="20" column="3" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test.txt" timestamp="1548834908630">
@@ -72,7 +69,8 @@
       <file name="/Dummy.txt" timestamp="1548835150535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu" timestamp="1563177494303">
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu" timestamp="1563180310833">
+        <mark key="'" line="25983" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -94,11 +92,17 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/linhtinh.py" timestamp="1563178923519">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/linhtinh.py" timestamp="1563179939656">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563180633428">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="16" column="8" />
+        <mark key="." line="16" column="8" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
         <mark key="'" line="161" column="0" />
@@ -123,9 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="225" column="73" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="224" column="8" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="217" column="49" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="215" column="33" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="191" column="71" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -223,13 +224,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_common_words" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/oov_english_w2s_1" />
       <jump line="1620" column="14" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/oov_english_w2s_1" />
+      <jump line="2" column="14" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu" />
+      <jump line="25983" column="12" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
