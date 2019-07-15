@@ -86,12 +86,15 @@
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
         <mark key="[" line="9799" column="81" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_common_words" timestamp="1563176442362">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/linhtinh.py" timestamp="1563175850552">
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/linhtinh.py" timestamp="1563176464629">
         <mark key="[" line="5" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
@@ -117,8 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="226" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="210" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="254" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="259" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -217,6 +218,8 @@
       <jump line="291" column="0" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
       <jump line="161" column="0" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" />
       <jump line="5013" column="4" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_5000_common_words" />
+      <jump line="2764" column="0" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_common_words" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_common_words" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
