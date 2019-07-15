@@ -8,16 +8,8 @@
         <mark key="]" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548835150535">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu" timestamp="1563173923418">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="/Python Console" timestamp="1548901354805">
         <mark key="[" line="0" column="0" />
@@ -50,13 +42,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548751319856">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="34" column="25" />
-        <mark key="." line="34" column="25" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
-        <mark key="[" line="9799" column="81" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563175204295">
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_parallel.py" timestamp="1548824729987">
         <mark key="'" line="67" column="85" />
@@ -64,10 +51,9 @@
         <mark key="]" line="30" column="14" />
         <mark key="." line="30" column="14" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563175251425">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="3" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test.txt" timestamp="1548834908630">
         <mark key="[" line="0" column="0" />
@@ -77,6 +63,36 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1548900767092">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="75" column="33" />
+      </file>
+      <file name="$USER_HOME$/anaconda2/lib/python2.7/os.py" timestamp="1548818864779">
+        <mark key="[" line="415" column="17" />
+        <mark key="]" line="415" column="18" />
+        <mark key="." line="415" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548835150535">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu" timestamp="1563175420800">
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="75" column="10" />
+        <mark key="." line="75" column="10" />
+        <mark key="^" line="75" column="10" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548751319856">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="25" />
+        <mark key="." line="34" column="25" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
+        <mark key="[" line="9799" column="81" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/linhtinh.py" timestamp="1563175850552">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
         <mark key="'" line="161" column="0" />
@@ -88,10 +104,8 @@
         <mark key="." line="201" column="7" />
         <mark key="^" line="201" column="7" />
       </file>
-      <file name="$USER_HOME$/anaconda2/lib/python2.7/os.py" timestamp="1548818864779">
-        <mark key="[" line="415" column="17" />
-        <mark key="]" line="415" column="18" />
-        <mark key="." line="415" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_5000_common_words" timestamp="1563175832140">
+        <mark key="'" line="5013" column="4" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/__init__.py" timestamp="1548379144510">
         <mark key="[" line="1" column="0" />
@@ -103,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="229" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="226" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="210" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -203,19 +216,20 @@
       <jump line="14" column="29" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
       <jump line="291" column="0" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov_backup_for_parallel_impl.py" />
       <jump line="161" column="0" filename="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" />
+      <jump line="5013" column="4" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_5000_common_words" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWF4YQlhIGEgw61jaCBhCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb252X3N0ZnQgPSB0b2JlX2NvbnZlcnRlZFsnc3RmdCddCg==</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="2">
         <text encoding="base64">YWF4YQlhIGEgw61jaCBhCg==</text>
@@ -349,6 +363,9 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
