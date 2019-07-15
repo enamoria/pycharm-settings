@@ -11,6 +11,9 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_countries" timestamp="1563184146576">
+        <mark key="[" line="2" column="28" />
+      </file>
       <file name="/Python Console" timestamp="1548901354805">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,11 +45,17 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" timestamp="1563182911517">
-        <mark key="[" line="118" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" timestamp="1563184416133">
+        <mark key="[" line="152" column="8" />
+        <mark key="]" line="152" column="15" />
+        <mark key="^" line="152" column="15" />
+        <mark key="." line="152" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563180277484">
         <mark key="[" line="66" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_proper_noun" timestamp="1563184368161">
+        <mark key="[" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563180934733">
         <mark key="[" line="39" column="14" />
@@ -98,8 +107,8 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563183093617">
-        <mark key="'" line="18170" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563184482693">
+        <mark key="'" line="18134" column="36" />
         <mark key="[" line="159" column="14" />
         <mark key="]" line="172" column="1" />
         <mark key="^" line="172" column="5" />
