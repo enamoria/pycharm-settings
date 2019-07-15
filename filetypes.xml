@@ -4,7 +4,7 @@
     <extensionMap>
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="demo_text" type="PLAIN_TEXT" />
-      <mapping pattern="trangtay_test" type="PLAIN_TEXT" />
+      <mapping pattern="oov_wrong_Hieu" type="PLAIN_TEXT" />
       <mapping pattern="all_words_no_duplicated_simplified" type="PLAIN_TEXT" />
       <mapping pattern="stopwords" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
@@ -14,11 +14,13 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="word_with_pronounciation_oxford" type="PLAIN_TEXT" />
       <mapping pattern="word_list" type="PLAIN_TEXT" />
+      <mapping pattern="oov_abbrevs2p" type="PLAIN_TEXT" />
       <mapping pattern="word_with_pronounciation" type="PLAIN_TEXT" />
       <mapping pattern="dantri-categories" type="PLAIN_TEXT" />
       <mapping pattern="baochi_all" type="PLAIN_TEXT" />
       <mapping pattern="phone_map" type="PLAIN_TEXT" />
       <mapping pattern="all_words_no_duplicated" type="PLAIN_TEXT" />
+      <mapping pattern="new_vidic" type="PLAIN_TEXT" />
       <mapping pattern="cap_huyen" type="PLAIN_TEXT" />
       <mapping pattern="reference_buffer" type="PLAIN_TEXT" />
       <mapping pattern="phone_counter" type="PLAIN_TEXT" />
@@ -30,10 +32,11 @@
       <mapping pattern="VietCompoundWord_from_wikinatory" type="PLAIN_TEXT" />
       <mapping pattern="oov_muon" type="PLAIN_TEXT" />
       <mapping pattern="pronounce_mapping" type="PLAIN_TEXT" />
+      <mapping pattern="oov_w2p_Hieu" type="PLAIN_TEXT" />
       <mapping pattern="wiki_all" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="demo_corpus" type="PLAIN_TEXT" />
-      <mapping pattern="new_vidic" type="PLAIN_TEXT" />
+      <mapping pattern="trangtay_test" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="VietProperNoun" type="PLAIN_TEXT" />
       <mapping pattern="README.md" type="PLAIN_TEXT" />
