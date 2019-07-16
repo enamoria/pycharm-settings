@@ -14,6 +14,9 @@
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_countries" timestamp="1563187043325">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_countries_cities" timestamp="1563244021558">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1548901354805">
         <mark key="[" line="0" column="0" />
       </file>
@@ -45,8 +48,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" timestamp="1563187567830">
-        <mark key="[" line="1463" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" timestamp="1563244978452">
+        <mark key="[" line="56" column="16" />
         <mark key="]" line="1463" column="5" />
         <mark key="^" line="1463" column="5" />
         <mark key="." line="1463" column="5" />
@@ -54,11 +57,11 @@
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563180277484">
         <mark key="[" line="66" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_proper_noun" timestamp="1563185751180">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_proper_noun" timestamp="1563244108955">
+        <mark key="[" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563186044464">
-        <mark key="[" line="86" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563243839552">
+        <mark key="[" line="113" column="0" />
         <mark key="]" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_abbrevs2s_Hieu" timestamp="1563188381425">
@@ -96,7 +99,7 @@
         <mark key="]" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_wrong_Hieu" timestamp="1563187310189">
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_wrong_Hieu" timestamp="1563244980237">
         <mark key="[" line="11" column="16" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
@@ -119,12 +122,8 @@
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_borrow_word" timestamp="1563186906700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563188608768">
-        <mark key="'" line="18031" column="36" />
-        <mark key="[" line="633" column="4" />
-        <mark key="]" line="633" column="3" />
-        <mark key="." line="633" column="3" />
-        <mark key="^" line="633" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563244938808">
+        <mark key="'" line="18001" column="36" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
         <mark key="'" line="161" column="0" />
@@ -252,10 +251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>khô</text>
+        <text>cót</text>
       </register>
       <register name="-" type="4">
-        <text>khô</text>
+        <text>cót</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
