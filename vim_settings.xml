@@ -50,9 +50,9 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" timestamp="1563244978452">
         <mark key="[" line="56" column="16" />
-        <mark key="]" line="1463" column="5" />
-        <mark key="^" line="1463" column="5" />
-        <mark key="." line="1463" column="5" />
+        <mark key="]" line="1482" column="5" />
+        <mark key="^" line="1482" column="5" />
+        <mark key="." line="1482" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563180277484">
         <mark key="[" line="66" column="15" />
@@ -99,8 +99,8 @@
         <mark key="]" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_wrong_Hieu" timestamp="1563244980237">
-        <mark key="[" line="11" column="16" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_wrong_Hieu" timestamp="1563249478955">
+        <mark key="[" line="17" column="9" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
         <mark key="[" line="9799" column="81" />
@@ -122,8 +122,12 @@
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_borrow_word" timestamp="1563186906700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563244938808">
-        <mark key="'" line="18001" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" timestamp="1563251517811">
+        <mark key="'" line="17909" column="36" />
+        <mark key="[" line="1102" column="6" />
+        <mark key="]" line="1102" column="6" />
+        <mark key="^" line="1013" column="0" />
+        <mark key="." line="1102" column="6" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/api/not_underthesea_api.py" timestamp="1548835675325">
         <mark key="'" line="161" column="0" />
@@ -251,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cót</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>cót</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
