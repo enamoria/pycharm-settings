@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2.1_oov.py" timestamp="1548900717918">
-        <mark key="[" line="477" column="0" />
-        <mark key="]" line="477" column="0" />
-        <mark key="." line="477" column="0" />
-      </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
@@ -19,11 +14,6 @@
       </file>
       <file name="/Python Console" timestamp="1563263339876">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1548842084624">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/genLab_v2_oov.py" timestamp="1548847391670">
         <mark key="'" line="527" column="29" />
@@ -38,16 +28,6 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/lab.py" timestamp="1548847177806">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_qrmf.py" timestamp="1548130589149">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" timestamp="1563528022335">
         <mark key="[" line="1012" column="13" />
         <mark key="]" line="1011" column="16" />
@@ -60,6 +40,9 @@
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_proper_noun" timestamp="1563528016267">
         <mark key="[" line="83" column="0" />
       </file>
+      <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/dictionary.py" timestamp="1563534526000">
+        <mark key="[" line="33" column="86" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563243839552">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="20" column="3" />
@@ -70,25 +53,11 @@
         <mark key="^" line="119" column="34" />
         <mark key="." line="119" column="34" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test.txt" timestamp="1548834908630">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict_parallel.py" timestamp="1548900767092">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="75" column="33" />
-      </file>
       <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/genLab_v2.2_oov.py" timestamp="1563355610851">
         <mark key="[" line="343" column="16" />
         <mark key="]" line="343" column="40" />
         <mark key="^" line="343" column="40" />
         <mark key="." line="343" column="40" />
-      </file>
-      <file name="$USER_HOME$/anaconda2/lib/python2.7/os.py" timestamp="1548818864779">
-        <mark key="[" line="415" column="17" />
-        <mark key="]" line="415" column="18" />
-        <mark key="." line="415" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1563355441942">
         <mark key="[" line="0" column="0" />
@@ -106,11 +75,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="75" column="10" />
       </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548751319856">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="34" column="25" />
-        <mark key="." line="34" column="25" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_wrong_Hieu" timestamp="1563249478955">
         <mark key="[" line="17" column="9" />
       </file>
@@ -119,11 +83,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_common_words" timestamp="1563176442362">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/linhtinh.py" timestamp="1563179939656">
         <mark key="[" line="20" column="4" />
@@ -153,11 +112,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/reference_resources/english_5000_common_words" timestamp="1563175832140">
         <mark key="'" line="5013" column="4" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/__init__.py" timestamp="1548379144510">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/xxx/baotrungquocnhandinh-14.lab" timestamp="1548751045849">
         <mark key="[" line="7" column="7" />
@@ -314,7 +268,7 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <text encoding="base64">ICAgICAgIHUiVk4gZ+G6t3AgQWZnaGFuaXN0YW4gbmfDoHkgbcaw4budaSBi4buRbiB0aMOhbmcgbcaw4budaSBt4buZdCB04bqhaSBzw6JuIE3hu7kgxJDDrG5oLiDDlG5nIMSRxrDhu6NjIGvDrCB24buNbmcgc+G6vSBsw6BtIHThu5F0IGjGoW4gbmfGsOG7nWkgdGnhu4FuIG5oaeG7h20gdG9zaGlZYSBNaXVyYSIK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -351,10 +305,10 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <entry>action EditorCodeBlockEnd</entry>
         <entry>action EditorPageDown</entry>
         <entry>action EditorLineStart</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
