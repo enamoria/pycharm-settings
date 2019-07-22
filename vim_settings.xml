@@ -8,6 +8,12 @@
         <mark key="]" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/syllable2phonemes_dict/vn.dict" timestamp="1563767591354">
+        <mark key="[" line="5185" column="5" />
+        <mark key="]" line="5185" column="4" />
+        <mark key="^" line="5185" column="4" />
+        <mark key="." line="5185" column="4" />
+      </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
@@ -66,8 +72,11 @@
         <mark key="^" line="33" column="115" />
         <mark key="." line="33" column="115" />
       </file>
-      <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/word2syllables2phonemes.py" timestamp="1563761898956">
-        <mark key="'" line="49" column="3" />
+      <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/word2syllables2phonemes.py" timestamp="1563767686532">
+        <mark key="'" line="53" column="3" />
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563243839552">
         <mark key="[" line="113" column="0" />
@@ -122,6 +131,12 @@
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
         <mark key="[" line="9799" column="81" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/list_initial_and_rhythm/rhythm" timestamp="1563767224799">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+        <mark key="." line="15" column="5" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
         <mark key="[" line="45" column="0" />
@@ -270,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gin</text>
+        <text>&quot;/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/new_dict/trangtay_oov_only.dict&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>gin</text>
+        <text>&quot;/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/new_dict/trangtay_oov_only.dict&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>sys</text>
@@ -281,8 +296,8 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YWF4YQlhIGEgw61jaCBhCg==</text>
+      <register name="1" type="4">
+        <text />
       </register>
       <register name="q" type="4">
         <text />
@@ -317,7 +332,7 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <text encoding="base64">ICAgICAgIHUiVk4gZ+G6t3AgQWZnaGFuaXN0YW4gbmfDoHkgbcaw4budaSBi4buRbiB0aMOhbmcgbcaw4budaSBt4buZdCB04bqhaSBzw6JuIE3hu7kgxJDDrG5oLiDDlG5nIMSRxrDhu6NjIGvDrCB24buNbmcgc+G6vSBsw6BtIHThu5F0IGjGoW4gbmfGsOG7nWkgdGnhu4FuIG5oaeG7h20gdG9zaGlZYSBNaXVyYSIK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
@@ -356,9 +371,9 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <entry>action EditorPageDown</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
