@@ -1,0 +1,10 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="baseComparator" value="LOCALE_COLLATOR" />
+        <option name="collatorLanguageTag" value="vi_VN" />
+      </SortSettings>
+    </option>
+  </component>
+</application>
