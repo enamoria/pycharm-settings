@@ -332,7 +332,7 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <text encoding="base64">ICAgICAgIHUiVk4gZ+G6t3AgQWZnaGFuaXN0YW4gbmfDoHkgbcaw4budaSBi4buRbiB0aMOhbmcgbcaw4budaSBt4buZdCB04bqhaSBzw6JuIE3hu7kgxJDDrG5oLiDDlG5nIMSRxrDhu6NjIGvDrCB24buNbmcgc+G6vSBsw6BtIHThu5F0IGjGoW4gbmfGsOG7nWkgdGnhu4FuIG5oaeG7h20gdG9zaGlZYSBNaXVyYSIK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -371,9 +371,9 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <entry>action EditorPageDown</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
