@@ -63,6 +63,9 @@
       <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/dictionary.py" timestamp="1563760591634">
         <mark key="[" line="33" column="73" />
       </file>
+      <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/word2syllables2phonemes.py" timestamp="1563761898956">
+        <mark key="'" line="49" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563243839552">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="20" column="3" />
@@ -156,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="33" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="169" column="26" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="164" column="15" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="163" column="8" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -256,6 +258,7 @@
       <jump line="18181" column="36" filename="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_name_w2s_Hieu_1" />
       <jump line="406" column="39" filename="/data/workspace/tts/pyGenLab/pyGenLab/genlab/genLab_v2.2_oov.py" />
       <jump line="0" column="0" filename="/data/workspace/tts/pyGenLab/pyGenLab/genlab/genLab_v2.2_oov.py" />
+      <jump line="44" column="3" filename="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/word2syllables2phonemes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -265,7 +268,7 @@
         <text>gin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</text>
+        <text>sys</text>
       </register>
       <register name="0" type="4">
         <text />
@@ -306,14 +309,14 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <text encoding="base64">ICAgICAgIHUiVk4gZ+G6t3AgQWZnaGFuaXN0YW4gbmfDoHkgbcaw4budaSBi4buRbiB0aMOhbmcgbcaw4budaSBt4buZdCB04bqhaSBzw6JuIE3hu7kgxJDDrG5oLiDDlG5nIMSRxrDhu6NjIGvDrCB24buNbmcgc+G6vSBsw6BtIHThu5F0IGjGoW4gbmfGsOG7nWkgdGnhu4FuIG5oaeG7h20gdG9zaGlZYSBNaXVyYSIK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</last-search>
+      <last-search>sys</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>sys</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -325,6 +328,7 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxTUFw+</entry>
         <entry encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</entry>
+        <entry>sys</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorDeleteLine</entry>
@@ -344,9 +348,9 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <entry>action EditorPageDown</entry>
         <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
