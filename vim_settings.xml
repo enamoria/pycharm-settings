@@ -8,7 +8,6 @@
         <mark key="]" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/syllable2phonemes_dict/vn.dict" timestamp="1563784965505" />
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
       </file>
@@ -20,6 +19,12 @@
       </file>
       <file name="/Python Console" timestamp="1563537869077">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/test_text/trangtay_test" timestamp="1563808711197">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+        <mark key="^" line="0" column="153" />
       </file>
       <file name="/fragment.py" timestamp="1563537979308">
         <mark key="[" line="0" column="0" />
@@ -100,7 +105,7 @@
         <mark key="]" line="415" column="18" />
         <mark key="." line="415" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563537848675">
+      <file name="/Dummy.txt" timestamp="1563808670345">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/trangtay/review_oov_w2s" timestamp="1563269297813">
@@ -280,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/new_dict/trangtay_oov_only.dict&quot;,</text>
+        <text>Zalo</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/new_dict/trangtay_oov_only.dict&quot;,</text>
+        <text>Zalo</text>
       </register>
       <register name="/" type="4">
         <text>sys</text>
