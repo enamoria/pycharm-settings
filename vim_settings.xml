@@ -17,7 +17,7 @@
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_countries_cities" timestamp="1563354079739">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1563537869077">
+      <file name="/Python Console" timestamp="1563868581623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/test_text/trangtay_test" timestamp="1563808711197">
@@ -78,10 +78,6 @@
         <mark key="]" line="39" column="10" />
         <mark key="." line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_acronym_w2s" timestamp="1563243839552">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="20" column="3" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_abbrevs2s_Hieu" timestamp="1563263830485">
         <mark key="[" line="113" column="12" />
         <mark key="]" line="119" column="34" />
@@ -93,6 +89,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/data/data/giaitri/pytorch-G2P-master/main.py" timestamp="1563868582613">
+        <mark key="'" line="155" column="14" />
+      </file>
       <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/genLab_v2.2_oov.py" timestamp="1563537867873">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="386" column="19" />
@@ -100,12 +99,15 @@
         <mark key="^" line="343" column="40" />
         <mark key="." line="343" column="40" />
       </file>
+      <file name="/data/data/giaitri/pytorch-G2P-master/KORDict.py" timestamp="1563868489543">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/anaconda2/lib/python2.7/os.py" timestamp="1548818864779">
         <mark key="[" line="415" column="17" />
         <mark key="]" line="415" column="18" />
         <mark key="." line="415" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563808670345">
+      <file name="/Dummy.txt" timestamp="1563868466362">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/trangtay/review_oov_w2s" timestamp="1563269297813">
@@ -137,6 +139,12 @@
         <mark key="]" line="21" column="3" />
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
+      </file>
+      <file name="/data/data/giaitri/pytorch-G2P-master/build_vocab/data_utils.py" timestamp="1563868659203">
+        <mark key="[" line="129" column="2" />
+        <mark key="]" line="129" column="3" />
+        <mark key="^" line="129" column="3" />
+        <mark key="." line="129" column="3" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/testGenlab.py" timestamp="1548641022301">
         <mark key="[" line="45" column="0" />
@@ -182,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="26" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="164" column="15" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="163" column="8" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="178" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="177" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -282,6 +288,8 @@
       <jump line="406" column="39" filename="/data/workspace/tts/pyGenLab/pyGenLab/genlab/genLab_v2.2_oov.py" />
       <jump line="0" column="0" filename="/data/workspace/tts/pyGenLab/pyGenLab/genlab/genLab_v2.2_oov.py" />
       <jump line="44" column="3" filename="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/word2syllables2phonemes.py" />
+      <jump line="27" column="0" filename="/data/data/giaitri/pytorch-G2P-master/KORDict.py" />
+      <jump line="153" column="14" filename="/data/data/giaitri/pytorch-G2P-master/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,7 +299,7 @@
         <text>Zalo</text>
       </register>
       <register name="/" type="4">
-        <text>sys</text>
+        <text>def</text>
       </register>
       <register name="0" type="4">
         <text />
@@ -336,9 +344,9 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
       </register>
     </registers>
     <search>
-      <last-search>sys</last-search>
+      <last-search>def</last-search>
       <last-offset />
-      <last-pattern>sys</last-pattern>
+      <last-pattern>def</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -352,6 +360,8 @@ andorutkhoi-82|tuy nhiên matxcơva lại có quan điểm khác biệ</text>
         <entry encoding="base64">XDxTUFw+</entry>
         <entry encoding="base64">XDxmcmFtZV9sZW5ndGhcPg==</entry>
         <entry>sys</entry>
+        <entry>class</entry>
+        <entry>def</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorDeleteLine</entry>
