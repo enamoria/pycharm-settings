@@ -14,7 +14,7 @@
         <mark key="^" line="11" column="207" />
         <mark key="." line="11" column="207" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P.py" timestamp="1563942462008">
+      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P.py" timestamp="1563953256892">
         <mark key="[" line="18" column="11" />
         <mark key="]" line="52" column="25" />
         <mark key="^" line="52" column="25" />
@@ -35,7 +35,7 @@
         <mark key="." line="0" column="50" />
         <mark key="^" line="0" column="153" />
       </file>
-      <file name="/Python Console" timestamp="1563944005038">
+      <file name="/Python Console" timestamp="1563954184358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1563943631237">
@@ -47,10 +47,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ZaG2P/DictClass.py" timestamp="1563943812230">
-        <mark key="[" line="65" column="25" />
-        <mark key="]" line="65" column="25" />
-        <mark key="^" line="65" column="25" />
-        <mark key="." line="65" column="25" />
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="64" column="25" />
+        <mark key="^" line="64" column="25" />
+        <mark key="." line="64" column="25" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
@@ -89,12 +89,12 @@
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563180277484">
         <mark key="[" line="66" column="15" />
       </file>
-      <file name="/data/PycharmProjects/ZaG2P/DictClass.py" timestamp="1563943477426">
-        <mark key="'" line="116" column="53" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="117" column="0" />
+      <file name="/data/PycharmProjects/ZaG2P/DictClass.py" timestamp="1563953738765">
+        <mark key="'" line="115" column="53" />
+        <mark key="[" line="53" column="78" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="116" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_abbrevs2s_Hieu" timestamp="1563263830485">
         <mark key="[" line="113" column="12" />
@@ -139,7 +139,7 @@
         <mark key="^" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.7/site-packages/torchtext/data/dataset.py" timestamp="1563944021291" />
+      <file name="$USER_HOME$/anaconda3/lib/python3.7/site-packages/torchtext/data/dataset.py" timestamp="1563953672973" />
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/dict/dictionary.py" timestamp="1548751319856">
         <mark key="[" line="34" column="25" />
         <mark key="]" line="34" column="25" />
@@ -188,10 +188,12 @@
         <mark key="^" line="6456" column="14" />
         <mark key="." line="6456" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P_vi.py" timestamp="1563943839765">
-        <mark key="[" line="179" column="34" />
-        <mark key="]" line="179" column="34" />
-        <mark key="." line="179" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P_vi.py" timestamp="1563954452221">
+        <mark key="'" line="41" column="21" />
+        <mark key="[" line="201" column="15" />
+        <mark key="]" line="201" column="14" />
+        <mark key="." line="201" column="14" />
+        <mark key="^" line="201" column="14" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/__init__.py" timestamp="1548379144510">
         <mark key="[" line="1" column="0" />
@@ -203,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="174" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="175" column="108" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
       <jump line="247" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
@@ -303,6 +304,7 @@
       <jump line="90" column="0" filename="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P/ZaG2P.py" />
       <jump line="115" column="53" filename="/data/PycharmProjects/ZaG2P/DictClass.py" />
       <jump line="29349" column="32" filename="$USER_HOME$/PycharmProjects/ZaG2P/data/cmudict/cmudict.dict" />
+      <jump line="41" column="21" filename="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P_vi.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -351,7 +353,7 @@
         <text encoding="base64">CiAgICAgICAgIyBpZiAiT09WIiBub3QgaW4gd29yZF90YWdzW3Bvc106CiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHN5bGxhYmxlcyA9</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -393,8 +395,8 @@
         <entry>action EditorLineStart</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
