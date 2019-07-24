@@ -8,11 +8,11 @@
         <mark key="]" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P.py" timestamp="1563881103629">
-        <mark key="[" line="189" column="7" />
-        <mark key="]" line="189" column="33" />
-        <mark key="^" line="189" column="33" />
-        <mark key="." line="189" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P.py" timestamp="1563935905692">
+        <mark key="[" line="136" column="52" />
+        <mark key="]" line="99" column="31" />
+        <mark key="^" line="186" column="33" />
+        <mark key="." line="99" column="31" />
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/zz_linhtinhxamlon/zz_linhtinh.py" timestamp="1547437735001">
         <mark key="[" line="29" column="7" />
@@ -29,10 +29,10 @@
         <mark key="." line="0" column="50" />
         <mark key="^" line="0" column="153" />
       </file>
-      <file name="/Python Console" timestamp="1563881105444">
+      <file name="/Python Console" timestamp="1563934846259">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1563882307448">
+      <file name="/fragment.py" timestamp="1563934879236">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -48,12 +48,14 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="/index.ipynb" timestamp="1563934249703">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/04_align_n_qrmf.py" timestamp="1548130589149">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/data/PycharmProjects/ZaG2P/CMUDict.py" timestamp="1563882303569" />
       <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P/models.py" timestamp="1563871022817">
         <mark key="[" line="5" column="2" />
       </file>
@@ -97,6 +99,12 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/ZaG2P/.ipynb_checkpoints/G2P.py" timestamp="1563871077748">
         <mark key="[" line="5" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ZaG2P/models.py" timestamp="1563934774353">
+        <mark key="[" line="113" column="8" />
+        <mark key="]" line="113" column="57" />
+        <mark key="^" line="113" column="57" />
+        <mark key="." line="113" column="57" />
       </file>
       <file name="/data/data/giaitri/pytorch-G2P-master/KORDict.py" timestamp="1563868489543">
         <mark key="'" line="25" column="0" />
@@ -276,10 +284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgoKCiMgSW5bMTddOg==</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>cls</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
