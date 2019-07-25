@@ -116,6 +116,9 @@
       <file name="/data/data/giaitri/pytorch-G2P-master/KORDict.py" timestamp="1563868489543">
         <mark key="'" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/README.md" timestamp="1564025319224">
+        <mark key="[" line="13" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/utils.py" timestamp="1563963005594">
         <mark key="[" line="72" column="8" />
         <mark key="]" line="72" column="24" />
@@ -138,7 +141,7 @@
         <mark key="^" line="325" column="10" />
         <mark key="." line="325" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/16k_dict" timestamp="1563963226032">
+      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/16k_dict" timestamp="1564025340889">
         <mark key="'" line="3928" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_wrong_Hieu" timestamp="1563249478955">
