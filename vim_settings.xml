@@ -51,12 +51,12 @@
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/mydict.dict" timestamp="1564023006706">
-        <mark key="'" line="22323" column="0" />
-        <mark key="[" line="128" column="9" />
-        <mark key="]" line="85" column="8" />
-        <mark key="^" line="85" column="8" />
-        <mark key="." line="85" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/mydict.dict" timestamp="1564029249704">
+        <mark key="'" line="21706" column="23" />
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="303" column="12" />
+        <mark key="^" line="303" column="12" />
+        <mark key="." line="303" column="12" />
       </file>
       <file name="/index.ipynb" timestamp="1563934249703">
         <mark key="[" line="0" column="0" />
@@ -116,8 +116,11 @@
       <file name="/data/data/giaitri/pytorch-G2P-master/KORDict.py" timestamp="1563868489543">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/README.md" timestamp="1564025319224">
-        <mark key="[" line="13" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/README.md" timestamp="1564028882350">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="12" column="108" />
+        <mark key="^" line="12" column="108" />
+        <mark key="." line="12" column="108" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/utils.py" timestamp="1563963005594">
         <mark key="[" line="72" column="8" />
@@ -141,8 +144,8 @@
         <mark key="^" line="325" column="10" />
         <mark key="." line="325" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/16k_dict" timestamp="1564025340889">
-        <mark key="'" line="3928" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/16k_dict" timestamp="1564028613027">
+        <mark key="'" line="12800" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_wrong_Hieu" timestamp="1563249478955">
         <mark key="[" line="17" column="9" />
@@ -202,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/01_make_dict.py" />
-      <jump line="120" column="4" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" />
       <jump line="132" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" />
       <jump line="119" column="0" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" />
       <jump line="124" column="9" filename="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_neural.py" />
@@ -302,13 +303,15 @@
       <jump line="43" column="23" filename="$USER_HOME$/PycharmProjects/tts_dictionaries/xxx" />
       <jump line="18266" column="8" filename="$USER_HOME$/PycharmProjects/tts_dictionaries/xxx" />
       <jump line="3928" column="12" filename="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/16k_dict" />
+      <jump line="21712" column="23" filename="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/mydict.dict" />
+      <jump line="12800" column="13" filename="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/16k_dict" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>á</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>á</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
@@ -350,7 +353,7 @@
         <text encoding="base64">CiAgICAjIHdpdGggb3BlbigiL2hvbWUvZW5hbW9yaWEvRGVza3RvcC94eHgiLCAidyIpIGFzIGY6CiAgICAjICAgICBmb3IgbGluZSBpbiBjaHVua190YWdzOgogICAgIyAgICAgICAgICMgcHJpbnQoIlx0Ii5qb2luKFt1bmljb2RlKHgpIGZvciB4IGluIGxpbmVdKSkKICAgICMgICAgICAgICBmLndyaXRlKCJcdCIuam9pbihbdW5pY29kZSh4KSBmb3IgeCBpbiBsaW5lXSkuZW5jb2RlKCJVVEYtOCIpICsgIlxuIikKICAgICMgcHJpbnQod29yZHMpCiAgICAjIHByaW50KCIgIi5qb2luKFt3b3JkLnJlcGxhY2UoIiAiLCAiXyIpIGZvciB3b3JkIGluIHdvcmRzXSkpCiAgICAjIHByaW50KHdvcmRfdGFncykKICAgICMgcHJpbnQoY2h1bmtfdGFncyk=</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -374,7 +377,6 @@
         <entry>def</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorDeleteLine</entry>
         <entry>action Vcs.QuickListPopupAction</entry>
         <entry>action EditorPageUpWithSelection</entry>
         <entry>action Find</entry>
@@ -394,6 +396,7 @@
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
