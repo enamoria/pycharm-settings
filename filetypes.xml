@@ -5,12 +5,12 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="README" type="Markdown" />
-      <mapping pattern="oov_borrow_words" type="PLAIN_TEXT" />
       <mapping pattern="oov_wrong_Hieu" type="PLAIN_TEXT" />
       <mapping pattern="oov_abbrevs2p" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="pronounce_mapping" type="PLAIN_TEXT" />
       <mapping pattern="initial" type="PLAIN_TEXT" />
+      <mapping pattern="oov_borrow_words" type="PLAIN_TEXT" />
       <mapping pattern="reference_buffer" type="PLAIN_TEXT" />
       <mapping pattern="word2syllables" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
