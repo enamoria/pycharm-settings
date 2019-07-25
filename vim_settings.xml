@@ -30,6 +30,15 @@
         <mark key="." line="0" column="50" />
         <mark key="^" line="0" column="153" />
       </file>
+      <file name="/Python Console" timestamp="1563964057286">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1563964107236">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="/a.dummy" timestamp="1563938393694">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,6 +50,19 @@
       </file>
       <file name="/mnt/705AD0235ACFE446/Dropbox/linhtinhproject/exemplar_vc/02_freq_warping_DFW.py" timestamp="1545017424838">
         <mark key="[" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/mydict.dict" timestamp="1564023006706">
+        <mark key="'" line="22323" column="0" />
+        <mark key="[" line="128" column="9" />
+        <mark key="]" line="85" column="8" />
+        <mark key="^" line="85" column="8" />
+        <mark key="." line="85" column="8" />
+      </file>
+      <file name="/index.ipynb" timestamp="1563934249703">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P/models.py" timestamp="1563871022817">
+        <mark key="[" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/final_dicts/oov_english_w2s" timestamp="1563528022335">
         <mark key="[" line="1012" column="13" />
@@ -57,8 +79,18 @@
         <mark key="^" line="33" column="115" />
         <mark key="." line="33" column="115" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563180277484">
+        <mark key="[" line="66" column="15" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/list_initial_and_rhythm/initial" timestamp="1563956739911">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="/data/PycharmProjects/ZaG2P/DictClass.py" timestamp="1563953738765">
+        <mark key="'" line="115" column="53" />
+        <mark key="[" line="53" column="78" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="116" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_abbrevs2s_Hieu" timestamp="1563263830485">
         <mark key="[" line="113" column="12" />
@@ -69,74 +101,17 @@
       <file name="/data/data/giaitri/pytorch-G2P-master/main.py" timestamp="1563868582613">
         <mark key="'" line="155" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ZaG2P/models.py" timestamp="1563934774353">
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="57" />
-        <mark key="^" line="113" column="57" />
-        <mark key="." line="113" column="57" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.7/site-packages/torchtext/data/dataset.py" timestamp="1563953672973" />
-      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/list_initial_and_rhythm/rhythm" timestamp="1563956722232">
-        <mark key="'" line="229" column="10" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="325" column="10" />
-        <mark key="^" line="325" column="10" />
-        <mark key="." line="325" column="10" />
-      </file>
-      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
-        <mark key="[" line="9799" column="81" />
-      </file>
-      <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/vn.dict" timestamp="1563764518729">
-        <mark key="[" line="6456" column="5" />
-        <mark key="]" line="6456" column="14" />
-        <mark key="^" line="6456" column="14" />
-        <mark key="." line="6456" column="14" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P_vi.py" timestamp="1563954452221">
-        <mark key="'" line="41" column="21" />
-        <mark key="[" line="201" column="15" />
-        <mark key="]" line="201" column="14" />
-        <mark key="." line="201" column="14" />
-        <mark key="^" line="201" column="14" />
-      </file>
-      <file name="/Python Console" timestamp="1563964057286">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1563964107236">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/mydict.dict" timestamp="1563964607666">
-        <mark key="'" line="22322" column="0" />
-        <mark key="[" line="85" column="3" />
-        <mark key="]" line="85" column="8" />
-        <mark key="^" line="85" column="8" />
-        <mark key="." line="85" column="8" />
-      </file>
-      <file name="/index.ipynb" timestamp="1563934249703">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P/models.py" timestamp="1563871022817">
-        <mark key="[" line="5" column="2" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/xxx" timestamp="1563964416401" />
-      <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/oov_english_w2s" timestamp="1563180277484">
-        <mark key="[" line="66" column="15" />
-      </file>
-      <file name="/data/PycharmProjects/ZaG2P/DictClass.py" timestamp="1563953738765">
-        <mark key="'" line="115" column="53" />
-        <mark key="[" line="53" column="78" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="116" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/ZaG2P/.ipynb_checkpoints/G2P.py" timestamp="1563871077748">
         <mark key="[" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ZaG2P/data/cmudict/cmudict.dict" timestamp="1563943929774">
         <mark key="'" line="29349" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ZaG2P/models.py" timestamp="1563934774353">
+        <mark key="[" line="113" column="8" />
+        <mark key="]" line="113" column="57" />
+        <mark key="^" line="113" column="57" />
+        <mark key="." line="113" column="57" />
       </file>
       <file name="/data/data/giaitri/pytorch-G2P-master/KORDict.py" timestamp="1563868489543">
         <mark key="'" line="25" column="0" />
@@ -156,11 +131,21 @@
         <mark key="^" line="32" column="5" />
         <mark key="." line="32" column="5" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/list_initial_and_rhythm/rhythm" timestamp="1563956722232">
+        <mark key="'" line="229" column="10" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="325" column="10" />
+        <mark key="^" line="325" column="10" />
+        <mark key="." line="325" column="10" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/tts_dictionaries/final_dicts/syllable2phonemes_dict/16k_dict" timestamp="1563963226032">
         <mark key="'" line="3928" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_wrong_Hieu" timestamp="1563249478955">
         <mark key="[" line="17" column="9" />
+      </file>
+      <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/oov-test-leyen.txt" timestamp="1548898672529">
+        <mark key="[" line="9799" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/list_initial_and_rhythm/rhythm" timestamp="1563782888359">
         <mark key="[" line="21" column="2" />
@@ -195,6 +180,19 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/oov_dict_Hieu/Hieu/oov_borrow_word" timestamp="1563252553929">
         <mark key="[" line="19" column="13" />
+      </file>
+      <file name="/data/workspace/tts/pyGenLab/pyGenLab/genlab/dict/vn.dict" timestamp="1563764518729">
+        <mark key="[" line="6456" column="5" />
+        <mark key="]" line="6456" column="14" />
+        <mark key="^" line="6456" column="14" />
+        <mark key="." line="6456" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ZaG2P/ZaG2P_vi.py" timestamp="1563954452221">
+        <mark key="'" line="41" column="21" />
+        <mark key="[" line="201" column="15" />
+        <mark key="]" line="201" column="14" />
+        <mark key="." line="201" column="14" />
+        <mark key="^" line="201" column="14" />
       </file>
       <file name="/mnt/705AD0235ACFE446/kinhph/workspace/pyGenLab/genlab/xxx/baotrungquocnhandinh-14.lab" timestamp="1548751045849">
         <mark key="[" line="7" column="7" />
