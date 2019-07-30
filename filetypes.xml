@@ -11,6 +11,7 @@
       <mapping pattern="pronounce_mapping" type="PLAIN_TEXT" />
       <mapping pattern="initial" type="PLAIN_TEXT" />
       <mapping pattern="oov_borrow_words" type="PLAIN_TEXT" />
+      <mapping pattern="oov_football_refined" type="PLAIN_TEXT" />
       <mapping pattern="reference_buffer" type="PLAIN_TEXT" />
       <mapping pattern="word2syllables" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
