@@ -31,6 +31,7 @@
       <mapping pattern="phone_map" type="PLAIN_TEXT" />
       <mapping pattern="oov-test-mini-leyen" type="PLAIN_TEXT" />
       <mapping pattern="new_vidic" type="PLAIN_TEXT" />
+      <mapping pattern="footbal_teams" type="PLAIN_TEXT" />
       <mapping pattern="demo_text" type="PLAIN_TEXT" />
       <mapping pattern="english_58000_words" type="PLAIN_TEXT" />
       <mapping pattern="word_list" type="PLAIN_TEXT" />
