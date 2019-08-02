@@ -26,6 +26,7 @@
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="16k_dict" type="PLAIN_TEXT" />
       <mapping pattern="reference_pyGenLab" type="PLAIN_TEXT" />
+      <mapping pattern="cprofile_output" type="PLAIN_TEXT" />
       <mapping pattern="ipa_train" type="PLAIN_TEXT" />
       <mapping pattern="cap_huyen" type="PLAIN_TEXT" />
       <mapping pattern="phone_map" type="PLAIN_TEXT" />
