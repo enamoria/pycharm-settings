@@ -61,6 +61,7 @@
       <mapping pattern="ipa_toy" type="PLAIN_TEXT" />
       <mapping ext="dict_with_oov" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
+      <mapping ext="dict_g2p_1_4" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="lab" type="PLAIN_TEXT" />
       <mapping ext="bap" type="PLAIN_TEXT" />
