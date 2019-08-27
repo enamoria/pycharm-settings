@@ -8,7 +8,6 @@
       <mapping pattern="oov_wrong_Hieu" type="PLAIN_TEXT" />
       <mapping pattern="oov_abbrevs2p" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="pronounce_mapping" type="PLAIN_TEXT" />
       <mapping pattern="initial" type="PLAIN_TEXT" />
       <mapping pattern="oov_borrow_words" type="PLAIN_TEXT" />
@@ -48,6 +47,7 @@
       <mapping pattern="word_with_pronounciation" type="PLAIN_TEXT" />
       <mapping pattern="demo_corpus" type="PLAIN_TEXT" />
       <mapping pattern="oov_english_w2s_1" type="PLAIN_TEXT" />
+      <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="VietCompoundWord_from_wikinatory" type="PLAIN_TEXT" />
       <mapping pattern="oov_acronym_w2s" type="PLAIN_TEXT" />
