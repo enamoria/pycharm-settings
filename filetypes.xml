@@ -65,6 +65,7 @@
       <mapping ext="dict_g2p_1_4" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="syllables" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="lab" type="PLAIN_TEXT" />
       <mapping ext="bap" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
