@@ -37,6 +37,7 @@
       <mapping pattern="demo_text" type="PLAIN_TEXT" />
       <mapping pattern="english_58000_words" type="PLAIN_TEXT" />
       <mapping pattern="word_list" type="PLAIN_TEXT" />
+      <mapping pattern="test_vlsp_small_normed" type="PLAIN_TEXT" />
       <mapping pattern="VietProperNoun" type="PLAIN_TEXT" />
       <mapping pattern="oov_proper_noun" type="PLAIN_TEXT" />
       <mapping pattern="phone_counter" type="PLAIN_TEXT" />
