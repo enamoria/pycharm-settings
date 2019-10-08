@@ -62,6 +62,7 @@
       <mapping pattern="oov_borrow_word" type="PLAIN_TEXT" />
       <mapping pattern="all_words_no_duplicated" type="PLAIN_TEXT" />
       <mapping pattern="ipa_toy" type="PLAIN_TEXT" />
+      <mapping pattern="phone_vn_north" type="PLAIN_TEXT" />
       <mapping ext="dict_with_oov" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
