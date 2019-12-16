@@ -42,6 +42,7 @@
       <mapping pattern="VietProperNoun" type="PLAIN_TEXT" />
       <mapping pattern="oov_proper_noun" type="PLAIN_TEXT" />
       <mapping pattern="phone_counter" type="PLAIN_TEXT" />
+      <mapping pattern="oov" type="PLAIN_TEXT" />
       <mapping pattern="dantri-categories" type="PLAIN_TEXT" />
       <mapping pattern="trangtay" type="PLAIN_TEXT" />
       <mapping pattern="baochi_all" type="PLAIN_TEXT" />
