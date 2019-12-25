@@ -19,6 +19,7 @@
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="reference" type="PLAIN_TEXT" />
       <mapping pattern="word_with_pronounciation_oxford" type="PLAIN_TEXT" />
+      <mapping pattern="glossary" type="PLAIN_TEXT" />
       <mapping pattern="text_11k" type="PLAIN_TEXT" />
       <mapping pattern="wiki_all" type="PLAIN_TEXT" />
       <mapping pattern="oov_english_w2p" type="PLAIN_TEXT" />
