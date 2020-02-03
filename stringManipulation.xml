@@ -4,6 +4,7 @@
       <SortSettings>
         <option name="baseComparator" value="LOCALE_COLLATOR" />
         <option name="collatorLanguageTag" value="vi_VN" />
+        <option name="sortType" value="LINE_LENGTH_SHORT_LONG" />
       </SortSettings>
     </option>
   </component>
