@@ -6,7 +6,6 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="scaden" type="PLAIN_TEXT" />
-      <mapping pattern="g2p_data_for_paper" type="PLAIN_TEXT" />
       <mapping pattern="oov_wrong_Hieu" type="PLAIN_TEXT" />
       <mapping pattern="oov_abbrevs2p" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
@@ -45,6 +44,7 @@
       <mapping pattern="oov_proper_noun" type="PLAIN_TEXT" />
       <mapping pattern="phone_counter" type="PLAIN_TEXT" />
       <mapping pattern="oov" type="PLAIN_TEXT" />
+      <mapping pattern="g2p_data_for_paper" type="PLAIN_TEXT" />
       <mapping pattern="dantri-categories" type="PLAIN_TEXT" />
       <mapping pattern="trangtay" type="PLAIN_TEXT" />
       <mapping pattern="baochi_all" type="PLAIN_TEXT" />
