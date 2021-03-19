@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="space" type="PLAIN_TEXT" />
+      <mapping pattern="trance-cosmic-flux" type="PLAIN_TEXT" />
       <mapping pattern="server_info" type="PLAIN_TEXT" />
       <mapping pattern="vc_general_queue" type="PLAIN_TEXT" />
     </extensionMap>
